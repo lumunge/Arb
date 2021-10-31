@@ -1,0 +1,7 @@
+INSERT INTO COMBINED TABLE FROM ALL TABLES
+
+INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, time) 
+SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, sp.start_time 
+FROM sportpesaPremierLeague sp, betikaPremierLeague as btk, bet22PremierLeague as btt 
+WHERE sp.home_team=btk.home_team
+AND sp.home_team=btt.home_team;
