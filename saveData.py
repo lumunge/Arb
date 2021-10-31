@@ -10,6 +10,10 @@ def formatString(str):
     return trimmedStr.lower()
 
 
+def formatDate(date):
+    return date[5:16]
+
+
 # create records
 def createSPPLRecord(conn, record):
     sportpesasql = """INSERT OR IGNORE INTO sportpesaPremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd, start_time) VALUES(?, ?, ?, ?, ?, ?)"""
@@ -75,7 +79,7 @@ def saveSportPesaPL():
                 i["markets"][0]["selections"][0]["odds"],
                 i["markets"][0]["selections"][1]["odds"],
                 i["markets"][0]["selections"][2]["odds"],
-                i["date"],
+                formatDate(i["date"]),
             )
             createSPPLRecord(conn, record)
     f.close()
