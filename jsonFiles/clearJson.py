@@ -9,10 +9,11 @@ jsonFiles = [
     "1xbetPremierLeague.json",
 ]
 
-for i in range(len(jsonFiles)):
-    returnedVal = subprocess.call(f": > {jsonFiles[i]}", shell=True)
-    print(returnedVal)
+
+def clearJsonFiles():
+    for i in range(len(jsonFiles)):
+        returnedVal = subprocess.call(f": > {jsonFiles[i]}", shell=True)
+        print(returnedVal)
 
 
-# def test():
-#     print("clearing json files...")
+clearJsonFiles()
