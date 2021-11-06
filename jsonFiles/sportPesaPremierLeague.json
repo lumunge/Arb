@@ -1,9 +1,5 @@
 [
     {
-<<<<<<< HEAD
-        "betgeniusId": 8350121,
-        "betradarId": 27751250,
-=======
         "betgeniusId": 8172643,
         "betradarId": 27751268,
         "competition": {
@@ -39,21 +35,21 @@
                     {
                         "id": 2242795243,
                         "name": "Southampton",
-                        "odds": "2.12",
+                        "odds": "1.99",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242795245,
                         "name": "Draw",
-                        "odds": "3.51",
+                        "odds": "3.68",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2242795275,
                         "name": "Aston Villa",
-                        "odds": "3.36",
+                        "odds": "3.58",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -104,21 +100,21 @@
                     {
                         "id": 2242792237,
                         "name": "Manchester Utd",
-                        "odds": "4.06",
+                        "odds": "4.24",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242792239,
                         "name": "Draw",
-                        "odds": "3.82",
+                        "odds": "3.95",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2242792241,
                         "name": "Manchester City",
-                        "odds": "1.83",
+                        "odds": "1.77",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -169,21 +165,21 @@
                     {
                         "id": 2242794167,
                         "name": "Brentford",
-                        "odds": "1.60",
+                        "odds": "1.61",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242794171,
                         "name": "Draw",
-                        "odds": "3.93",
+                        "odds": "3.90",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2242794189,
                         "name": "Norwich City",
-                        "odds": "5.65",
+                        "odds": "5.61",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -201,7 +197,6 @@
     {
         "betgeniusId": 8172639,
         "betradarId": 27751260,
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
         "competition": {
             "id": 67600,
             "name": "Premier League"
@@ -235,21 +230,21 @@
                     {
                         "id": 2242797221,
                         "name": "Crystal Palace",
-                        "odds": "2.45",
+                        "odds": "2.46",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242797225,
                         "name": "Draw",
-                        "odds": "3.17",
+                        "odds": "3.11",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2242797267,
                         "name": "Wolverhampton",
-                        "odds": "3.02",
+                        "odds": "3.06",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -298,39 +293,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2209756109,
-                        "name": "Wolverhampton",
-                        "odds": "2.24",
-=======
                         "id": 2242881667,
                         "name": "Chelsea",
                         "odds": "1.27",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242881671,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.21",
-=======
-                        "odds": "5.61",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "5.64",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2209756123,
-                        "name": "Everton",
-                        "odds": "3.36",
-=======
                         "id": 2242881711,
                         "name": "Burnley",
-                        "odds": "11.02",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "11.08",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -379,39 +358,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242795243,
-                        "name": "Southampton",
-                        "odds": "2.17",
-=======
                         "id": 2242795851,
                         "name": "Brighton",
-                        "odds": "1.65",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "1.61",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242795853,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.47",
-=======
-                        "odds": "3.87",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "3.98",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242795275,
-                        "name": "Aston Villa",
-                        "odds": "3.27",
-=======
                         "id": 2242795855,
                         "name": "Newcastle",
-                        "odds": "5.23",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "5.44",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -460,39 +423,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242792237,
-                        "name": "Manchester Utd",
-                        "odds": "4.15",
-=======
                         "id": 2242796265,
                         "name": "Leeds",
                         "odds": "2.72",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242796269,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.75",
-=======
-                        "odds": "3.47",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "3.53",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242792241,
-                        "name": "Manchester City",
-                        "odds": "1.83",
-=======
                         "id": 2242796295,
                         "name": "Leicester",
-                        "odds": "2.51",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "2.48",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -541,39 +488,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242794167,
-                        "name": "Brentford",
-                        "odds": "1.59",
-=======
                         "id": 2242797607,
                         "name": "Everton",
-                        "odds": "2.85",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "3.02",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242797677,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.91",
-=======
-                        "odds": "3.20",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "3.22",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242794189,
-                        "name": "Norwich City",
-                        "odds": "5.82",
-=======
                         "id": 2242797743,
                         "name": "Tottenham",
-                        "odds": "2.55",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "2.42",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -622,39 +553,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242797221,
-                        "name": "Crystal Palace",
-                        "odds": "2.46",
-=======
                         "id": 2242798699,
                         "name": "Arsenal",
-                        "odds": "1.47",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "1.44",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242798703,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.11",
-=======
-                        "odds": "4.51",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "4.70",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242797267,
-                        "name": "Wolverhampton",
-                        "odds": "3.06",
-=======
                         "id": 2242798705,
                         "name": "Watford",
-                        "odds": "6.58",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "6.77",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -703,39 +618,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242881667,
-                        "name": "Chelsea",
-                        "odds": "1.24",
-=======
                         "id": 2242799685,
                         "name": "West Ham",
-                        "odds": "4.53",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "4.22",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2242799687,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "6.01",
-=======
-                        "odds": "4.12",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "4.22",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242881711,
-                        "name": "Burnley",
-                        "odds": "12.02",
-=======
                         "id": 2242799691,
                         "name": "Liverpool",
-                        "odds": "1.69",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "1.72",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -784,39 +683,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-<<<<<<< HEAD
-                        "id": 2242795851,
-                        "name": "Brighton",
-                        "odds": "1.72",
-=======
                         "id": 2277627127,
                         "name": "Leicester",
-                        "odds": "4.33",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "4.41",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277627125,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.77",
-=======
-                        "odds": "3.63",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "3.61",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-<<<<<<< HEAD
-                        "id": 2242795855,
-                        "name": "Newcastle",
-                        "odds": "4.82",
-=======
                         "id": 2277627121,
                         "name": "Chelsea",
-                        "odds": "1.82",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
+                        "odds": "1.81",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -867,397 +750,14 @@
                     {
                         "id": 2277615687,
                         "name": "Burnley",
-                        "odds": "2.60",
+                        "odds": "2.61",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277615733,
                         "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.47",
-=======
-                        "odds": "3.25",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-<<<<<<< HEAD
-                        "id": 2242796295,
-                        "name": "Leicester",
-                        "odds": "2.39",
-=======
-                        "id": 2277615765,
-                        "name": "Crystal Palace",
-                        "odds": "2.75",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 3697,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27751288,
-        "competition": {
-            "id": 67600,
-            "name": "Premier League"
-        },
-        "competitors": [
-            {
-                "id": 43,
-                "name": "Watford"
-            },
-            {
-                "id": 8,
-                "name": "Manchester Utd"
-            }
-        ],
-        "country": {
-            "id": 61,
-            "iso": "eng",
-            "name": "England"
-        },
-        "date": "2021-11-20T15:00:00.000Z",
-        "dateTimestamp": 1637420400000,
-        "hasCustomBet": 0,
-        "id": 3336661,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-<<<<<<< HEAD
-                        "id": 2242797607,
-                        "name": "Everton",
-                        "odds": "2.66",
-=======
-                        "id": 2277618545,
-                        "name": "Watford",
-                        "odds": "5.85",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277618591,
-                        "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "3.16",
-=======
-                        "odds": "4.43",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-<<<<<<< HEAD
-                        "id": 2242797743,
-                        "name": "Tottenham",
-                        "odds": "2.76",
-=======
-                        "id": 2277618635,
-                        "name": "Manchester Utd",
-                        "odds": "1.52",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 1321,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27751284,
-        "competition": {
-            "id": 67600,
-            "name": "Premier League"
-        },
-        "competitors": [
-            {
-                "id": 10,
-                "name": "Norwich City"
-            },
-            {
-                "id": 13,
-                "name": "Southampton"
-            }
-        ],
-        "country": {
-            "id": 61,
-            "iso": "eng",
-            "name": "England"
-        },
-        "date": "2021-11-20T15:00:00.000Z",
-        "dateTimestamp": 1637420400000,
-        "hasCustomBet": 0,
-        "id": 3336665,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-<<<<<<< HEAD
-                        "id": 2242798699,
-                        "name": "Arsenal",
-                        "odds": "1.46",
-=======
-                        "id": 2277621403,
-                        "name": "Norwich City",
-                        "odds": "3.72",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277621427,
-                        "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "4.52",
-=======
-                        "odds": "3.52",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-<<<<<<< HEAD
-                        "id": 2242798705,
-                        "name": "Watford",
-                        "odds": "6.77",
-=======
-                        "id": 2277621479,
-                        "name": "Southampton",
-                        "odds": "1.99",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 4494,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27751272,
-        "competition": {
-            "id": 67600,
-            "name": "Premier League"
-        },
-        "competitors": [
-            {
-                "id": 2,
-                "name": "Aston Villa"
-            },
-            {
-                "id": 26,
-                "name": "Brighton"
-            }
-        ],
-        "country": {
-            "id": 61,
-            "iso": "eng",
-            "name": "England"
-        },
-        "date": "2021-11-20T15:00:00.000Z",
-        "dateTimestamp": 1637420400000,
-        "hasCustomBet": 0,
-        "id": 3336677,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-<<<<<<< HEAD
-                        "id": 2242799685,
-                        "name": "West Ham",
-                        "odds": "4.61",
-=======
-                        "id": 2277625857,
-                        "name": "Aston Villa",
-                        "odds": "2.55",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277625879,
-                        "name": "Draw",
-<<<<<<< HEAD
-                        "odds": "4.21",
-=======
-                        "odds": "3.20",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-<<<<<<< HEAD
-                        "id": 2242799691,
-                        "name": "Liverpool",
-                        "odds": "1.66",
-=======
-                        "id": 2277625895,
-                        "name": "Brighton",
-                        "odds": "2.85",
->>>>>>> 2fed8bfd3646dd8d33ba6638f962707e58046cc3
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 4743,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27751276,
-        "competition": {
-            "id": 67600,
-            "name": "Premier League"
-        },
-        "competitors": [
-            {
-                "id": 37,
-                "name": "Leicester"
-            },
-            {
-                "id": 3,
-                "name": "Chelsea"
-            }
-        ],
-        "country": {
-            "id": 61,
-            "iso": "eng",
-            "name": "England"
-        },
-        "date": "2021-11-20T12:30:00.000Z",
-        "dateTimestamp": 1637411400000,
-        "hasCustomBet": 0,
-        "id": 3336679,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2277627127,
-                        "name": "Leicester",
-                        "odds": "4.32",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277627125,
-                        "name": "Draw",
-                        "odds": "3.62",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277627121,
-                        "name": "Chelsea",
-                        "odds": "1.83",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 1871,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27751274,
-        "competition": {
-            "id": 67600,
-            "name": "Premier League"
-        },
-        "competitors": [
-            {
-                "id": 28,
-                "name": "Burnley"
-            },
-            {
-                "id": 31,
-                "name": "Crystal Palace"
-            }
-        ],
-        "country": {
-            "id": 61,
-            "iso": "eng",
-            "name": "England"
-        },
-        "date": "2021-11-20T15:00:00.000Z",
-        "dateTimestamp": 1637420400000,
-        "hasCustomBet": 0,
-        "id": 3336657,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2277615687,
-                        "name": "Burnley",
-                        "odds": "2.57",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2277615733,
-                        "name": "Draw",
-                        "odds": "3.28",
+                        "odds": "3.22",
                         "shortName": "X",
                         "specValue": 0
                     },
@@ -1315,21 +815,21 @@
                     {
                         "id": 2277618545,
                         "name": "Watford",
-                        "odds": "5.87",
+                        "odds": "6.21",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277618591,
                         "name": "Draw",
-                        "odds": "4.45",
+                        "odds": "4.51",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277618635,
                         "name": "Manchester Utd",
-                        "odds": "1.52",
+                        "odds": "1.49",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1380,21 +880,21 @@
                     {
                         "id": 2277621403,
                         "name": "Norwich City",
-                        "odds": "3.67",
+                        "odds": "3.77",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277621427,
                         "name": "Draw",
-                        "odds": "3.62",
+                        "odds": "3.47",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277621479,
                         "name": "Southampton",
-                        "odds": "1.98",
+                        "odds": "1.99",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1403,6 +903,71 @@
         ],
         "marketsCount": 22,
         "smsId": 4494,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27751272,
+        "competition": {
+            "id": 67600,
+            "name": "Premier League"
+        },
+        "competitors": [
+            {
+                "id": 2,
+                "name": "Aston Villa"
+            },
+            {
+                "id": 26,
+                "name": "Brighton"
+            }
+        ],
+        "country": {
+            "id": 61,
+            "iso": "eng",
+            "name": "England"
+        },
+        "date": "2021-11-20T15:00:00.000Z",
+        "dateTimestamp": 1637420400000,
+        "hasCustomBet": 0,
+        "id": 3336677,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277625857,
+                        "name": "Aston Villa",
+                        "odds": "2.58",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277625879,
+                        "name": "Draw",
+                        "odds": "3.19",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277625895,
+                        "name": "Brighton",
+                        "odds": "2.83",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4743,
         "sport": {
             "id": 1,
             "name": "Football"
