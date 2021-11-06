@@ -1664,4 +1664,3216 @@
         "total": "20"
     },
     "time_elapsed_secs": 0.075517177581787
+}{
+    "data": [
+        {
+            "away_odd": "1.80",
+            "away_team": "MAN CITY",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "270283",
+            "home_odd": "4.50",
+            "home_team": "MAN UTD",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670144",
+            "neutral_odd": "4.20",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "MAN UTD",
+                            "odd_value": "4.50",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.20",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "MAN CITY",
+                            "odd_value": "1.80",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751266",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 15:30:00"
+        },
+        {
+            "away_odd": "3.30",
+            "away_team": "Wolves",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "35921",
+            "home_odd": "2.49",
+            "home_team": "Crystal Palace",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2608394",
+            "neutral_odd": "3.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Crystal Palace",
+                            "odd_value": "2.49",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Wolves",
+                            "odd_value": "3.30",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751260",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "5.40",
+            "away_team": "Norwich",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "68133",
+            "home_odd": "1.72",
+            "home_team": "Brentford",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670132",
+            "neutral_odd": "3.95",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Brentford",
+                            "odd_value": "1.72",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.95",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Norwich",
+                            "odd_value": "5.40",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751254",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "13.00",
+            "away_team": "BURNLEY",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "13455",
+            "home_odd": "1.29",
+            "home_team": "CHELSEA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670142",
+            "neutral_odd": "5.60",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "CHELSEA",
+                            "odd_value": "1.29",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.60",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BURNLEY",
+                            "odd_value": "13.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751258",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "6.20",
+            "away_team": "NEWCASTLE",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "10612",
+            "home_odd": "1.58",
+            "home_team": "BRIGHTON",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670145",
+            "neutral_odd": "4.30",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BRIGHTON",
+                            "odd_value": "1.58",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.30",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "NEWCASTLE",
+                            "odd_value": "6.20",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751256",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 20:30:00"
+        },
+        {
+            "away_odd": "2.50",
+            "away_team": "Leicester",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "91343",
+            "home_odd": "2.80",
+            "home_team": "Leeds",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670187",
+            "neutral_odd": "3.45",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Leeds",
+                            "odd_value": "2.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.45",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Leicester",
+                            "odd_value": "2.50",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751264",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "2.43",
+            "away_team": "TOTTENHAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "54289",
+            "home_odd": "3.15",
+            "home_team": "Everton",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670146",
+            "neutral_odd": "3.20",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Everton",
+                            "odd_value": "3.15",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.20",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "2.43",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751262",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "7.60",
+            "away_team": "WATFORD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "86172",
+            "home_odd": "1.41",
+            "home_team": "Arsenal",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670219",
+            "neutral_odd": "5.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Arsenal",
+                            "odd_value": "1.41",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "WATFORD",
+                            "odd_value": "7.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751252",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "1.78",
+            "away_team": "LIVERPOOL",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "90952",
+            "home_odd": "4.40",
+            "home_team": "WEST HAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670170",
+            "neutral_odd": "4.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "WEST HAM",
+                            "odd_value": "4.40",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.78",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751270",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 19:30:00"
+        },
+        {
+            "away_odd": "1.78",
+            "away_team": "CHELSEA",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "12922",
+            "home_odd": "4.60",
+            "home_team": "Leicester",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700053",
+            "neutral_odd": "3.60",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Leicester",
+                            "odd_value": "4.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.60",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "CHELSEA",
+                            "odd_value": "1.78",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751276",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 15:30:00"
+        },
+        {
+            "away_odd": "2.49",
+            "away_team": "Brentford",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "47308",
+            "home_odd": "2.95",
+            "home_team": "NEWCASTLE",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700007",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "NEWCASTLE",
+                            "odd_value": "2.95",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Brentford",
+                            "odd_value": "2.49",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751282",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.47",
+            "away_team": "WEST HAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "11399",
+            "home_odd": "3.00",
+            "home_team": "Wolves",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700010",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Wolves",
+                            "odd_value": "3.00",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "WEST HAM",
+                            "odd_value": "2.47",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751290",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "1.97",
+            "away_team": "SOUTHAMPTON",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "55721",
+            "home_odd": "3.85",
+            "home_team": "Norwich",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700015",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Norwich",
+                            "odd_value": "3.85",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "SOUTHAMPTON",
+                            "odd_value": "1.97",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751284",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.80",
+            "away_team": "Crystal Palace",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "26295",
+            "home_odd": "2.60",
+            "home_team": "BURNLEY",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700032",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BURNLEY",
+                            "odd_value": "2.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Crystal Palace",
+                            "odd_value": "2.80",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751274",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "1.44",
+            "away_team": "MAN UTD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "55356",
+            "home_odd": "6.80",
+            "home_team": "WATFORD",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700036",
+            "neutral_odd": "4.80",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "WATFORD",
+                            "odd_value": "6.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.80",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "MAN UTD",
+                            "odd_value": "1.44",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751288",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.85",
+            "away_team": "BRIGHTON",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "21454",
+            "home_odd": "2.60",
+            "home_team": "Aston Villa",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700051",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Aston Villa",
+                            "odd_value": "2.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BRIGHTON",
+                            "odd_value": "2.85",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751272",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "6.60",
+            "away_team": "Arsenal",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "57216",
+            "home_odd": "1.44",
+            "home_team": "LIVERPOOL",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700018",
+            "neutral_odd": "4.90",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.44",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.90",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Arsenal",
+                            "odd_value": "6.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751278",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 20:30:00"
+        },
+        {
+            "away_odd": "14.00",
+            "away_team": "Everton",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "90071",
+            "home_odd": "1.20",
+            "home_team": "MAN CITY",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700022",
+            "neutral_odd": "6.80",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "MAN CITY",
+                            "odd_value": "1.20",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "6.80",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Everton",
+                            "odd_value": "14.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751280",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 17:00:00"
+        },
+        {
+            "away_odd": "4.30",
+            "away_team": "Leeds",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "44169",
+            "home_odd": "1.82",
+            "home_team": "TOTTENHAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2533153",
+            "neutral_odd": "3.65",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "1.82",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.65",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Leeds",
+                            "odd_value": "4.30",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751286",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 19:30:00"
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "current_tab": [
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "filters": [
+            {
+                "name": "1x2 / Winner",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "28",
+                    "29",
+                    "30",
+                    "33",
+                    "35",
+                    "37",
+                    "39",
+                    "41",
+                    "44",
+                    "56"
+                ],
+                "sub_type_id": "1"
+            },
+            {
+                "name": "Double Chance",
+                "odd_keys": [
+                    "1X",
+                    "12",
+                    "X2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "29",
+                    "33",
+                    "41",
+                    "56"
+                ],
+                "sub_type_id": "10"
+            },
+            {
+                "name": "1st Half 1x2",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "30"
+                ],
+                "sub_type_id": "60"
+            },
+            {
+                "name": "Both Teams To Score",
+                "odd_keys": [
+                    "Yes",
+                    "No"
+                ],
+                "sport_ids": [
+                    "14"
+                ],
+                "sub_type_id": "29"
+            }
+        ],
+        "is_boosted": false,
+        "is_esports": false,
+        "is_srl": false,
+        "limit": 100,
+        "periods": [
+            {
+                "date": "2021-11-06",
+                "id": -1,
+                "name": "Today",
+                "period_end": "2021-11-07 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-07",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-08",
+                "id": 2,
+                "name": "Monday",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 3,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 4,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 5,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 6,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 7,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-03-06 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-06",
+                "id": 9,
+                "name": "All",
+                "period_end": "2022-03-06 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "sort_options": [
+            {
+                "id": 1,
+                "name": "Highlights"
+            },
+            {
+                "id": 2,
+                "name": "Start time"
+            },
+            {
+                "id": 3,
+                "name": "Top leagues"
+            }
+        ],
+        "sports": [
+            {
+                "sport_id": -1,
+                "sport_name": "All Sports"
+            },
+            {
+                "sport_id": "14",
+                "sport_name": "Soccer"
+            },
+            {
+                "sport_id": "28",
+                "sport_name": "Tennis"
+            },
+            {
+                "sport_id": "29",
+                "sport_name": "Ice Hockey"
+            },
+            {
+                "sport_id": "30",
+                "sport_name": "Basketball"
+            },
+            {
+                "sport_id": "33",
+                "sport_name": "Handball"
+            },
+            {
+                "sport_id": "35",
+                "sport_name": "Volleyball"
+            },
+            {
+                "sport_id": "36",
+                "sport_name": "MMA"
+            },
+            {
+                "sport_id": "37",
+                "sport_name": "Cricket"
+            },
+            {
+                "sport_id": "39",
+                "sport_name": "Boxing"
+            },
+            {
+                "sport_id": "40",
+                "sport_name": "Futsal"
+            },
+            {
+                "sport_id": "41",
+                "sport_name": "Rugby"
+            },
+            {
+                "sport_id": "45",
+                "sport_name": "Table Tennis"
+            },
+            {
+                "sport_id": "56",
+                "sport_name": "American Football"
+            },
+            {
+                "sport_id": "79",
+                "sport_name": "Counter-Strike"
+            },
+            {
+                "sport_id": "81",
+                "sport_name": "League of Legends"
+            },
+            {
+                "sport_id": "82",
+                "sport_name": "Dota 2"
+            },
+            {
+                "sport_id": "89",
+                "sport_name": "Bandy"
+            },
+            {
+                "sport_id": "97",
+                "sport_name": "ESport King of Glory"
+            },
+            {
+                "sport_id": "105",
+                "sport_name": "eSoccer"
+            }
+        ],
+        "tabs": [
+            {
+                "date": "2021-11-06",
+                "id": -1,
+                "name": "Today's Highlights",
+                "period_end": "2021-11-07 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-07",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-08",
+                "id": 2,
+                "name": "Monday",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 3,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 4,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 5,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 6,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 7,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "tags": [
+            {
+                "country": null,
+                "status": 1,
+                "tag_group_id": -1,
+                "tag_group_type": "",
+                "tag_group_type_id": -1,
+                "tag_group_type_reference": "",
+                "tag_id": -1,
+                "tag_title": "Top Countries & Leagues"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "50",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "222",
+                "tag_id": "31",
+                "tag_title": "Premier League"
+            },
+            {
+                "country": "France",
+                "status": "1",
+                "tag_group_id": "51",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "209",
+                "tag_id": "32",
+                "tag_title": "Ligue 1"
+            },
+            {
+                "country": "Spain",
+                "status": "1",
+                "tag_group_id": "52",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "14482",
+                "tag_id": "33",
+                "tag_title": "La Liga"
+            },
+            {
+                "country": "Germany",
+                "status": "1",
+                "tag_group_id": "53",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "214",
+                "tag_id": "34",
+                "tag_title": "Bundesliga"
+            },
+            {
+                "country": "Italy",
+                "status": "1",
+                "tag_group_id": "54",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "182",
+                "tag_id": "35",
+                "tag_title": "Serie A"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "55",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "167",
+                "tag_id": "36",
+                "tag_title": "Championship"
+            },
+            {
+                "country": "Portugal",
+                "status": "1",
+                "tag_group_id": "56",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "195",
+                "tag_id": "37",
+                "tag_title": "Primeira Liga"
+            },
+            {
+                "country": "Russia",
+                "status": "1",
+                "tag_group_id": "57",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "249",
+                "tag_id": "38",
+                "tag_title": "Russian Premier League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "58",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19508",
+                "tag_id": "39",
+                "tag_title": "UEFA Champions League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "59",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19488",
+                "tag_id": "40",
+                "tag_title": "Europa League"
+            }
+        ],
+        "total": "19"
+    },
+    "time_elapsed_secs": 0.14977192878723
+}{
+    "data": [
+        {
+            "away_odd": "1.80",
+            "away_team": "MAN CITY",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "270283",
+            "home_odd": "4.50",
+            "home_team": "MAN UTD",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670144",
+            "neutral_odd": "4.20",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "MAN UTD",
+                            "odd_value": "4.50",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.20",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "MAN CITY",
+                            "odd_value": "1.80",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751266",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 15:30:00"
+        },
+        {
+            "away_odd": "3.30",
+            "away_team": "Wolves",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "35921",
+            "home_odd": "2.49",
+            "home_team": "Crystal Palace",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2608394",
+            "neutral_odd": "3.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Crystal Palace",
+                            "odd_value": "2.49",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Wolves",
+                            "odd_value": "3.30",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751260",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "5.40",
+            "away_team": "Norwich",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "68133",
+            "home_odd": "1.72",
+            "home_team": "Brentford",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670132",
+            "neutral_odd": "3.95",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Brentford",
+                            "odd_value": "1.70",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.95",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Norwich",
+                            "odd_value": "5.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751254",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "13.00",
+            "away_team": "BURNLEY",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "13455",
+            "home_odd": "1.29",
+            "home_team": "CHELSEA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670142",
+            "neutral_odd": "5.60",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "CHELSEA",
+                            "odd_value": "1.29",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.60",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BURNLEY",
+                            "odd_value": "13.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751258",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 18:00:00"
+        },
+        {
+            "away_odd": "6.20",
+            "away_team": "NEWCASTLE",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "10612",
+            "home_odd": "1.58",
+            "home_team": "BRIGHTON",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670145",
+            "neutral_odd": "4.30",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BRIGHTON",
+                            "odd_value": "1.58",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.30",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "NEWCASTLE",
+                            "odd_value": "6.20",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751256",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-06 20:30:00"
+        },
+        {
+            "away_odd": "2.50",
+            "away_team": "Leicester",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "91343",
+            "home_odd": "2.80",
+            "home_team": "Leeds",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670187",
+            "neutral_odd": "3.45",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Leeds",
+                            "odd_value": "2.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.45",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Leicester",
+                            "odd_value": "2.50",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751264",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "2.43",
+            "away_team": "TOTTENHAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "54289",
+            "home_odd": "3.15",
+            "home_team": "Everton",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670146",
+            "neutral_odd": "3.20",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Everton",
+                            "odd_value": "3.15",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.20",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "2.43",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751262",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "7.60",
+            "away_team": "WATFORD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "86172",
+            "home_odd": "1.41",
+            "home_team": "Arsenal",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670219",
+            "neutral_odd": "5.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Arsenal",
+                            "odd_value": "1.41",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "WATFORD",
+                            "odd_value": "7.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751252",
+            "side_bets": "89",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 17:00:00"
+        },
+        {
+            "away_odd": "1.78",
+            "away_team": "LIVERPOOL",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "90952",
+            "home_odd": "4.40",
+            "home_team": "WEST HAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670170",
+            "neutral_odd": "4.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "WEST HAM",
+                            "odd_value": "4.40",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.78",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751270",
+            "side_bets": "90",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-07 19:30:00"
+        },
+        {
+            "away_odd": "1.78",
+            "away_team": "CHELSEA",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "12922",
+            "home_odd": "4.60",
+            "home_team": "Leicester",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700053",
+            "neutral_odd": "3.60",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Leicester",
+                            "odd_value": "4.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.60",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "CHELSEA",
+                            "odd_value": "1.78",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751276",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 15:30:00"
+        },
+        {
+            "away_odd": "2.49",
+            "away_team": "Brentford",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "47308",
+            "home_odd": "2.95",
+            "home_team": "NEWCASTLE",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700007",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "NEWCASTLE",
+                            "odd_value": "2.95",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Brentford",
+                            "odd_value": "2.49",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751282",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.47",
+            "away_team": "WEST HAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "11399",
+            "home_odd": "3.00",
+            "home_team": "Wolves",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700010",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Wolves",
+                            "odd_value": "3.00",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "WEST HAM",
+                            "odd_value": "2.47",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751290",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "1.97",
+            "away_team": "SOUTHAMPTON",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "55721",
+            "home_odd": "3.85",
+            "home_team": "Norwich",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700015",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Norwich",
+                            "odd_value": "3.85",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "SOUTHAMPTON",
+                            "odd_value": "1.97",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751284",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.80",
+            "away_team": "Crystal Palace",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "26295",
+            "home_odd": "2.60",
+            "home_team": "BURNLEY",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700032",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BURNLEY",
+                            "odd_value": "2.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Crystal Palace",
+                            "odd_value": "2.80",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751274",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "1.44",
+            "away_team": "MAN UTD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "55356",
+            "home_odd": "6.80",
+            "home_team": "WATFORD",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700036",
+            "neutral_odd": "4.80",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "WATFORD",
+                            "odd_value": "6.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.80",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "MAN UTD",
+                            "odd_value": "1.44",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751288",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "2.85",
+            "away_team": "BRIGHTON",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "21454",
+            "home_odd": "2.60",
+            "home_team": "Aston Villa",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700051",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Aston Villa",
+                            "odd_value": "2.60",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BRIGHTON",
+                            "odd_value": "2.85",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751272",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:00:00"
+        },
+        {
+            "away_odd": "6.60",
+            "away_team": "Arsenal",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "57216",
+            "home_odd": "1.44",
+            "home_team": "LIVERPOOL",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700018",
+            "neutral_odd": "4.90",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.44",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.90",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Arsenal",
+                            "odd_value": "6.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751278",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 20:30:00"
+        },
+        {
+            "away_odd": "14.00",
+            "away_team": "Everton",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "90071",
+            "home_odd": "1.20",
+            "home_team": "MAN CITY",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700022",
+            "neutral_odd": "6.80",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "MAN CITY",
+                            "odd_value": "1.20",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "6.80",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Everton",
+                            "odd_value": "14.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751280",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 17:00:00"
+        },
+        {
+            "away_odd": "4.30",
+            "away_team": "Leeds",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "44169",
+            "home_odd": "1.82",
+            "home_team": "TOTTENHAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2533153",
+            "neutral_odd": "3.65",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "1.82",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.65",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Leeds",
+                            "odd_value": "4.30",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27751286",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 19:30:00"
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "current_tab": [
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "filters": [
+            {
+                "name": "1x2 / Winner",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "28",
+                    "29",
+                    "30",
+                    "33",
+                    "35",
+                    "37",
+                    "39",
+                    "41",
+                    "44",
+                    "56"
+                ],
+                "sub_type_id": "1"
+            },
+            {
+                "name": "Double Chance",
+                "odd_keys": [
+                    "1X",
+                    "12",
+                    "X2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "29",
+                    "33",
+                    "41",
+                    "56"
+                ],
+                "sub_type_id": "10"
+            },
+            {
+                "name": "1st Half 1x2",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "30"
+                ],
+                "sub_type_id": "60"
+            },
+            {
+                "name": "Both Teams To Score",
+                "odd_keys": [
+                    "Yes",
+                    "No"
+                ],
+                "sport_ids": [
+                    "14"
+                ],
+                "sub_type_id": "29"
+            }
+        ],
+        "is_boosted": false,
+        "is_esports": false,
+        "is_srl": false,
+        "limit": 100,
+        "periods": [
+            {
+                "date": "2021-11-06",
+                "id": -1,
+                "name": "Today",
+                "period_end": "2021-11-07 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-07",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-08",
+                "id": 2,
+                "name": "Monday",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 3,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 4,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 5,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 6,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 7,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-03-06 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-06",
+                "id": 9,
+                "name": "All",
+                "period_end": "2022-03-06 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "sort_options": [
+            {
+                "id": 1,
+                "name": "Highlights"
+            },
+            {
+                "id": 2,
+                "name": "Start time"
+            },
+            {
+                "id": 3,
+                "name": "Top leagues"
+            }
+        ],
+        "sports": [
+            {
+                "sport_id": -1,
+                "sport_name": "All Sports"
+            },
+            {
+                "sport_id": "14",
+                "sport_name": "Soccer"
+            },
+            {
+                "sport_id": "28",
+                "sport_name": "Tennis"
+            },
+            {
+                "sport_id": "29",
+                "sport_name": "Ice Hockey"
+            },
+            {
+                "sport_id": "30",
+                "sport_name": "Basketball"
+            },
+            {
+                "sport_id": "33",
+                "sport_name": "Handball"
+            },
+            {
+                "sport_id": "35",
+                "sport_name": "Volleyball"
+            },
+            {
+                "sport_id": "36",
+                "sport_name": "MMA"
+            },
+            {
+                "sport_id": "37",
+                "sport_name": "Cricket"
+            },
+            {
+                "sport_id": "39",
+                "sport_name": "Boxing"
+            },
+            {
+                "sport_id": "40",
+                "sport_name": "Futsal"
+            },
+            {
+                "sport_id": "41",
+                "sport_name": "Rugby"
+            },
+            {
+                "sport_id": "45",
+                "sport_name": "Table Tennis"
+            },
+            {
+                "sport_id": "56",
+                "sport_name": "American Football"
+            },
+            {
+                "sport_id": "79",
+                "sport_name": "Counter-Strike"
+            },
+            {
+                "sport_id": "81",
+                "sport_name": "League of Legends"
+            },
+            {
+                "sport_id": "82",
+                "sport_name": "Dota 2"
+            },
+            {
+                "sport_id": "89",
+                "sport_name": "Bandy"
+            },
+            {
+                "sport_id": "97",
+                "sport_name": "ESport King of Glory"
+            },
+            {
+                "sport_id": "105",
+                "sport_name": "eSoccer"
+            }
+        ],
+        "tabs": [
+            {
+                "date": "2021-11-06",
+                "id": -1,
+                "name": "Today's Highlights",
+                "period_end": "2021-11-07 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-06",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-06 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-07",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-08",
+                "id": 2,
+                "name": "Monday",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 3,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 4,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 5,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 6,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 7,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-01-05 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "tags": [
+            {
+                "country": null,
+                "status": 1,
+                "tag_group_id": -1,
+                "tag_group_type": "",
+                "tag_group_type_id": -1,
+                "tag_group_type_reference": "",
+                "tag_id": -1,
+                "tag_title": "Top Countries & Leagues"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "50",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "222",
+                "tag_id": "31",
+                "tag_title": "Premier League"
+            },
+            {
+                "country": "France",
+                "status": "1",
+                "tag_group_id": "51",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "209",
+                "tag_id": "32",
+                "tag_title": "Ligue 1"
+            },
+            {
+                "country": "Spain",
+                "status": "1",
+                "tag_group_id": "52",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "14482",
+                "tag_id": "33",
+                "tag_title": "La Liga"
+            },
+            {
+                "country": "Germany",
+                "status": "1",
+                "tag_group_id": "53",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "214",
+                "tag_id": "34",
+                "tag_title": "Bundesliga"
+            },
+            {
+                "country": "Italy",
+                "status": "1",
+                "tag_group_id": "54",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "182",
+                "tag_id": "35",
+                "tag_title": "Serie A"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "55",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "167",
+                "tag_id": "36",
+                "tag_title": "Championship"
+            },
+            {
+                "country": "Portugal",
+                "status": "1",
+                "tag_group_id": "56",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "195",
+                "tag_id": "37",
+                "tag_title": "Primeira Liga"
+            },
+            {
+                "country": "Russia",
+                "status": "1",
+                "tag_group_id": "57",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "249",
+                "tag_id": "38",
+                "tag_title": "Russian Premier League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "58",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19508",
+                "tag_id": "39",
+                "tag_title": "UEFA Champions League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "59",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19488",
+                "tag_id": "40",
+                "tag_title": "Europa League"
+            }
+        ],
+        "total": "19"
+    },
+    "time_elapsed_secs": 0.11204481124878
 }
