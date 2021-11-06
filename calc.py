@@ -3,8 +3,14 @@ import sqlite3
 from sqlite3 import Error
 
 
+def color(text, r, g, b):
+    return "\033[38;2;{};{};{}m{} \033[38;2;255;255;255m".format(r, g, b, text)
+
+
 def probability(a, b, c):
-    return round((((1 / a) + (1 / b) + (1 / c)) * 100), 2)
+    if round((((1 / a) + (1 / b) + (1 / c)) * 100), 2) < 100:
+        return color(round((((1 / a) + (1 / b) + (1 / c)) * 100), 2), 127, 255, 0)
+    return ""
 
 
 def genIndices():
