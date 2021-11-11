@@ -1,7 +1,6 @@
 import sqlite3
 from sqlite3 import Error
 
-
 # DB CONNECTION
 def createConnection(db):
     conn = None

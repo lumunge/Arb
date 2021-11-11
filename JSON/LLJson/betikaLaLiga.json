@@ -1,0 +1,1663 @@
+{
+    "data": [
+        {
+            "away_odd": "2.44",
+            "away_team": "BILBAO",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "55345",
+            "home_odd": "3.05",
+            "home_team": "LEVANTE",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700295",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "LEVANTE",
+                            "odd_value": "3.05",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BILBAO",
+                            "odd_value": "2.44",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965432",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-19 23:00:00"
+        },
+        {
+            "away_odd": "2.38",
+            "away_team": "Villarreal",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "13418",
+            "home_odd": "3.10",
+            "home_team": "CELTA DE VIGO",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700306",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "CELTA DE VIGO",
+                            "odd_value": "3.10",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Villarreal",
+                            "odd_value": "2.38",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965426",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 16:00:00"
+        },
+        {
+            "away_odd": "7.60",
+            "away_team": "ALAVES",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "82571",
+            "home_odd": "1.45",
+            "home_team": "SEVILLA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700302",
+            "neutral_odd": "4.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "SEVILLA",
+                            "odd_value": "1.45",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "ALAVES",
+                            "odd_value": "7.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965436",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 18:15:00"
+        },
+        {
+            "away_odd": "9.00",
+            "away_team": "Osasuna",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "53385",
+            "home_odd": "1.37",
+            "home_team": "Atletico Madrid",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700297",
+            "neutral_odd": "4.70",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Atletico Madrid",
+                            "odd_value": "1.37",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.70",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Osasuna",
+                            "odd_value": "9.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965422",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 20:30:00"
+        },
+        {
+            "away_odd": "7.80",
+            "away_team": "ESPANYOL",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "15249",
+            "home_odd": "1.38",
+            "home_team": "BARCELONA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700312",
+            "neutral_odd": "5.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BARCELONA",
+                            "odd_value": "1.38",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "ESPANYOL",
+                            "odd_value": "7.80",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965424",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-20 23:00:00"
+        },
+        {
+            "away_odd": "4.60",
+            "away_team": "Cadiz",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "59683",
+            "home_odd": "1.94",
+            "home_team": "GETAFE",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700320",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "GETAFE",
+                            "odd_value": "1.94",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Cadiz",
+                            "odd_value": "4.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965428",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 16:00:00"
+        },
+        {
+            "away_odd": "1.42",
+            "away_team": "Real Madrid",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "60132",
+            "home_odd": "7.20",
+            "home_team": "Granada",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700331",
+            "neutral_odd": "4.90",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Granada",
+                            "odd_value": "7.20",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.90",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Real Madrid",
+                            "odd_value": "1.42",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965430",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 18:15:00"
+        },
+        {
+            "away_odd": "2.06",
+            "away_team": "BETIS",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "211603",
+            "home_odd": "3.80",
+            "home_team": "Elche",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700350",
+            "neutral_odd": "3.25",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Elche",
+                            "odd_value": "3.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.25",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BETIS",
+                            "odd_value": "2.06",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965440",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 20:30:00"
+        },
+        {
+            "away_odd": "4.00",
+            "away_team": "VALENCIA",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "23349",
+            "home_odd": "1.93",
+            "home_team": "Real Sociedad",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700315",
+            "neutral_odd": "3.45",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Real Sociedad",
+                            "odd_value": "1.93",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.45",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "VALENCIA",
+                            "odd_value": "4.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965434",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-21 23:00:00"
+        },
+        {
+            "away_odd": "4.90",
+            "away_team": "Mallorca",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "70340",
+            "home_odd": "1.76",
+            "home_team": "Vallecano",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700323",
+            "neutral_odd": "3.50",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Vallecano",
+                            "odd_value": "1.76",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.50",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Mallorca",
+                            "odd_value": "4.90",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965438",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-22 23:00:00"
+        },
+        {
+            "away_odd": "5.20",
+            "away_team": "Granada",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "65822",
+            "home_odd": "1.70",
+            "home_team": "BILBAO",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730008",
+            "neutral_odd": "3.65",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BILBAO",
+                            "odd_value": "1.70",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.65",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Granada",
+                            "odd_value": "5.20",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965444",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-26 23:00:00"
+        },
+        {
+            "away_odd": "2.75",
+            "away_team": "CELTA DE VIGO",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "69062",
+            "home_odd": "2.70",
+            "home_team": "ALAVES",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730023",
+            "neutral_odd": "3.05",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "ALAVES",
+                            "odd_value": "2.70",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.05",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "CELTA DE VIGO",
+                            "odd_value": "2.75",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965442",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-27 16:00:00"
+        },
+        {
+            "away_odd": "3.65",
+            "away_team": "Vallecano",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "48866",
+            "home_odd": "2.16",
+            "home_team": "VALENCIA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730044",
+            "neutral_odd": "3.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "VALENCIA",
+                            "odd_value": "2.16",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Vallecano",
+                            "odd_value": "3.65",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965458",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-27 18:15:00"
+        },
+        {
+            "away_odd": "3.15",
+            "away_team": "GETAFE",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "70319",
+            "home_odd": "2.50",
+            "home_team": "Mallorca",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730010",
+            "neutral_odd": "2.90",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Mallorca",
+                            "odd_value": "2.50",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "2.90",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "GETAFE",
+                            "odd_value": "3.15",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965448",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-27 20:30:00"
+        },
+        {
+            "away_odd": "2.55",
+            "away_team": "BARCELONA",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "77866",
+            "home_odd": "2.75",
+            "home_team": "Villarreal",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730028",
+            "neutral_odd": "3.25",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Villarreal",
+                            "odd_value": "2.75",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.25",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BARCELONA",
+                            "odd_value": "2.55",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965460",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-27 23:00:00"
+        },
+        {
+            "away_odd": "5.00",
+            "away_team": "LEVANTE",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "21642",
+            "home_odd": "1.66",
+            "home_team": "BETIS",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730033",
+            "neutral_odd": "3.95",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BETIS",
+                            "odd_value": "1.66",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.95",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "LEVANTE",
+                            "odd_value": "5.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965446",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-28 16:00:00"
+        },
+        {
+            "away_odd": "2.33",
+            "away_team": "Real Sociedad",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "63444",
+            "home_odd": "3.20",
+            "home_team": "ESPANYOL",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730035",
+            "neutral_odd": "3.15",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "ESPANYOL",
+                            "odd_value": "3.20",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.15",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Real Sociedad",
+                            "odd_value": "2.33",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965452",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-28 18:15:00"
+        },
+        {
+            "away_odd": "1.51",
+            "away_team": "Atletico Madrid",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "48796",
+            "home_odd": "6.80",
+            "home_team": "Cadiz",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730031",
+            "neutral_odd": "4.10",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Cadiz",
+                            "odd_value": "6.80",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.10",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Atletico Madrid",
+                            "odd_value": "1.51",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965450",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-28 20:30:00"
+        },
+        {
+            "away_odd": "4.40",
+            "away_team": "SEVILLA",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "72191",
+            "home_odd": "1.78",
+            "home_team": "Real Madrid",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730029",
+            "neutral_odd": "3.75",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Real Madrid",
+                            "odd_value": "1.78",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.75",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "SEVILLA",
+                            "odd_value": "4.40",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965456",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-28 23:00:00"
+        },
+        {
+            "away_odd": "4.30",
+            "away_team": "Elche",
+            "category": "Spain",
+            "competition_id": "14482",
+            "competition_name": "LaLiga",
+            "game_id": "32032",
+            "home_odd": "1.89",
+            "home_team": "Osasuna",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2730018",
+            "neutral_odd": "3.35",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Osasuna",
+                            "odd_value": "1.89",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.35",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "Elche",
+                            "odd_value": "4.30",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27965454",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2021-11-29 23:00:00"
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "current_tab": [
+            {
+                "date": "2021-11-11",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-10 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "filters": [
+            {
+                "name": "1x2 / Winner",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "28",
+                    "29",
+                    "30",
+                    "33",
+                    "35",
+                    "37",
+                    "39",
+                    "41",
+                    "44",
+                    "56"
+                ],
+                "sub_type_id": "1"
+            },
+            {
+                "name": "Double Chance",
+                "odd_keys": [
+                    "1X",
+                    "12",
+                    "X2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "29",
+                    "33",
+                    "41",
+                    "56"
+                ],
+                "sub_type_id": "10"
+            },
+            {
+                "name": "1st Half 1x2",
+                "odd_keys": [
+                    "1",
+                    "X",
+                    "2"
+                ],
+                "sport_ids": [
+                    "14",
+                    "30"
+                ],
+                "sub_type_id": "60"
+            },
+            {
+                "name": "Both Teams To Score",
+                "odd_keys": [
+                    "Yes",
+                    "No"
+                ],
+                "sport_ids": [
+                    "14"
+                ],
+                "sub_type_id": "29"
+            }
+        ],
+        "is_boosted": false,
+        "is_esports": false,
+        "is_srl": false,
+        "limit": 100,
+        "periods": [
+            {
+                "date": "2021-11-11",
+                "id": -1,
+                "name": "Today",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-12",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 2,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 3,
+                "name": "Sunday",
+                "period_end": "2021-11-15 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-15",
+                "id": 4,
+                "name": "Monday",
+                "period_end": "2021-11-16 04:01:00",
+                "period_start": "2021-11-15 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-16",
+                "id": 5,
+                "name": "Tuesday",
+                "period_end": "2021-11-17 04:01:00",
+                "period_start": "2021-11-16 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-17",
+                "id": 6,
+                "name": "Wednesday",
+                "period_end": "2021-11-18 04:01:00",
+                "period_start": "2021-11-17 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-18",
+                "id": 7,
+                "name": "Thursday",
+                "period_end": "2021-11-19 04:01:00",
+                "period_start": "2021-11-18 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-19",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-03-11 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-11",
+                "id": 9,
+                "name": "All",
+                "period_end": "2022-03-11 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "sort_options": [
+            {
+                "id": 1,
+                "name": "Highlights"
+            },
+            {
+                "id": 2,
+                "name": "Start time"
+            },
+            {
+                "id": 3,
+                "name": "Top leagues"
+            }
+        ],
+        "sports": [
+            {
+                "sport_id": -1,
+                "sport_name": "All Sports"
+            },
+            {
+                "sport_id": "14",
+                "sport_name": "Soccer"
+            },
+            {
+                "sport_id": "28",
+                "sport_name": "Tennis"
+            },
+            {
+                "sport_id": "29",
+                "sport_name": "Ice Hockey"
+            },
+            {
+                "sport_id": "30",
+                "sport_name": "Basketball"
+            },
+            {
+                "sport_id": "32",
+                "sport_name": "Badminton"
+            },
+            {
+                "sport_id": "33",
+                "sport_name": "Handball"
+            },
+            {
+                "sport_id": "35",
+                "sport_name": "Volleyball"
+            },
+            {
+                "sport_id": "36",
+                "sport_name": "MMA"
+            },
+            {
+                "sport_id": "37",
+                "sport_name": "Cricket"
+            },
+            {
+                "sport_id": "39",
+                "sport_name": "Boxing"
+            },
+            {
+                "sport_id": "40",
+                "sport_name": "Futsal"
+            },
+            {
+                "sport_id": "41",
+                "sport_name": "Rugby"
+            },
+            {
+                "sport_id": "45",
+                "sport_name": "Table Tennis"
+            },
+            {
+                "sport_id": "56",
+                "sport_name": "American Football"
+            },
+            {
+                "sport_id": "79",
+                "sport_name": "Counter-Strike"
+            },
+            {
+                "sport_id": "81",
+                "sport_name": "League of Legends"
+            },
+            {
+                "sport_id": "82",
+                "sport_name": "Dota 2"
+            },
+            {
+                "sport_id": "105",
+                "sport_name": "eSoccer"
+            }
+        ],
+        "tabs": [
+            {
+                "date": "2021-11-11",
+                "id": -1,
+                "name": "Today's Highlights",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-10 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-12",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 2,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 3,
+                "name": "Sunday",
+                "period_end": "2021-11-15 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-15",
+                "id": 4,
+                "name": "Monday",
+                "period_end": "2021-11-16 04:01:00",
+                "period_start": "2021-11-15 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-16",
+                "id": 5,
+                "name": "Tuesday",
+                "period_end": "2021-11-17 04:01:00",
+                "period_start": "2021-11-16 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-17",
+                "id": 6,
+                "name": "Wednesday",
+                "period_end": "2021-11-18 04:01:00",
+                "period_start": "2021-11-17 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-18",
+                "id": 7,
+                "name": "Thursday",
+                "period_end": "2021-11-19 04:01:00",
+                "period_start": "2021-11-18 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-19",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-01-10 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": false
+            }
+        ],
+        "tags": [
+            {
+                "country": null,
+                "status": 1,
+                "tag_group_id": -1,
+                "tag_group_type": "",
+                "tag_group_type_id": -1,
+                "tag_group_type_reference": "",
+                "tag_id": -1,
+                "tag_title": "Top Countries & Leagues"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "50",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "222",
+                "tag_id": "31",
+                "tag_title": "Premier League"
+            },
+            {
+                "country": "France",
+                "status": "1",
+                "tag_group_id": "51",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "209",
+                "tag_id": "32",
+                "tag_title": "Ligue 1"
+            },
+            {
+                "country": "Spain",
+                "status": "1",
+                "tag_group_id": "52",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "14482",
+                "tag_id": "33",
+                "tag_title": "La Liga"
+            },
+            {
+                "country": "Germany",
+                "status": "1",
+                "tag_group_id": "53",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "214",
+                "tag_id": "34",
+                "tag_title": "Bundesliga"
+            },
+            {
+                "country": "Italy",
+                "status": "1",
+                "tag_group_id": "54",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "182",
+                "tag_id": "35",
+                "tag_title": "Serie A"
+            },
+            {
+                "country": "England",
+                "status": "1",
+                "tag_group_id": "55",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "167",
+                "tag_id": "36",
+                "tag_title": "Championship"
+            },
+            {
+                "country": "Portugal",
+                "status": "1",
+                "tag_group_id": "56",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "195",
+                "tag_id": "37",
+                "tag_title": "Primeira Liga"
+            },
+            {
+                "country": "Russia",
+                "status": "1",
+                "tag_group_id": "57",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "249",
+                "tag_id": "38",
+                "tag_title": "Russian Premier League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "58",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19508",
+                "tag_id": "39",
+                "tag_title": "UEFA Champions League"
+            },
+            {
+                "country": "International Clubs",
+                "status": "1",
+                "tag_group_id": "59",
+                "tag_group_type": "competition",
+                "tag_group_type_id": "1",
+                "tag_group_type_reference": "19488",
+                "tag_id": "40",
+                "tag_title": "Europa League"
+            }
+        ],
+        "total": "20"
+    },
+    "time_elapsed_secs": 0.045583963394165
+}

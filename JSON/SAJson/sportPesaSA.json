@@ -1,0 +1,1302 @@
+[
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160070,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 84,
+                "name": "Atalanta"
+            },
+            {
+                "id": 499,
+                "name": "Spezia"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-20T14:00:00.000Z",
+        "dateTimestamp": 1637416800000,
+        "hasCustomBet": 0,
+        "id": 3336801,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277818387,
+                        "name": "Atalanta",
+                        "odds": "1.30",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277818495,
+                        "name": "Draw",
+                        "odds": "6.03",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277818731,
+                        "name": "Spezia",
+                        "odds": "8.45",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5078,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160082,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 93,
+                "name": "Lazio"
+            },
+            {
+                "id": 92,
+                "name": "Juventus"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-20T17:00:00.000Z",
+        "dateTimestamp": 1637427600000,
+        "hasCustomBet": 0,
+        "id": 3336819,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277821647,
+                        "name": "Lazio",
+                        "odds": "2.75",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277821655,
+                        "name": "Draw",
+                        "odds": "3.39",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277821691,
+                        "name": "Juventus",
+                        "odds": "2.52",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4812,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160074,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 89,
+                "name": "Fiorentina"
+            },
+            {
+                "id": 83,
+                "name": "AC Milan"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-20T19:45:00.000Z",
+        "dateTimestamp": 1637437500000,
+        "hasCustomBet": 0,
+        "id": 3336813,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277820127,
+                        "name": "Fiorentina",
+                        "odds": "3.07",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277820209,
+                        "name": "Draw",
+                        "odds": "3.47",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277820285,
+                        "name": "AC Milan",
+                        "odds": "2.27",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3151,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160086,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 498,
+                "name": "Sassuolo"
+            },
+            {
+                "id": 86,
+                "name": "Cagliari"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-21T11:30:00.000Z",
+        "dateTimestamp": 1637494200000,
+        "hasCustomBet": 0,
+        "id": 3336831,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277823599,
+                        "name": "Sassuolo",
+                        "odds": "1.60",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277823603,
+                        "name": "Draw",
+                        "odds": "4.31",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277823629,
+                        "name": "Cagliari",
+                        "odds": "5.01",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2183,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160084,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 84171,
+                "name": "Salernitana"
+            },
+            {
+                "id": 98,
+                "name": "Sampdoria"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-21T14:00:00.000Z",
+        "dateTimestamp": 1637503200000,
+        "hasCustomBet": 0,
+        "id": 3336839,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277825485,
+                        "name": "Salernitana",
+                        "odds": "2.97",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277825507,
+                        "name": "Draw",
+                        "odds": "3.32",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277825523,
+                        "name": "Sampdoria",
+                        "odds": "2.40",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2662,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160072,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 85,
+                "name": "Bologna"
+            },
+            {
+                "id": 84227,
+                "name": "Venezia"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-21T14:00:00.000Z",
+        "dateTimestamp": 1637503200000,
+        "hasCustomBet": 0,
+        "id": 3336859,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277828947,
+                        "name": "Bologna",
+                        "odds": "1.73",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277828953,
+                        "name": "Draw",
+                        "odds": "3.92",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277828995,
+                        "name": "Venezia",
+                        "odds": "4.52",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1324,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160080,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 91,
+                "name": "Inter"
+            },
+            {
+                "id": 100,
+                "name": "Napoli"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-21T17:00:00.000Z",
+        "dateTimestamp": 1637514000000,
+        "hasCustomBet": 0,
+        "id": 3336845,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277826719,
+                        "name": "Inter",
+                        "odds": "2.21",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277826733,
+                        "name": "Draw",
+                        "odds": "3.56",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277826737,
+                        "name": "Napoli",
+                        "odds": "3.11",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4813,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160076,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 90,
+                "name": "Genoa"
+            },
+            {
+                "id": 97,
+                "name": "Roma"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-21T19:45:00.000Z",
+        "dateTimestamp": 1637523900000,
+        "hasCustomBet": 0,
+        "id": 3336851,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277827225,
+                        "name": "Genoa",
+                        "odds": "4.22",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827219,
+                        "name": "Draw",
+                        "odds": "4.02",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827229,
+                        "name": "Roma",
+                        "odds": "1.76",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3652,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160078,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 502,
+                "name": "Verona"
+            },
+            {
+                "id": 489,
+                "name": "Empoli"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-22T17:30:00.000Z",
+        "dateTimestamp": 1637602200000,
+        "hasCustomBet": 0,
+        "id": 3336849,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277826945,
+                        "name": "Verona",
+                        "odds": "1.77",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277826941,
+                        "name": "Draw",
+                        "odds": "4.03",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277826951,
+                        "name": "Empoli",
+                        "odds": "4.13",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3855,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160088,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 101,
+                "name": "Torino"
+            },
+            {
+                "id": 102,
+                "name": "Udinese"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-22T19:45:00.000Z",
+        "dateTimestamp": 1637610300000,
+        "hasCustomBet": 0,
+        "id": 3336855,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277827837,
+                        "name": "Torino",
+                        "odds": "2.15",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827855,
+                        "name": "Draw",
+                        "odds": "3.27",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827931,
+                        "name": "Udinese",
+                        "odds": "3.52",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2908,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160090,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 86,
+                "name": "Cagliari"
+            },
+            {
+                "id": 84171,
+                "name": "Salernitana"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-26T19:45:00.000Z",
+        "dateTimestamp": 1637955900000,
+        "hasCustomBet": 0,
+        "id": 3350387,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308760595,
+                        "name": "Cagliari",
+                        "odds": "1.98",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308760597,
+                        "name": "Draw",
+                        "odds": "3.61",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308760609,
+                        "name": "Salernitana",
+                        "odds": "3.66",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2128,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160092,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 489,
+                "name": "Empoli"
+            },
+            {
+                "id": 89,
+                "name": "Fiorentina"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-27T14:00:00.000Z",
+        "dateTimestamp": 1638021600000,
+        "hasCustomBet": 0,
+        "id": 3350391,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308761139,
+                        "name": "Empoli",
+                        "odds": "3.26",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308761163,
+                        "name": "Draw",
+                        "odds": "3.51",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308761187,
+                        "name": "Fiorentina",
+                        "odds": "2.16",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1343,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160102,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 98,
+                "name": "Sampdoria"
+            },
+            {
+                "id": 502,
+                "name": "Verona"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-27T14:00:00.000Z",
+        "dateTimestamp": 1638021600000,
+        "hasCustomBet": 0,
+        "id": 3350393,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308761617,
+                        "name": "Sampdoria",
+                        "odds": "2.66",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308761621,
+                        "name": "Draw",
+                        "odds": "3.37",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308761623,
+                        "name": "Verona",
+                        "odds": "2.61",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3378,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160094,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 92,
+                "name": "Juventus"
+            },
+            {
+                "id": 84,
+                "name": "Atalanta"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-27T17:00:00.000Z",
+        "dateTimestamp": 1638032400000,
+        "hasCustomBet": 0,
+        "id": 3350385,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308759869,
+                        "name": "Juventus",
+                        "odds": "2.25",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308759871,
+                        "name": "Draw",
+                        "odds": "3.56",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308759885,
+                        "name": "Atalanta",
+                        "odds": "3.03",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2815,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160108,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 84227,
+                "name": "Venezia"
+            },
+            {
+                "id": 91,
+                "name": "Inter"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-27T19:45:00.000Z",
+        "dateTimestamp": 1638042300000,
+        "hasCustomBet": 0,
+        "id": 3350389,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308760863,
+                        "name": "Venezia",
+                        "odds": "7.04",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308760873,
+                        "name": "Draw",
+                        "odds": "4.93",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308760897,
+                        "name": "Inter",
+                        "odds": "1.41",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3065,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160106,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 102,
+                "name": "Udinese"
+            },
+            {
+                "id": 90,
+                "name": "Genoa"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-28T11:30:00.000Z",
+        "dateTimestamp": 1638099000000,
+        "hasCustomBet": 0,
+        "id": 3350515,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308814953,
+                        "name": "Udinese",
+                        "odds": "1.95",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308814955,
+                        "name": "Draw",
+                        "odds": "3.56",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308814969,
+                        "name": "Genoa",
+                        "odds": "3.81",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5947,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160104,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 499,
+                "name": "Spezia"
+            },
+            {
+                "id": 85,
+                "name": "Bologna"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-28T14:00:00.000Z",
+        "dateTimestamp": 1638108000000,
+        "hasCustomBet": 0,
+        "id": 3350513,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308814549,
+                        "name": "Spezia",
+                        "odds": "2.82",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308814569,
+                        "name": "Draw",
+                        "odds": "3.43",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308814589,
+                        "name": "Bologna",
+                        "odds": "2.45",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5084,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160096,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 83,
+                "name": "AC Milan"
+            },
+            {
+                "id": 498,
+                "name": "Sassuolo"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-28T14:00:00.000Z",
+        "dateTimestamp": 1638108000000,
+        "hasCustomBet": 0,
+        "id": 3350517,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308815443,
+                        "name": "AC Milan",
+                        "odds": "1.62",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308815471,
+                        "name": "Draw",
+                        "odds": "4.22",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308815501,
+                        "name": "Sassuolo",
+                        "odds": "5.02",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2391,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160100,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 97,
+                "name": "Roma"
+            },
+            {
+                "id": 101,
+                "name": "Torino"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-28T17:00:00.000Z",
+        "dateTimestamp": 1638118800000,
+        "hasCustomBet": 0,
+        "id": 3350549,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308845515,
+                        "name": "Roma",
+                        "odds": "1.80",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308845521,
+                        "name": "Draw",
+                        "odds": "3.81",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308845523,
+                        "name": "Torino",
+                        "odds": "4.21",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5891,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160098,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 100,
+                "name": "Napoli"
+            },
+            {
+                "id": 93,
+                "name": "Lazio"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2021-11-28T19:45:00.000Z",
+        "dateTimestamp": 1638128700000,
+        "hasCustomBet": 0,
+        "id": 3350547,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308845031,
+                        "name": "Napoli",
+                        "odds": "1.74",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308845035,
+                        "name": "Draw",
+                        "odds": "4.01",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308845071,
+                        "name": "Lazio",
+                        "odds": "4.31",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5180,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    }
+]

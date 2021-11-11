@@ -1,0 +1,1302 @@
+[
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965432,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 174,
+                "name": "Levante"
+            },
+            {
+                "id": 165,
+                "name": "Athletic Bilbao"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-19T20:00:00.000Z",
+        "dateTimestamp": 1637352000000,
+        "hasCustomBet": 0,
+        "id": 3336805,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277819279,
+                        "name": "Levante",
+                        "odds": "3.03",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277819323,
+                        "name": "Draw",
+                        "odds": "3.18",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277819327,
+                        "name": "Athletic Bilbao",
+                        "odds": "2.44",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1206,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965426,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 169,
+                "name": "Celta Vigo"
+            },
+            {
+                "id": 591,
+                "name": "Villarreal"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-20T13:00:00.000Z",
+        "dateTimestamp": 1637413200000,
+        "hasCustomBet": 0,
+        "id": 3336817,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277821301,
+                        "name": "Celta Vigo",
+                        "odds": "3.06",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277821325,
+                        "name": "Draw",
+                        "odds": "3.26",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277821375,
+                        "name": "Villarreal",
+                        "odds": "2.37",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4784,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965436,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 181,
+                "name": "Sevilla FC"
+            },
+            {
+                "id": 84262,
+                "name": "Alaves"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-20T15:15:00.000Z",
+        "dateTimestamp": 1637421300000,
+        "hasCustomBet": 0,
+        "id": 3336825,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277822985,
+                        "name": "Sevilla FC",
+                        "odds": "1.44",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277823001,
+                        "name": "Draw",
+                        "odds": "4.41",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277823003,
+                        "name": "Alaves",
+                        "odds": "7.41",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3418,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965422,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 166,
+                "name": "Atletico Madrid"
+            },
+            {
+                "id": 177,
+                "name": "Osasuna"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-20T17:30:00.000Z",
+        "dateTimestamp": 1637429400000,
+        "hasCustomBet": 0,
+        "id": 3336835,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277824969,
+                        "name": "Atletico Madrid",
+                        "odds": "1.37",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277824981,
+                        "name": "Draw",
+                        "odds": "4.73",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277825005,
+                        "name": "Osasuna",
+                        "odds": "8.86",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2609,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965424,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 167,
+                "name": "Barcelona"
+            },
+            {
+                "id": 171,
+                "name": "Espanyol"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-20T20:00:00.000Z",
+        "dateTimestamp": 1637438400000,
+        "hasCustomBet": 0,
+        "id": 3336821,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277822083,
+                        "name": "Barcelona",
+                        "odds": "1.42",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277822101,
+                        "name": "Draw",
+                        "odds": "4.65",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277822103,
+                        "name": "Espanyol",
+                        "odds": "7.26",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2719,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965428,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 172,
+                "name": "Getafe"
+            },
+            {
+                "id": 86388,
+                "name": "Cadiz CF"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-21T13:00:00.000Z",
+        "dateTimestamp": 1637499600000,
+        "hasCustomBet": 0,
+        "id": 3336841,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277825905,
+                        "name": "Getafe",
+                        "odds": "1.93",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277825907,
+                        "name": "Draw",
+                        "odds": "3.17",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277825919,
+                        "name": "Cadiz CF",
+                        "odds": "4.52",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3647,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965430,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 173,
+                "name": "Granada"
+            },
+            {
+                "id": 179,
+                "name": "Real Madrid"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-21T15:15:00.000Z",
+        "dateTimestamp": 1637507700000,
+        "hasCustomBet": 0,
+        "id": 3336829,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277823979,
+                        "name": "Granada",
+                        "odds": "6.58",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277823999,
+                        "name": "Draw",
+                        "odds": "4.51",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277824059,
+                        "name": "Real Madrid",
+                        "odds": "1.47",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1875,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965440,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 575,
+                "name": "Elche"
+            },
+            {
+                "id": 168,
+                "name": "Betis"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-21T17:30:00.000Z",
+        "dateTimestamp": 1637515800000,
+        "hasCustomBet": 0,
+        "id": 3336857,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277828647,
+                        "name": "Elche",
+                        "odds": "3.77",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277828659,
+                        "name": "Draw",
+                        "odds": "3.32",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277828661,
+                        "name": "Betis",
+                        "odds": "2.05",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5940,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965434,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 180,
+                "name": "Real Sociedad"
+            },
+            {
+                "id": 182,
+                "name": "Valencia"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-21T20:00:00.000Z",
+        "dateTimestamp": 1637524800000,
+        "hasCustomBet": 0,
+        "id": 3336847,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277827045,
+                        "name": "Real Sociedad",
+                        "odds": "1.92",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827049,
+                        "name": "Draw",
+                        "odds": "3.56",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277827055,
+                        "name": "Valencia",
+                        "odds": "3.96",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2257,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965438,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 178,
+                "name": "Rayo Vallecano"
+            },
+            {
+                "id": 176,
+                "name": "Mallorca"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-22T20:00:00.000Z",
+        "dateTimestamp": 1637611200000,
+        "hasCustomBet": 0,
+        "id": 3336861,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2277829587,
+                        "name": "Rayo Vallecano",
+                        "odds": "1.75",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277829607,
+                        "name": "Draw",
+                        "odds": "3.62",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2277829621,
+                        "name": "Mallorca",
+                        "odds": "4.83",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2229,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965444,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 165,
+                "name": "Athletic Bilbao"
+            },
+            {
+                "id": 173,
+                "name": "Granada"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-26T20:00:00.000Z",
+        "dateTimestamp": 1637956800000,
+        "hasCustomBet": 0,
+        "id": 3350075,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308418545,
+                        "name": "Athletic Bilbao",
+                        "odds": "1.70",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418567,
+                        "name": "Draw",
+                        "odds": "3.72",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418583,
+                        "name": "Granada",
+                        "odds": "5.03",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4983,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965442,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 84262,
+                "name": "Alaves"
+            },
+            {
+                "id": 169,
+                "name": "Celta Vigo"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-27T13:00:00.000Z",
+        "dateTimestamp": 1638018000000,
+        "hasCustomBet": 0,
+        "id": 3350073,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308418315,
+                        "name": "Alaves",
+                        "odds": "2.70",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418317,
+                        "name": "Draw",
+                        "odds": "3.10",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418319,
+                        "name": "Celta Vigo",
+                        "odds": "2.75",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1467,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965458,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 182,
+                "name": "Valencia"
+            },
+            {
+                "id": 178,
+                "name": "Rayo Vallecano"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-27T15:15:00.000Z",
+        "dateTimestamp": 1638026100000,
+        "hasCustomBet": 0,
+        "id": 3350079,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308419201,
+                        "name": "Valencia",
+                        "odds": "2.16",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419227,
+                        "name": "Draw",
+                        "odds": "3.17",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419251,
+                        "name": "Rayo Vallecano",
+                        "odds": "3.63",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2918,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965448,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 176,
+                "name": "Mallorca"
+            },
+            {
+                "id": 172,
+                "name": "Getafe"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-27T17:30:00.000Z",
+        "dateTimestamp": 1638034200000,
+        "hasCustomBet": 0,
+        "id": 3350087,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308420605,
+                        "name": "Mallorca",
+                        "odds": "2.49",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308420607,
+                        "name": "Draw",
+                        "odds": "3.01",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308420627,
+                        "name": "Getafe",
+                        "odds": "3.11",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2456,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965460,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 591,
+                "name": "Villarreal"
+            },
+            {
+                "id": 167,
+                "name": "Barcelona"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-27T20:00:00.000Z",
+        "dateTimestamp": 1638043200000,
+        "hasCustomBet": 0,
+        "id": 3350067,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308417159,
+                        "name": "Villarreal",
+                        "odds": "2.68",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308417167,
+                        "name": "Draw",
+                        "odds": "3.28",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308417171,
+                        "name": "Barcelona",
+                        "odds": "2.65",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4744,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965446,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 168,
+                "name": "Betis"
+            },
+            {
+                "id": 174,
+                "name": "Levante"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-28T13:00:00.000Z",
+        "dateTimestamp": 1638104400000,
+        "hasCustomBet": 0,
+        "id": 3350083,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308419529,
+                        "name": "Betis",
+                        "odds": "1.66",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419539,
+                        "name": "Draw",
+                        "odds": "4.02",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419569,
+                        "name": "Levante",
+                        "odds": "4.92",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3726,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965452,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 171,
+                "name": "Espanyol"
+            },
+            {
+                "id": 180,
+                "name": "Real Sociedad"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-28T15:15:00.000Z",
+        "dateTimestamp": 1638112500000,
+        "hasCustomBet": 0,
+        "id": 3350081,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308419343,
+                        "name": "Espanyol",
+                        "odds": "3.16",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419361,
+                        "name": "Draw",
+                        "odds": "3.26",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308419369,
+                        "name": "Real Sociedad",
+                        "odds": "2.32",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5838,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965450,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 86388,
+                "name": "Cadiz CF"
+            },
+            {
+                "id": 166,
+                "name": "Atletico Madrid"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-28T17:30:00.000Z",
+        "dateTimestamp": 1638120600000,
+        "hasCustomBet": 0,
+        "id": 3350077,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308418765,
+                        "name": "Cadiz CF",
+                        "odds": "6.82",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418777,
+                        "name": "Draw",
+                        "odds": "4.11",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308418807,
+                        "name": "Atletico Madrid",
+                        "odds": "1.50",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2220,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965456,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 179,
+                "name": "Real Madrid"
+            },
+            {
+                "id": 181,
+                "name": "Sevilla FC"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-28T20:00:00.000Z",
+        "dateTimestamp": 1638129600000,
+        "hasCustomBet": 0,
+        "id": 3350101,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308453883,
+                        "name": "Real Madrid",
+                        "odds": "1.83",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308453887,
+                        "name": "Draw",
+                        "odds": "3.66",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308453901,
+                        "name": "Sevilla FC",
+                        "odds": "4.24",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1452,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27965454,
+        "competition": {
+            "id": 76837,
+            "name": "Primera Division"
+        },
+        "competitors": [
+            {
+                "id": 177,
+                "name": "Osasuna"
+            },
+            {
+                "id": 575,
+                "name": "Elche"
+            }
+        ],
+        "country": {
+            "id": 166,
+            "iso": "esp",
+            "name": "Spain"
+        },
+        "date": "2021-11-29T20:00:00.000Z",
+        "dateTimestamp": 1638216000000,
+        "hasCustomBet": 0,
+        "id": 3350085,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2308420393,
+                        "name": "Osasuna",
+                        "odds": "1.90",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308420397,
+                        "name": "Draw",
+                        "odds": "3.43",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2308420395,
+                        "name": "Elche",
+                        "odds": "4.24",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4167,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    }
+]

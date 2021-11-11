@@ -3,6 +3,15 @@ import json
 import sqlite3
 from sqlite3 import Error
 
+# DB CONNECTION
+def createConnection(db):
+    conn = None
+    try:
+        conn = sqlite3.connect(db)
+    except Error as e:
+        print(e)
+    return conn
+
 
 def formatString(str):
     joinedStr = str.replace(" ", "")
@@ -15,61 +24,51 @@ def formatDate(date):
 
 
 # create records
-def createSPPLRecord(conn, record):
-    sportpesasql = """INSERT OR IGNORE INTO sportpesaPremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd, start_time) VALUES(?, ?, ?, ?, ?, ?)"""
+def createSPLLRecord(conn, record):
+    sportpesasql = """INSERT OR IGNORE INTO sportpesaLaLiga(home_team, away_team, home_odd, neutral_odd, away_odd, start_time) VALUES(?, ?, ?, ?, ?, ?)"""
     cur = conn.cursor()
     cur.execute(sportpesasql, record)
     conn.commit()
     return cur.lastrowid
 
 
-def createBPLRecord(conn, record):
-    betikasql = """INSERT OR IGNORE INTO betikaPremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
+def createBLLRecord(conn, record):
+    betikasql = """INSERT OR IGNORE INTO betikaLaLiga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
     cur = conn.cursor()
     cur.execute(betikasql, record)
     conn.commit()
     return cur.lastrowid
 
 
-def createB22PLRecord(conn, record):
-    bet22sql = """INSERT OR IGNORE INTO bet22PremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
+def createB22LLRecord(conn, record):
+    bet22sql = """INSERT OR IGNORE INTO bet22LaLiga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
     cur = conn.cursor()
     cur.execute(bet22sql, record)
     conn.commit()
     return cur.lastrowid
 
 
-def createMLPLRecord(conn, record):
-    mlsql = """INSERT OR IGNORE INTO melPremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
+def createMLLLRecord(conn, record):
+    mlsql = """INSERT OR IGNORE INTO melLaLiga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
     cur = conn.cursor()
     cur.execute(mlsql, record)
     conn.commit()
     return cur.lastrowid
 
 
-def create1XBPLRecord(conn, record):
-    x1sql = """INSERT OR IGNORE INTO x1betPremierLeague(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
+def create1XBLLRecord(conn, record):
+    x1sql = """INSERT OR IGNORE INTO x1betLaLiga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
     cur = conn.cursor()
     cur.execute(x1sql, record)
     conn.commit()
     return cur.lastrowid
 
 
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
-
-
 # save records
-def saveSportPesaPL():
-    db = "./premierLeague.db"
+def saveSportPesaLL():
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    f = open("./jsonFiles/sportPesaPremierLeague.json")
+    f = open("../JSON/LLJson/sportPesaLaLiga.json")
     data = json.load(f)
     with conn:
         for i in data:
@@ -81,15 +80,15 @@ def saveSportPesaPL():
                 i["markets"][0]["selections"][2]["odds"],
                 formatDate(i["date"]),
             )
-            createSPPLRecord(conn, record)
+            createSPLLRecord(conn, record)
     f.close()
-    print("saved sportpesa premier league!!")
+    print("saved sportpesa la liga!!")
 
 
-def saveBetikaPL():
-    db = "./premierLeague.db"
+def saveBetikaLL():
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    f = open("./jsonFiles/betikaPremierLeague.json")
+    f = open("../JSON/LLJson/betikaLaLiga.json")
     data = json.load(f)
     with conn:
         for i in data["data"]:
@@ -100,15 +99,15 @@ def saveBetikaPL():
                 i["neutral_odd"],
                 i["away_odd"],
             )
-            createBPLRecord(conn, record)
+            createBLLRecord(conn, record)
     f.close()
-    print("saved betika premier league!!")
+    print("saved betika la liga!!")
 
 
-def saveBet22PL():
-    db = "./premierLeague.db"
+def saveBet22LL():
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    f = open("./jsonFiles/22betPremierLeague.json")
+    f = open("../JSON/LLJson/22betLaLiga.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -119,15 +118,15 @@ def saveBet22PL():
                 i["E"][1]["C"],
                 i["E"][2]["C"],
             )
-            createB22PLRecord(conn, record)
+            createB22LLRecord(conn, record)
     f.close()
-    print("saved 22 bet premier league!!")
+    print("saved 22 bet la liga!!")
 
 
-def saveMelPL():
-    db = "./premierLeague.db"
+def saveMelLL():
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    f = open("./jsonFiles/melbetPremierLeague.json")
+    f = open("../JSON/LLJson/melbetLaLiga.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -138,15 +137,15 @@ def saveMelPL():
                 i["E"][1]["C"],
                 i["E"][2]["C"],
             )
-            createMLPLRecord(conn, record)
+            createMLLLRecord(conn, record)
     f.close()
-    print("saved melbet to db")
+    print("saved melbet la liga!!")
 
 
-def save1XPL():
-    db = "./premierLeague.db"
+def save1XLL():
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    f = open("./jsonFiles/1xbetPremierLeague.json")
+    f = open("../JSON/LLJson/1xbetLaLiga.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -157,32 +156,32 @@ def save1XPL():
                 i["E"][1]["C"],
                 i["E"][2]["C"],
             )
-            create1XBPLRecord(conn, record)
+            create1XBLLRecord(conn, record)
     f.close()
-    print("saved 1xbet to db")
+    print("saved 1xbet la liga!!")
 
 
 def combineRecords():
-    db = "./premierLeague.db"
+    db = "../DBS/laLiga.db"
     conn = createConnection(db)
-    combinePremierLeagueSql = """INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
+    combineLaLigaSql = """INSERT INTO LLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
-FROM sportpesaPremierLeague sp, betikaPremierLeague as btk, bet22PremierLeague as btt, melPremierLeague as ml, x1betPremierLeague as x1
+FROM sportpesaLaLiga sp, betikaLaLiga as btk, bet22LaLiga as btt, melLaLiga as ml, x1betLaLiga as x1
 WHERE sp.home_team=btk.home_team
 AND sp.home_team=btt.home_team
 AND sp.home_team=ml.home_team
 AND sp.home_team=x1.home_team;"""
     cur = conn.cursor()
-    cur.execute(combinePremierLeagueSql)
+    cur.execute(combineLaLigaSql)
     conn.commit()
     print("Records combined!")
     return cur.lastrowid
 
 
-saveSportPesaPL()
-saveBetikaPL()
-saveBet22PL()
-saveMelPL()
-save1XPL()
+saveSportPesaLL()
+saveBetikaLL()
+saveBet22LL()
+saveMelLL()
+save1XLL()
 time.sleep(3)
 combineRecords()

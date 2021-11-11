@@ -1,24 +1,25 @@
 #!/bin/bash
 
 echo "clearing json files..."
-cd jsonFiles && python3 clearJson.py
+cd JSON/LLJson/ && rm -rf *
 echo "success!"
 sleep 2
 
 echo "clearing tables..."
-cd .. && python3 clearTables.py
+cd ../../DBS/ && python3 clearLlTables.py
 echo "success!"
 sleep 2
 
 echo "fetching data..."
-python3 fetchData.py
+cd ../fetchData/ && python3 fetchLaliga.py
 echo "success!"
 sleep 2
 
 echo "saving data..."
-python3 saveData.py
+cd ../saveData/ && python3 saveLL.py
 echo "success!"
 sleep 2
 
 echo "printing data..."
-python3 calc.py
+cd ../ && python3 calcLL.py
+ 
