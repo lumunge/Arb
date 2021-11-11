@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betgeniusId": 0,
         "betradarId": 27751276,
         "competition": {
@@ -327,18 +328,31 @@
     {
         "betgeniusId": 0,
         "betradarId": 27751290,
+=======
+        "betgeniusId": 8172644,
+        "betradarId": 27751270,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 44,
                 "name": "Wolverhampton"
             },
             {
                 "id": 19,
                 "name": "West Ham"
+=======
+                "id": 19,
+                "name": "West Ham"
+            },
+            {
+                "id": 6,
+                "name": "Liverpool"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -346,10 +360,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-20T15:00:00.000Z",
         "dateTimestamp": 1637420400000,
         "hasCustomBet": 0,
         "id": 3336681,
+=======
+        "date": "2021-11-07T16:30:00.000Z",
+        "dateTimestamp": 1636302600000,
+        "hasCustomBet": 1,
+        "id": 3322153,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -358,23 +379,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277628313,
                         "name": "Wolverhampton",
                         "odds": "2.97",
+=======
+                        "id": 2242799685,
+                        "name": "West Ham",
+                        "odds": "4.04",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277628327,
                         "name": "Draw",
                         "odds": "3.22",
+=======
+                        "id": 2242799687,
+                        "name": "Draw",
+                        "odds": "4.04",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277628337,
                         "name": "West Ham",
                         "odds": "2.45",
+=======
+                        "id": 2242799691,
+                        "name": "Liverpool",
+                        "odds": "1.79",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -382,7 +421,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 2663,
+=======
+        "smsId": 1975,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -391,19 +434,138 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751282,
+=======
+        "betradarId": 27751276,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 9,
                 "name": "Newcastle"
             },
             {
                 "id": 346,
                 "name": "Brentford"
+=======
+                "id": 37,
+                "name": "Leicester"
+            },
+            {
+                "id": 3,
+                "name": "Chelsea"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+            }
+        ],
+        "country": {
+            "id": 61,
+            "iso": "eng",
+            "name": "England"
+        },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+        "date": "2021-11-20T15:00:00.000Z",
+        "dateTimestamp": 1637420400000,
+        "hasCustomBet": 0,
+        "id": 3336685,
+=======
+        "date": "2021-11-20T12:30:00.000Z",
+        "dateTimestamp": 1637411400000,
+        "hasCustomBet": 0,
+        "id": 3336679,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+                        "id": 2277629189,
+                        "name": "Newcastle",
+                        "odds": "2.72",
+=======
+                        "id": 2277627127,
+                        "name": "Leicester",
+                        "odds": "4.62",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+                        "id": 2277629253,
+                        "name": "Draw",
+                        "odds": "3.27",
+=======
+                        "id": 2277627125,
+                        "name": "Draw",
+                        "odds": "3.67",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+                        "id": 2277629263,
+                        "name": "Brentford",
+                        "odds": "2.62",
+=======
+                        "id": 2277627121,
+                        "name": "Chelsea",
+                        "odds": "1.77",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+        "smsId": 2671,
+=======
+        "smsId": 1871,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+        "betradarId": 27751278,
+=======
+        "betradarId": 27751274,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
+        "competition": {
+            "id": 67600,
+            "name": "Premier League"
+        },
+        "competitors": [
+            {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
+                "id": 6,
+                "name": "Liverpool"
+            },
+            {
+                "id": 1,
+                "name": "Arsenal"
+=======
+                "id": 28,
+                "name": "Burnley"
+            },
+            {
+                "id": 31,
+                "name": "Crystal Palace"
             }
         ],
         "country": {
@@ -414,7 +576,7 @@
         "date": "2021-11-20T15:00:00.000Z",
         "dateTimestamp": 1637420400000,
         "hasCustomBet": 0,
-        "id": 3336685,
+        "id": 3336657,
         "markets": [
             {
                 "columns": 3,
@@ -423,23 +585,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2277629189,
-                        "name": "Newcastle",
-                        "odds": "2.72",
+                        "id": 2277615687,
+                        "name": "Burnley",
+                        "odds": "2.68",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2277629253,
+                        "id": 2277615733,
                         "name": "Draw",
-                        "odds": "3.27",
+                        "odds": "3.24",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2277629263,
-                        "name": "Brentford",
-                        "odds": "2.62",
+                        "id": 2277615765,
+                        "name": "Crystal Palace",
+                        "odds": "2.68",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -447,7 +609,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2671,
+        "smsId": 3697,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -456,19 +618,20 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27751278,
+        "betradarId": 27751288,
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
-                "id": 6,
-                "name": "Liverpool"
+                "id": 43,
+                "name": "Watford"
             },
             {
-                "id": 1,
-                "name": "Arsenal"
+                "id": 8,
+                "name": "Manchester Utd"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -476,10 +639,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-20T17:30:00.000Z",
         "dateTimestamp": 1637429400000,
         "hasCustomBet": 0,
         "id": 3336667,
+=======
+        "date": "2021-11-20T15:00:00.000Z",
+        "dateTimestamp": 1637420400000,
+        "hasCustomBet": 0,
+        "id": 3336661,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -488,23 +658,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277623011,
                         "name": "Liverpool",
                         "odds": "1.46",
+=======
+                        "id": 2277618545,
+                        "name": "Watford",
+                        "odds": "5.53",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277623013,
                         "name": "Draw",
                         "odds": "4.82",
+=======
+                        "id": 2277618591,
+                        "name": "Draw",
+                        "odds": "4.30",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277623019,
                         "name": "Arsenal",
                         "odds": "6.23",
+=======
+                        "id": 2277618635,
+                        "name": "Manchester Utd",
+                        "odds": "1.56",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -512,7 +700,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 5331,
+=======
+        "smsId": 1321,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -521,19 +713,32 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751280,
+=======
+        "betradarId": 27751284,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 7,
                 "name": "Manchester City"
             },
             {
                 "id": 4,
                 "name": "Everton"
+=======
+                "id": 10,
+                "name": "Norwich City"
+            },
+            {
+                "id": 13,
+                "name": "Southampton"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -541,10 +746,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-21T14:00:00.000Z",
         "dateTimestamp": 1637503200000,
         "hasCustomBet": 0,
         "id": 3336689,
+=======
+        "date": "2021-11-20T15:00:00.000Z",
+        "dateTimestamp": 1637420400000,
+        "hasCustomBet": 0,
+        "id": 3336665,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -553,23 +765,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277631481,
                         "name": "Manchester City",
                         "odds": "1.20",
+=======
+                        "id": 2277621403,
+                        "name": "Norwich City",
+                        "odds": "3.82",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277631489,
                         "name": "Draw",
                         "odds": "6.49",
+=======
+                        "id": 2277621427,
+                        "name": "Draw",
+                        "odds": "3.47",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277631555,
                         "name": "Everton",
                         "odds": "14.90",
+=======
+                        "id": 2277621479,
+                        "name": "Southampton",
+                        "odds": "1.98",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -577,7 +807,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 4787,
+=======
+        "smsId": 4494,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -586,19 +820,32 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751286,
+=======
+        "betradarId": 27751272,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 17,
                 "name": "Tottenham"
             },
             {
                 "id": 36,
                 "name": "Leeds"
+=======
+                "id": 2,
+                "name": "Aston Villa"
+            },
+            {
+                "id": 26,
+                "name": "Brighton"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -606,10 +853,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-21T16:30:00.000Z",
         "dateTimestamp": 1637512200000,
         "hasCustomBet": 0,
         "id": 3336687,
+=======
+        "date": "2021-11-20T15:00:00.000Z",
+        "dateTimestamp": 1637420400000,
+        "hasCustomBet": 0,
+        "id": 3336677,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -618,23 +872,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277630541,
                         "name": "Tottenham",
                         "odds": "1.76",
+=======
+                        "id": 2277625857,
+                        "name": "Aston Villa",
+                        "odds": "2.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277630545,
                         "name": "Draw",
                         "odds": "3.86",
+=======
+                        "id": 2277625879,
+                        "name": "Draw",
+                        "odds": "3.20",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2277630555,
                         "name": "Leeds",
                         "odds": "4.41",
+=======
+                        "id": 2277625895,
+                        "name": "Brighton",
+                        "odds": "2.80",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -642,7 +914,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 2557,
+=======
+        "smsId": 4743,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -651,19 +927,32 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751292,
+=======
+        "betradarId": 27751290,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 1,
                 "name": "Arsenal"
             },
             {
                 "id": 9,
                 "name": "Newcastle"
+=======
+                "id": 44,
+                "name": "Wolverhampton"
+            },
+            {
+                "id": 19,
+                "name": "West Ham"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -674,7 +963,11 @@
         "date": "2021-11-27T12:30:00.000Z",
         "dateTimestamp": 1638016200000,
         "hasCustomBet": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "id": 3350691,
+=======
+        "id": 3336681,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -683,23 +976,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308988251,
                         "name": "Arsenal",
                         "odds": "1.49",
+=======
+                        "id": 2277628313,
+                        "name": "Wolverhampton",
+                        "odds": "3.02",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308988253,
                         "name": "Draw",
                         "odds": "4.51",
+=======
+                        "id": 2277628327,
+                        "name": "Draw",
+                        "odds": "3.17",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308988255,
                         "name": "Newcastle",
                         "odds": "6.21",
+=======
+                        "id": 2277628337,
+                        "name": "West Ham",
+                        "odds": "2.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -707,7 +1018,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 3657,
+=======
+        "smsId": 2663,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -716,19 +1031,32 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751310,
+=======
+        "betradarId": 27751282,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 10,
                 "name": "Norwich City"
             },
             {
                 "id": 44,
                 "name": "Wolverhampton"
+=======
+                "id": 9,
+                "name": "Newcastle"
+            },
+            {
+                "id": 346,
+                "name": "Brentford"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -739,7 +1067,11 @@
         "date": "2021-11-27T15:00:00.000Z",
         "dateTimestamp": 1638025200000,
         "hasCustomBet": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "id": 3350659,
+=======
+        "id": 3336685,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -748,23 +1080,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308984219,
                         "name": "Norwich City",
                         "odds": "3.37",
+=======
+                        "id": 2277629189,
+                        "name": "Newcastle",
+                        "odds": "2.80",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308984257,
                         "name": "Draw",
                         "odds": "3.42",
+=======
+                        "id": 2277629253,
+                        "name": "Draw",
+                        "odds": "3.20",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308984287,
                         "name": "Wolverhampton",
                         "odds": "2.14",
+=======
+                        "id": 2277629263,
+                        "name": "Brentford",
+                        "odds": "2.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -772,7 +1122,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 1927,
+=======
+        "smsId": 2671,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -781,7 +1135,11 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751306,
+=======
+        "betradarId": 27751278,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
@@ -792,8 +1150,8 @@
                 "name": "Liverpool"
             },
             {
-                "id": 13,
-                "name": "Southampton"
+                "id": 1,
+                "name": "Arsenal"
             }
         ],
         "country": {
@@ -801,10 +1159,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-27T15:00:00.000Z",
         "dateTimestamp": 1638025200000,
         "hasCustomBet": 0,
         "id": 3350667,
+=======
+        "date": "2021-11-20T17:30:00.000Z",
+        "dateTimestamp": 1637429400000,
+        "hasCustomBet": 0,
+        "id": 3336667,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -813,23 +1178,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308985525,
                         "name": "Liverpool",
                         "odds": "1.30",
+=======
+                        "id": 2277623011,
+                        "name": "Liverpool",
+                        "odds": "1.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308985531,
                         "name": "Draw",
                         "odds": "5.82",
+=======
+                        "id": 2277623013,
+                        "name": "Draw",
+                        "odds": "4.82",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308985533,
                         "name": "Southampton",
                         "odds": "8.62",
+=======
+                        "id": 2277623019,
+                        "name": "Arsenal",
+                        "odds": "6.42",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -837,7 +1220,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 5109,
+=======
+        "smsId": 5331,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -846,19 +1233,32 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751302,
+=======
+        "betradarId": 27751280,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 31,
                 "name": "Crystal Palace"
             },
             {
                 "id": 2,
                 "name": "Aston Villa"
+=======
+                "id": 7,
+                "name": "Manchester City"
+            },
+            {
+                "id": 4,
+                "name": "Everton"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             }
         ],
         "country": {
@@ -866,10 +1266,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-27T15:00:00.000Z",
         "dateTimestamp": 1638025200000,
         "hasCustomBet": 0,
         "id": 3350699,
+=======
+        "date": "2021-11-21T14:00:00.000Z",
+        "dateTimestamp": 1637503200000,
+        "hasCustomBet": 0,
+        "id": 3336689,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -878,23 +1285,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308990223,
                         "name": "Crystal Palace",
                         "odds": "2.26",
+=======
+                        "id": 2277631481,
+                        "name": "Manchester City",
+                        "odds": "1.22",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308990229,
                         "name": "Draw",
                         "odds": "3.32",
+=======
+                        "id": 2277631489,
+                        "name": "Draw",
+                        "odds": "6.18",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308990237,
                         "name": "Aston Villa",
                         "odds": "3.22",
+=======
+                        "id": 2277631555,
+                        "name": "Everton",
+                        "odds": "13.24",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -902,7 +1327,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 5268,
+=======
+        "smsId": 4787,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"
@@ -911,15 +1340,24 @@
     },
     {
         "betgeniusId": 0,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "betradarId": 27751296,
+=======
+        "betradarId": 27751286,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "competition": {
             "id": 67600,
             "name": "Premier League"
         },
         "competitors": [
             {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                 "id": 26,
                 "name": "Brighton"
+=======
+                "id": 17,
+                "name": "Tottenham"
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
             },
             {
                 "id": 36,
@@ -931,10 +1369,17 @@
             "iso": "eng",
             "name": "England"
         },
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "date": "2021-11-27T17:30:00.000Z",
         "dateTimestamp": 1638034200000,
         "hasCustomBet": 0,
         "id": 3350687,
+=======
+        "date": "2021-11-21T16:30:00.000Z",
+        "dateTimestamp": 1637512200000,
+        "hasCustomBet": 0,
+        "id": 3336687,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "markets": [
             {
                 "columns": 3,
@@ -943,23 +1388,41 @@
                 "name": "3 Way",
                 "selections": [
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308987541,
                         "name": "Brighton",
                         "odds": "2.20",
+=======
+                        "id": 2277630541,
+                        "name": "Tottenham",
+                        "odds": "1.79",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308987545,
                         "name": "Draw",
                         "odds": "3.40",
+=======
+                        "id": 2277630545,
+                        "name": "Draw",
+                        "odds": "3.77",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
                         "id": 2308987547,
                         "name": "Leeds",
                         "odds": "3.25",
+=======
+                        "id": 2277630555,
+                        "name": "Leeds",
+                        "odds": "4.32",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -967,7 +1430,11 @@
             }
         ],
         "marketsCount": 22,
+<<<<<<< HEAD:JSON/PLJson/sportPesaPremierLeague.json
         "smsId": 1227,
+=======
+        "smsId": 2557,
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/sportPesaPremierLeague.json
         "sport": {
             "id": 1,
             "name": "Football"

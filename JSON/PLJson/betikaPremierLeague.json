@@ -1,6 +1,7 @@
 {
     "data": [
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "1.79",
             "away_team": "CHELSEA",
             "category": "England",
@@ -373,6 +374,20 @@
             "is_srl": false,
             "match_id": "2700051",
             "neutral_odd": "3.15",
+=======
+            "away_odd": "2.49",
+            "away_team": "Leicester",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "91343",
+            "home_odd": "2.85",
+            "home_team": "Leeds",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670187",
+            "neutral_odd": "3.75",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -380,8 +395,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Aston Villa",
                             "odd_value": "2.55",
+=======
+                            "odd_key": "Leeds",
+                            "odd_value": "2.85",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -392,7 +412,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "3.15",
+=======
+                            "odd_value": "3.75",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -402,8 +426,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "BRIGHTON",
                             "odd_value": "2.85",
+=======
+                            "odd_key": "Leicester",
+                            "odd_value": "2.49",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -421,6 +450,7 @@
             "start_time": "2021-11-20 18:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "6.20",
             "away_team": "Arsenal",
             "category": "England",
@@ -433,6 +463,20 @@
             "is_srl": false,
             "match_id": "2700018",
             "neutral_odd": "4.80",
+=======
+            "away_odd": "2.28",
+            "away_team": "TOTTENHAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "54289",
+            "home_odd": "3.40",
+            "home_team": "Everton",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670146",
+            "neutral_odd": "3.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -440,8 +484,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "LIVERPOOL",
                             "odd_value": "1.46",
+=======
+                            "odd_key": "Everton",
+                            "odd_value": "3.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -452,7 +501,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "4.80",
+=======
+                            "odd_value": "3.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -462,8 +515,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Arsenal",
                             "odd_value": "6.20",
+=======
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "2.28",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -481,6 +539,7 @@
             "start_time": "2021-11-20 20:30:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "17.00",
             "away_team": "Everton",
             "category": "England",
@@ -493,6 +552,20 @@
             "is_srl": false,
             "match_id": "2700022",
             "neutral_odd": "7.60",
+=======
+            "away_odd": "7.60",
+            "away_team": "WATFORD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "86172",
+            "home_odd": "1.42",
+            "home_team": "Arsenal",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670219",
+            "neutral_odd": "5.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -500,8 +573,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "MAN CITY",
                             "odd_value": "1.16",
+=======
+                            "odd_key": "Arsenal",
+                            "odd_value": "1.42",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -512,7 +590,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "7.60",
+=======
+                            "odd_value": "5.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -522,8 +604,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Everton",
                             "odd_value": "17.00",
+=======
+                            "odd_key": "WATFORD",
+                            "odd_value": "7.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -541,6 +628,7 @@
             "start_time": "2021-11-21 17:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "4.40",
             "away_team": "Leeds",
             "category": "England",
@@ -553,6 +641,20 @@
             "is_srl": false,
             "match_id": "2533153",
             "neutral_odd": "3.80",
+=======
+            "away_odd": "1.77",
+            "away_team": "LIVERPOOL",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "90952",
+            "home_odd": "4.40",
+            "home_team": "WEST HAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2670170",
+            "neutral_odd": "4.30",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -560,8 +662,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "TOTTENHAM",
                             "odd_value": "1.76",
+=======
+                            "odd_key": "WEST HAM",
+                            "odd_value": "4.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -572,7 +679,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "3.80",
+=======
+                            "odd_value": "4.30",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -582,8 +693,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Leeds",
                             "odd_value": "4.40",
+=======
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.77",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -601,6 +717,7 @@
             "start_time": "2021-11-21 19:30:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "6.80",
             "away_team": "NEWCASTLE",
             "category": "England",
@@ -609,6 +726,16 @@
             "game_id": "95126",
             "home_odd": "1.44",
             "home_team": "Arsenal",
+=======
+            "away_odd": "1.79",
+            "away_team": "CHELSEA",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "12922",
+            "home_odd": "4.60",
+            "home_team": "Leicester",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "is_esport": false,
             "is_srl": false,
             "match_id": "2624598",
@@ -620,8 +747,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Arsenal",
                             "odd_value": "1.44",
+=======
+                            "odd_key": "Leicester",
+                            "odd_value": "4.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -642,8 +774,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "NEWCASTLE",
                             "odd_value": "6.80",
+=======
+                            "odd_key": "CHELSEA",
+                            "odd_value": "1.79",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -661,6 +798,7 @@
             "start_time": "2021-11-27 15:30:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "3.20",
             "away_team": "Aston Villa",
             "category": "England",
@@ -669,6 +807,16 @@
             "game_id": "62820",
             "home_odd": "2.27",
             "home_team": "Crystal Palace",
+=======
+            "away_odd": "2.60",
+            "away_team": "Brentford",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "47308",
+            "home_odd": "2.80",
+            "home_team": "NEWCASTLE",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "is_esport": false,
             "is_srl": false,
             "match_id": "2731518",
@@ -680,8 +828,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Crystal Palace",
                             "odd_value": "2.27",
+=======
+                            "odd_key": "NEWCASTLE",
+                            "odd_value": "2.80",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -702,8 +855,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Aston Villa",
                             "odd_value": "3.20",
+=======
+                            "odd_key": "Brentford",
+                            "odd_value": "2.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -721,6 +879,7 @@
             "start_time": "2021-11-27 18:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "2.15",
             "away_team": "Wolves",
             "category": "England",
@@ -729,6 +888,16 @@
             "game_id": "82941",
             "home_odd": "3.40",
             "home_team": "Norwich",
+=======
+            "away_odd": "2.45",
+            "away_team": "WEST HAM",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "11399",
+            "home_odd": "3.05",
+            "home_team": "Wolves",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "is_esport": false,
             "is_srl": false,
             "match_id": "2731523",
@@ -740,8 +909,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Norwich",
                             "odd_value": "3.40",
+=======
+                            "odd_key": "Wolves",
+                            "odd_value": "3.05",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -762,8 +936,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Wolves",
                             "odd_value": "2.15",
+=======
+                            "odd_key": "WEST HAM",
+                            "odd_value": "2.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -841,6 +1020,7 @@
             "start_time": "2021-11-27 18:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "3.25",
             "away_team": "Leeds",
             "category": "England",
@@ -849,6 +1029,16 @@
             "game_id": "270283",
             "home_odd": "2.22",
             "home_team": "BRIGHTON",
+=======
+            "away_odd": "2.75",
+            "away_team": "Crystal Palace",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "26295",
+            "home_odd": "2.65",
+            "home_team": "BURNLEY",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "is_esport": false,
             "is_srl": false,
             "match_id": "2731598",
@@ -860,8 +1050,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "BRIGHTON",
                             "odd_value": "2.22",
+=======
+                            "odd_key": "BURNLEY",
+                            "odd_value": "2.65",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -882,8 +1077,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "Leeds",
                             "odd_value": "3.25",
+=======
+                            "odd_key": "Crystal Palace",
+                            "odd_value": "2.75",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -901,6 +1101,7 @@
             "start_time": "2021-11-27 20:30:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "2.14",
             "away_team": "TOTTENHAM",
             "category": "England",
@@ -913,6 +1114,20 @@
             "is_srl": false,
             "match_id": "2731626",
             "neutral_odd": "3.30",
+=======
+            "away_odd": "1.48",
+            "away_team": "MAN UTD",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "55356",
+            "home_odd": "6.20",
+            "home_team": "WATFORD",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700036",
+            "neutral_odd": "4.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -920,8 +1135,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "BURNLEY",
                             "odd_value": "3.50",
+=======
+                            "odd_key": "WATFORD",
+                            "odd_value": "6.20",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -932,7 +1152,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "3.30",
+=======
+                            "odd_value": "4.60",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -942,8 +1166,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "TOTTENHAM",
                             "odd_value": "2.14",
+=======
+                            "odd_key": "MAN UTD",
+                            "odd_value": "1.48",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -971,7 +1200,11 @@
             "home_team": "Brentford",
             "is_esport": false,
             "is_srl": false,
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "match_id": "2731642",
+=======
+            "match_id": "2700051",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "neutral_odd": "3.15",
             "odds": [
                 {
@@ -1021,6 +1254,7 @@
             "start_time": "2021-11-28 17:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "8.60",
             "away_team": "WEST HAM",
             "category": "England",
@@ -1033,6 +1267,20 @@
             "is_srl": false,
             "match_id": "2731636",
             "neutral_odd": "5.80",
+=======
+            "away_odd": "6.40",
+            "away_team": "Arsenal",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "57216",
+            "home_odd": "1.45",
+            "home_team": "LIVERPOOL",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2700018",
+            "neutral_odd": "4.80",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -1040,8 +1288,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "MAN CITY",
                             "odd_value": "1.31",
+=======
+                            "odd_key": "LIVERPOOL",
+                            "odd_value": "1.45",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1052,7 +1305,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "5.80",
+=======
+                            "odd_value": "4.80",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1062,8 +1319,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "WEST HAM",
                             "odd_value": "8.60",
+=======
+                            "odd_key": "Arsenal",
+                            "odd_value": "6.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1141,6 +1403,7 @@
             "start_time": "2021-11-28 17:00:00"
         },
         {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
             "away_odd": "4.70",
             "away_team": "MAN UTD",
             "category": "England",
@@ -1153,6 +1416,20 @@
             "is_srl": false,
             "match_id": "2731593",
             "neutral_odd": "3.60",
+=======
+            "away_odd": "4.40",
+            "away_team": "Leeds",
+            "category": "England",
+            "competition_id": "222",
+            "competition_name": "Premier League",
+            "game_id": "44169",
+            "home_odd": "1.78",
+            "home_team": "TOTTENHAM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2533153",
+            "neutral_odd": "3.70",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
             "odds": [
                 {
                     "name": "1X2",
@@ -1160,8 +1437,13 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "CHELSEA",
                             "odd_value": "1.77",
+=======
+                            "odd_key": "TOTTENHAM",
+                            "odd_value": "1.78",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1172,7 +1454,11 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_value": "3.60",
+=======
+                            "odd_value": "3.70",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1182,8 +1468,13 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                             "odd_key": "MAN UTD",
                             "odd_value": "4.70",
+=======
+                            "odd_key": "Leeds",
+                            "odd_value": "4.40",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1205,11 +1496,19 @@
         "current_page": 1,
         "current_tab": [
             {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                 "date": "2021-11-11",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
                 "period_end": "2022-01-10 04:01:00",
                 "period_start": "2021-11-11 04:00:00",
+=======
+                "date": "2021-11-07",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-06 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                 "prioritized": false
             }
         ],
@@ -1283,6 +1582,7 @@
         "limit": 100,
         "periods": [
             {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                 "date": "2021-11-11",
                 "id": -1,
                 "name": "Today",
@@ -1368,6 +1668,93 @@
                 "name": "All",
                 "period_end": "2022-03-11 04:01:00",
                 "period_start": "2021-11-11 04:00:00",
+=======
+                "date": "2021-11-07",
+                "id": -1,
+                "name": "Today",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-07",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-08",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 2,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 3,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 4,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 5,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 6,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 7,
+                "name": "Sunday",
+                "period_end": "2021-11-15 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-15",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-03-07 04:01:00",
+                "period_start": "2021-11-15 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-07",
+                "id": 9,
+                "name": "All",
+                "period_end": "2022-03-07 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                 "prioritized": false
             }
         ],
@@ -1407,10 +1794,13 @@
                 "sport_name": "Basketball"
             },
             {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                 "sport_id": "32",
                 "sport_name": "Badminton"
             },
             {
+=======
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                 "sport_id": "33",
                 "sport_name": "Handball"
             },
@@ -1447,6 +1837,10 @@
                 "sport_name": "American Football"
             },
             {
+                "sport_id": "70",
+                "sport_name": "Bowls"
+            },
+            {
                 "sport_id": "79",
                 "sport_name": "Counter-Strike"
             },
@@ -1459,12 +1853,20 @@
                 "sport_name": "Dota 2"
             },
             {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
+=======
+                "sport_id": "97",
+                "sport_name": "ESport King of Glory"
+            },
+            {
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
                 "date": "2021-11-11",
                 "id": -1,
                 "name": "Today's Highlights",
@@ -1542,6 +1944,85 @@
                 "name": "Next Week",
                 "period_end": "2022-01-10 04:01:00",
                 "period_start": "2021-11-19 04:00:00",
+=======
+                "date": "2021-11-07",
+                "id": -1,
+                "name": "Today's Highlights",
+                "period_end": "2021-11-08 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-07",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-06 04:01:00",
+                "period_start": "2021-11-07 04:00:00",
+                "prioritized": false
+            },
+            {
+                "date": "2021-11-08",
+                "id": 1,
+                "name": "Tomorrow",
+                "period_end": "2021-11-09 04:01:00",
+                "period_start": "2021-11-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-09",
+                "id": 2,
+                "name": "Tuesday",
+                "period_end": "2021-11-10 04:01:00",
+                "period_start": "2021-11-09 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-10",
+                "id": 3,
+                "name": "Wednesday",
+                "period_end": "2021-11-11 04:01:00",
+                "period_start": "2021-11-10 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-11",
+                "id": 4,
+                "name": "Thursday",
+                "period_end": "2021-11-12 04:01:00",
+                "period_start": "2021-11-11 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-12",
+                "id": 5,
+                "name": "Friday",
+                "period_end": "2021-11-13 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-13",
+                "id": 6,
+                "name": "Saturday",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-13 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-14",
+                "id": 7,
+                "name": "Sunday",
+                "period_end": "2021-11-15 04:01:00",
+                "period_start": "2021-11-14 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-15",
+                "id": 8,
+                "name": "Next Week",
+                "period_end": "2022-01-06 04:01:00",
+                "period_start": "2021-11-15 04:00:00",
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
                 "prioritized": false
             }
         ],
@@ -1657,7 +2138,13 @@
                 "tag_title": "Europa League"
             }
         ],
+<<<<<<< HEAD:JSON/PLJson/betikaPremierLeague.json
         "total": "20"
     },
     "time_elapsed_secs": 0.050089120864868
+=======
+        "total": "14"
+    },
+    "time_elapsed_secs": 0.06318998336792
+>>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/betikaPremierLeague.json
 }
