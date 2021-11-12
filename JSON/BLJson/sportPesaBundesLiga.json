@@ -35,21 +35,21 @@
                     {
                         "id": 2277525551,
                         "name": "Augsburg",
-                        "odds": "11.95",
+                        "odds": "11.07",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277525571,
                         "name": "Draw",
-                        "odds": "7.57",
+                        "odds": "7.44",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277525573,
                         "name": "Bayern Munchen",
-                        "odds": "1.18",
+                        "odds": "1.20",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -425,21 +425,21 @@
                     {
                         "id": 2277629091,
                         "name": "Union Berlin",
-                        "odds": "2.07",
+                        "odds": "2.09",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277629193,
                         "name": "Draw",
-                        "odds": "3.39",
+                        "odds": "3.35",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277629241,
                         "name": "Hertha BSC",
-                        "odds": "3.54",
+                        "odds": "3.55",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -620,21 +620,21 @@
                     {
                         "id": 2305064797,
                         "name": "Stuttgart",
-                        "odds": "2.84",
+                        "odds": "2.96",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2305064807,
                         "name": "Draw",
-                        "odds": "3.29",
+                        "odds": "3.31",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2305064799,
                         "name": "Mainz",
-                        "odds": "2.47",
+                        "odds": "2.38",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -750,14 +750,14 @@
                     {
                         "id": 2305194661,
                         "name": "VfL Bochum",
-                        "odds": "3.15",
+                        "odds": "3.20",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2305194665,
                         "name": "Draw",
-                        "odds": "3.40",
+                        "odds": "3.35",
                         "shortName": "X",
                         "specValue": 0
                     },
@@ -880,21 +880,21 @@
                     {
                         "id": 2305196023,
                         "name": "Hertha BSC",
-                        "odds": "2.10",
+                        "odds": "2.11",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2305196025,
                         "name": "Draw",
-                        "odds": "3.40",
+                        "odds": "3.36",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2305196027,
                         "name": "Augsburg",
-                        "odds": "3.45",
+                        "odds": "3.46",
                         "shortName": "2",
                         "specValue": 0
                     }

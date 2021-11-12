@@ -12,7 +12,7 @@
             "is_esport": false,
             "is_srl": false,
             "match_id": "2466688",
-            "neutral_odd": "7.80",
+            "neutral_odd": "7.60",
             "odds": [
                 {
                     "name": "1X2",
@@ -32,7 +32,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "7.80",
+                            "odd_value": "7.60",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -367,7 +367,7 @@
             "competition_id": "214",
             "competition_name": "Bundesliga",
             "game_id": "53323",
-            "home_odd": "2.10",
+            "home_odd": "2.11",
             "home_team": "UNION BERLIN",
             "is_esport": false,
             "is_srl": false,
@@ -381,7 +381,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "UNION BERLIN",
-                            "odd_value": "2.10",
+                            "odd_value": "2.11",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -541,13 +541,13 @@
             "start_time": "2021-11-21 19:30:00"
         },
         {
-            "away_odd": "2.50",
+            "away_odd": "2.40",
             "away_team": "MAINZ",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
             "game_id": "57855",
-            "home_odd": "2.85",
+            "home_odd": "3.00",
             "home_team": "STUTTGART",
             "is_esport": false,
             "is_srl": false,
@@ -561,7 +561,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "STUTTGART",
-                            "odd_value": "2.85",
+                            "odd_value": "3.00",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -583,7 +583,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "MAINZ",
-                            "odd_value": "2.50",
+                            "odd_value": "2.40",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -721,18 +721,18 @@
             "start_time": "2021-11-27 17:30:00"
         },
         {
-            "away_odd": "3.45",
+            "away_odd": "3.50",
             "away_team": "AUGSBURG",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
             "game_id": "31086",
-            "home_odd": "2.12",
+            "home_odd": "2.13",
             "home_team": "HERTHA",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2727902",
-            "neutral_odd": "3.35",
+            "neutral_odd": "3.30",
             "odds": [
                 {
                     "name": "1X2",
@@ -741,7 +741,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "HERTHA",
-                            "odd_value": "2.12",
+                            "odd_value": "2.13",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -752,7 +752,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.35",
+                            "odd_value": "3.30",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -763,7 +763,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "AUGSBURG",
-                            "odd_value": "3.45",
+                            "odd_value": "3.50",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -781,18 +781,18 @@
             "start_time": "2021-11-27 17:30:00"
         },
         {
-            "away_odd": "2.25",
+            "away_odd": "2.24",
             "away_team": "FREIBURG",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
             "game_id": "44815",
-            "home_odd": "3.20",
+            "home_odd": "3.25",
             "home_team": "Bochum",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2727933",
-            "neutral_odd": "3.35",
+            "neutral_odd": "3.30",
             "odds": [
                 {
                     "name": "1X2",
@@ -801,7 +801,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Bochum",
-                            "odd_value": "3.20",
+                            "odd_value": "3.25",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -812,7 +812,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.35",
+                            "odd_value": "3.30",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -823,7 +823,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "FREIBURG",
-                            "odd_value": "2.25",
+                            "odd_value": "2.24",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1085,11 +1085,11 @@
         "current_page": 1,
         "current_tab": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1163,40 +1163,32 @@
         "limit": 100,
         "periods": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -1,
                 "name": "Today",
-                "period_end": "2021-11-12 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2021-11-11",
-                "id": -2,
-                "name": "Next 48hrs",
-                "period_end": "2021-11-13 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2021-11-12",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2021-11-13 04:01:00",
                 "period_start": "2021-11-12 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2021-11-12",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2021-11-13",
-                "id": 2,
-                "name": "Saturday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2021-11-14 04:01:00",
                 "period_start": "2021-11-13 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2021-11-14",
-                "id": 3,
+                "id": 2,
                 "name": "Sunday",
                 "period_end": "2021-11-15 04:01:00",
                 "period_start": "2021-11-14 04:00:00",
@@ -1204,7 +1196,7 @@
             },
             {
                 "date": "2021-11-15",
-                "id": 4,
+                "id": 3,
                 "name": "Monday",
                 "period_end": "2021-11-16 04:01:00",
                 "period_start": "2021-11-15 04:00:00",
@@ -1212,7 +1204,7 @@
             },
             {
                 "date": "2021-11-16",
-                "id": 5,
+                "id": 4,
                 "name": "Tuesday",
                 "period_end": "2021-11-17 04:01:00",
                 "period_start": "2021-11-16 04:00:00",
@@ -1220,7 +1212,7 @@
             },
             {
                 "date": "2021-11-17",
-                "id": 6,
+                "id": 5,
                 "name": "Wednesday",
                 "period_end": "2021-11-18 04:01:00",
                 "period_start": "2021-11-17 04:00:00",
@@ -1228,7 +1220,7 @@
             },
             {
                 "date": "2021-11-18",
-                "id": 7,
+                "id": 6,
                 "name": "Thursday",
                 "period_end": "2021-11-19 04:01:00",
                 "period_start": "2021-11-18 04:00:00",
@@ -1236,18 +1228,26 @@
             },
             {
                 "date": "2021-11-19",
+                "id": 7,
+                "name": "Friday",
+                "period_end": "2021-11-20 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-20",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-03-11 04:01:00",
-                "period_start": "2021-11-19 04:00:00",
+                "period_end": "2022-03-12 04:01:00",
+                "period_start": "2021-11-20 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": 9,
                 "name": "All",
-                "period_end": "2022-03-11 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
+                "period_end": "2022-03-12 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1285,10 +1285,6 @@
             {
                 "sport_id": "30",
                 "sport_name": "Basketball"
-            },
-            {
-                "sport_id": "31",
-                "sport_name": "Baseball"
             },
             {
                 "sport_id": "33",
@@ -1339,46 +1335,42 @@
                 "sport_name": "Dota 2"
             },
             {
+                "sport_id": "89",
+                "sport_name": "Bandy"
+            },
+            {
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -1,
                 "name": "Today's Highlights",
-                "period_end": "2021-11-12 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2021-11-11",
-                "id": -2,
-                "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2021-11-12",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2021-11-13 04:01:00",
                 "period_start": "2021-11-12 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2021-11-12",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2021-11-13",
-                "id": 2,
-                "name": "Saturday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2021-11-14 04:01:00",
                 "period_start": "2021-11-13 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2021-11-14",
-                "id": 3,
+                "id": 2,
                 "name": "Sunday",
                 "period_end": "2021-11-15 04:01:00",
                 "period_start": "2021-11-14 04:00:00",
@@ -1386,7 +1378,7 @@
             },
             {
                 "date": "2021-11-15",
-                "id": 4,
+                "id": 3,
                 "name": "Monday",
                 "period_end": "2021-11-16 04:01:00",
                 "period_start": "2021-11-15 04:00:00",
@@ -1394,7 +1386,7 @@
             },
             {
                 "date": "2021-11-16",
-                "id": 5,
+                "id": 4,
                 "name": "Tuesday",
                 "period_end": "2021-11-17 04:01:00",
                 "period_start": "2021-11-16 04:00:00",
@@ -1402,7 +1394,7 @@
             },
             {
                 "date": "2021-11-17",
-                "id": 6,
+                "id": 5,
                 "name": "Wednesday",
                 "period_end": "2021-11-18 04:01:00",
                 "period_start": "2021-11-17 04:00:00",
@@ -1410,7 +1402,7 @@
             },
             {
                 "date": "2021-11-18",
-                "id": 7,
+                "id": 6,
                 "name": "Thursday",
                 "period_end": "2021-11-19 04:01:00",
                 "period_start": "2021-11-18 04:00:00",
@@ -1418,10 +1410,18 @@
             },
             {
                 "date": "2021-11-19",
+                "id": 7,
+                "name": "Friday",
+                "period_end": "2021-11-20 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-20",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-19 04:00:00",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-20 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1539,5 +1539,5 @@
         ],
         "total": "18"
     },
-    "time_elapsed_secs": 0.061681985855103
+    "time_elapsed_secs": 0.068401098251343
 }
