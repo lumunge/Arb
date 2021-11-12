@@ -35,21 +35,21 @@
                     {
                         "id": 2277819279,
                         "name": "Levante",
-                        "odds": "3.03",
+                        "odds": "3.07",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277819323,
                         "name": "Draw",
-                        "odds": "3.18",
+                        "odds": "3.12",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277819327,
                         "name": "Athletic Bilbao",
-                        "odds": "2.44",
+                        "odds": "2.45",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -100,21 +100,21 @@
                     {
                         "id": 2277821301,
                         "name": "Celta Vigo",
-                        "odds": "3.06",
+                        "odds": "3.12",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277821325,
                         "name": "Draw",
-                        "odds": "3.26",
+                        "odds": "3.28",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277821375,
                         "name": "Villarreal",
-                        "odds": "2.37",
+                        "odds": "2.33",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -165,21 +165,21 @@
                     {
                         "id": 2277822985,
                         "name": "Sevilla FC",
-                        "odds": "1.44",
+                        "odds": "1.45",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277823001,
                         "name": "Draw",
-                        "odds": "4.41",
+                        "odds": "4.33",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277823003,
                         "name": "Alaves",
-                        "odds": "7.41",
+                        "odds": "7.45",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -295,21 +295,21 @@
                     {
                         "id": 2277822083,
                         "name": "Barcelona",
-                        "odds": "1.42",
+                        "odds": "1.43",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277822101,
                         "name": "Draw",
-                        "odds": "4.65",
+                        "odds": "4.59",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277822103,
                         "name": "Espanyol",
-                        "odds": "7.26",
+                        "odds": "7.31",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -360,21 +360,21 @@
                     {
                         "id": 2277825905,
                         "name": "Getafe",
-                        "odds": "1.93",
+                        "odds": "1.94",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277825907,
                         "name": "Draw",
-                        "odds": "3.17",
+                        "odds": "3.15",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277825919,
                         "name": "Cadiz CF",
-                        "odds": "4.52",
+                        "odds": "4.50",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -425,14 +425,14 @@
                     {
                         "id": 2277823979,
                         "name": "Granada",
-                        "odds": "6.58",
+                        "odds": "6.41",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277823999,
                         "name": "Draw",
-                        "odds": "4.51",
+                        "odds": "4.52",
                         "shortName": "X",
                         "specValue": 0
                     },
@@ -490,21 +490,21 @@
                     {
                         "id": 2277828647,
                         "name": "Elche",
-                        "odds": "3.77",
+                        "odds": "3.71",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277828659,
                         "name": "Draw",
-                        "odds": "3.32",
+                        "odds": "3.31",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277828661,
                         "name": "Betis",
-                        "odds": "2.05",
+                        "odds": "2.07",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -555,21 +555,21 @@
                     {
                         "id": 2277827045,
                         "name": "Real Sociedad",
-                        "odds": "1.92",
+                        "odds": "1.91",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277827049,
                         "name": "Draw",
-                        "odds": "3.56",
+                        "odds": "3.52",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277827055,
                         "name": "Valencia",
-                        "odds": "3.96",
+                        "odds": "4.03",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -620,21 +620,21 @@
                     {
                         "id": 2277829587,
                         "name": "Rayo Vallecano",
-                        "odds": "1.75",
+                        "odds": "1.77",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2277829607,
                         "name": "Draw",
-                        "odds": "3.62",
+                        "odds": "3.61",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2277829621,
                         "name": "Mallorca",
-                        "odds": "4.83",
+                        "odds": "4.72",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -750,21 +750,21 @@
                     {
                         "id": 2308418315,
                         "name": "Alaves",
-                        "odds": "2.70",
+                        "odds": "2.61",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2308418317,
                         "name": "Draw",
-                        "odds": "3.10",
+                        "odds": "3.16",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2308418319,
                         "name": "Celta Vigo",
-                        "odds": "2.75",
+                        "odds": "2.81",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1010,21 +1010,21 @@
                     {
                         "id": 2308419529,
                         "name": "Betis",
-                        "odds": "1.66",
+                        "odds": "1.65",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2308419539,
                         "name": "Draw",
-                        "odds": "4.02",
+                        "odds": "4.03",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2308419569,
                         "name": "Levante",
-                        "odds": "4.92",
+                        "odds": "4.94",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1140,21 +1140,21 @@
                     {
                         "id": 2308418765,
                         "name": "Cadiz CF",
-                        "odds": "6.82",
+                        "odds": "6.64",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2308418777,
                         "name": "Draw",
-                        "odds": "4.11",
+                        "odds": "4.13",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2308418807,
                         "name": "Atletico Madrid",
-                        "odds": "1.50",
+                        "odds": "1.51",
                         "shortName": "2",
                         "specValue": 0
                     }

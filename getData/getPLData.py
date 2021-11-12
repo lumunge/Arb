@@ -7,7 +7,7 @@ def probability(a, b, c):
 
 # GET PREMIER LEAGUE DATA FUNCTIONS
 def getSportPesaPLData():
-    f = open("./jsonFiles/sportPesaPremierLeague.json")
+    f = open("../JSON/PLJson/sportPesaPremierLeague.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -34,7 +34,7 @@ def getSportPesaPLData():
 
 
 def getBetikaPLData():
-    f = open("./jsonFiles/betikaPremierLeague.json")
+    f = open("../JSON/PLJson/betikaPremierLeague.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -64,7 +64,7 @@ def getBetikaPLData():
 
 
 def get22BetData():
-    f = open("./jsonFiles/22betPremierLeague.json")
+    f = open("../JSON/PLJson/22betPremierLeague.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
@@ -94,7 +94,7 @@ def get22BetData():
 
 
 def getMlPLData():
-    f = open("./jsonFiles/melbetPremierLeague.json")
+    f = open("../JSON/PLJson/melbetPremierLeague.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -136,7 +136,7 @@ def getMlPLData():
 
 
 def get1XPlData():
-    f = open("./jsonFiles/1xbetPremierLeague.json")
+    f = open("../JSON/PLJson/1xbetPremierLeague.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -156,8 +156,12 @@ def get1XPlData():
     f.close()
 
 
-# getSportPesaPLData()
-getBetikaPLData()
+getSportPesaPLData()
+# print("-=====================================================")
+# getBetikaPLData()
+# print("-=====================================================")
 # get22BetData()
+# print("-=====================================================")
 # getMlPLData()
+# print("-=====================================================")
 # get1XPlData()

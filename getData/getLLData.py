@@ -5,9 +5,9 @@ def probability(a, b, c):
     return round((((1 / a) + (1 / b) + (1 / c)) * 100), 2)
 
 
-# GET BUNDESLIGA DATA FUNCTIONS
-def getSportPesaBLData():
-    f = open("../JSON/BLJson/sportPesaBundesLiga.json")
+# GET LA LIGA DATA FUNCTIONS
+def getSportPesaLLData():
+    f = open("../JSON/LLJson/sportPesaLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -33,8 +33,8 @@ def getSportPesaBLData():
     f.close()
 
 
-def getBetikaBLData():
-    f = open("../JSON/BLJson/betikaBundesLiga.json")
+def getBetikaLLData():
+    f = open("../JSON/LLJson/betikaLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -63,8 +63,8 @@ def getBetikaBLData():
     f.close()
 
 
-def get22BetBLData():
-    f = open("../JSON/BLJson/22betBundesLiga.json")
+def get22BetLLData():
+    f = open("../JSON/LLJson/22betLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
@@ -93,8 +93,8 @@ def get22BetBLData():
     f.close()
 
 
-def getMlBLData():
-    f = open("../JSON/BLJson/melbetBundesLiga.json")
+def getMlLLData():
+    f = open("../JSON/LLJson/melbetLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -114,29 +114,29 @@ def getMlBLData():
     f.close()
 
 
-def getChPlData():
-    f = open("./jsonFiles/chezaPremierLeague.json")
-    data = json.load(f)
-    print(
-        "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-            "Home_Team", "Away_Team", "hOdd", "nOdd", "aOdd"
-        )
-    )
-    for i in data["games"]:
-        print(
-            "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-                i["name"].split("vs.")[0].strip(),
-                i["name"].split("vs.")[1].strip(),
-                i["betTypes"][0]["betLines"][0]["odds"],
-                i["betTypes"][0]["betLines"][1]["odds"],
-                i["betTypes"][0]["betLines"][2]["odds"],
-            )
-        )
-    f.close()
+# def getChPlData():
+#     f = open("./jsonFiles/chezaPremierLeague.json")
+#     data = json.load(f)
+#     print(
+#         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
+#             "Home_Team", "Away_Team", "hOdd", "nOdd", "aOdd"
+#         )
+#     )
+#     for i in data["games"]:
+#         print(
+#             "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
+#                 i["name"].split("vs.")[0].strip(),
+#                 i["name"].split("vs.")[1].strip(),
+#                 i["betTypes"][0]["betLines"][0]["odds"],
+#                 i["betTypes"][0]["betLines"][1]["odds"],
+#                 i["betTypes"][0]["betLines"][2]["odds"],
+#             )
+#         )
+#     f.close()
 
 
-def get1XBlData():
-    f = open("../JSON/BLJson/1xbetBundesLiga.json")
+def get1XLLData():
+    f = open("../JSON/LLJson/1xbetLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -156,8 +156,12 @@ def get1XBlData():
     f.close()
 
 
-# getSportPesaBLData()
-# getBetikaBLData()
-# get22BetBLData()
-# getMlBLData()
-# get1XBlData()
+# getSportPesaLLData()
+# print("-=====================================================")
+# getBetikaLLData()
+# print("-=====================================================")
+# get22BetLLData()
+# print("-=====================================================")
+# getMlLLData()
+# print("-=====================================================")
+# get1XLLData()

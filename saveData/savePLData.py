@@ -64,6 +64,37 @@ def create1XBPLRecord(conn, record):
     return cur.lastrowid
 
 
+pLTeams = {
+    "arsenal": ["Arsenal"],
+    "astonvilla": ["Aston Villa"],
+    "brentford": ["Brentford"],
+    "brighton": ["Brighton", "BRIGHTON", "Brighton & Hove Albion"],
+    "burnely": ["Burnley", "BURNLEY"],
+    "chelsea": ["Chelsea", "CHELSEA"],
+    "crystalpalace": ["Crystal Palace"],
+    "everton": ["Everton"],
+    "leeds": ["Leeds", "Leeds United"],
+    "leicester": ["Leicester", "Leicester City"],
+    "liverpool": ["Liverpool", "LIVERPOOL"],
+    "mancity": ["Manchester City", "MAN CITY"],
+    "manunited": ["Manchester Utd", "MAN UTD", "Manchester United"],
+    "newcastle": ["Newcastle", "NEWCASTLE", "Newcastle United"],
+    "norwichcity": ["Norwich City", "Norwich"],
+    "southampton": ["Southampton", "SOUTHAMPTON"],
+    "tottenham": ["Tottenham", "TOTTENHAM", "Tottenham Hotspur"],
+    "watford": ["Watford", "WATFORD"],
+    "westham": ["West Ham", "WEST HAM", "West Ham United"],
+    "wolves": ["Wolverhampton", "Wolves", "Wolverhampton Wanderers"],
+}
+
+
+def returnKey(str):
+    key = [key for key, val in pLTeams.items() if str in val]
+    if key:
+        return key[0]
+    return None
+
+
 # save records
 def saveSportPesaPL():
     db = "../DBS/premierLeague.db"
@@ -73,8 +104,8 @@ def saveSportPesaPL():
     with conn:
         for i in data:
             record = (
-                formatString(i["competitors"][0]["name"]),
-                formatString(i["competitors"][1]["name"]),
+                returnKey(i["competitors"][0]["name"]),
+                returnKey(i["competitors"][1]["name"]),
                 i["markets"][0]["selections"][0]["odds"],
                 i["markets"][0]["selections"][1]["odds"],
                 i["markets"][0]["selections"][2]["odds"],
@@ -93,8 +124,8 @@ def saveBetikaPL():
     with conn:
         for i in data["data"]:
             record = (
-                formatString(i["home_team"]),
-                formatString(i["away_team"]),
+                returnKey(i["home_team"]),
+                returnKey(i["away_team"]),
                 i["home_odd"],
                 i["neutral_odd"],
                 i["away_odd"],
@@ -112,8 +143,8 @@ def saveBet22PL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -131,8 +162,8 @@ def saveMelPL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -150,8 +181,8 @@ def save1XPL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -164,8 +195,8 @@ def save1XPL():
 def combineRecords():
     db = "../DBS/premierLeague.db"
     conn = createConnection(db)
-    combinePremierLeagueSql = """INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
-SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
+    combinePremierLeagueSql = """INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time)
+SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time
 FROM sportpesaPremierLeague sp, betikaPremierLeague as btk, bet22PremierLeague as btt, melPremierLeague as ml, x1betPremierLeague as x1
 WHERE sp.home_team=btk.home_team
 AND sp.home_team=btt.home_team

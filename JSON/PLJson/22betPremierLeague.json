@@ -11,91 +11,48 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.32,
-=======
-                            "C": 3.38,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.33,
-=======
-                            "C": 1.32,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.41,
-=======
-                            "C": 8.6,
-                            "G": 2,
-                            "P": -1,
-                            "T": 7
-                        },
-                        {
-                            "C": 2.23,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.568,
-=======
-                            "C": 1.656,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.136,
                             "CE": 1,
-=======
-                            "C": 1.05,
-                            "G": 2,
-                            "P": 1,
-                            "T": 8
-                        },
-                        {
-                            "C": 2.86,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.365,
                             "CE": 1,
-=======
-                            "C": 1.42,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 5.55,
-=======
-                            "C": 4.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.138,
                             "G": 2,
                             "P": 2,
@@ -112,12 +69,6 @@
                             "G": 2,
                             "P": 2.5,
                             "T": 7
-=======
-                            "C": 1.182,
-                            "G": 2,
-                            "P": 2,
-                            "T": 7
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                         }
                     ]
                 },
@@ -125,161 +76,99 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.3,
-=======
-                            "C": 1.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
-                            "P": 2.5,
+                            "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.4,
-=======
-                            "C": 2.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "G": 17,
+                            "P": 1.5,
+                            "T": 10
+                        },
+                        {
+                            "C": 1.47,
+                            "G": 17,
+                            "P": 2,
+                            "T": 9
+                        },
+                        {
+                            "C": 2.68,
+                            "G": 17,
+                            "P": 2,
+                            "T": 10
+                        },
+                        {
+                            "C": 1.93,
+                            "CE": 1,
+                            "G": 17,
+                            "P": 2.5,
+                            "T": 9
+                        },
+                        {
+                            "C": 1.87,
+                            "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.47,
-=======
-                            "C": 1.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "G": 17,
-                            "P": 3,
-                            "T": 9
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 2.68,
-=======
-                            "C": 2.01,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "G": 17,
-                            "P": 3,
-                            "T": 10
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.93,
-=======
-                            "C": 2.296,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "CE": 1,
-                            "G": 17,
-                            "P": 3.5,
-                            "T": 9
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.87,
-=======
-                            "C": 1.62,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "CE": 1,
-                            "G": 17,
-                            "P": 3.5,
-                            "T": 10
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.65,
-=======
-                            "C": 3.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
-                            "P": 4,
+                            "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.48,
-=======
-                            "C": 1.34,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
-                            "P": 4,
+                            "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.26,
-=======
-                            "C": 3.78,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
-                            "P": 4.5,
+                            "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.32,
-=======
-                            "C": 1.25,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
-                            "P": 4.5,
+                            "P": 3.5,
                             "T": 10
                         }
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 782738,
+            "B": 761997,
             "CI": 116886748,
-=======
-            "B": 1665,
-            "CI": 116290105,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 4.52,
-=======
-                    "C": 4.42,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.76,
-=======
-                    "C": 4.18,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.768,
-=======
-                    "C": 1.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.365,
-=======
-                    "C": 1.656,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.136,
                     "CE": 1,
                     "G": 2,
@@ -288,105 +177,62 @@
                 },
                 {
                     "C": 1.93,
-=======
-                    "C": 2.23,
-                    "CE": 1,
-                    "G": 2,
-                    "P": -1,
-                    "T": 8
-                },
-                {
-                    "C": 2.296,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
-                    "P": 3.5,
+                    "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.87,
-=======
-                    "C": 1.62,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
-                    "P": 3.5,
+                    "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.57,
-=======
-                    "C": 2.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 0.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.4,
-=======
-                    "C": 1.47,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 0.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.87,
-=======
-                    "C": 1.57,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.93,
-=======
-                    "C": 2.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.92,
-=======
-                    "C": 1.6,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.836,
-=======
-                    "C": 2.272,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.23,
-=======
-                    "C": 1.235,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.296,
                     "G": 8,
                     "T": 5
@@ -397,7 +243,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1396,
+            "EC": 1384,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -599,7 +445,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886755,
             "CID": 1,
             "CN": "England",
@@ -904,7 +750,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886713,
             "CID": 1,
             "CN": "England",
@@ -1007,7 +853,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1399,
+            "EC": 1385,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -1209,7 +1055,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886715,
             "CID": 1,
             "CN": "England",
@@ -1514,7 +1360,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886708,
             "CID": 1,
             "CN": "England",
@@ -1819,7 +1665,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886739,
             "CID": 1,
             "CN": "England",
@@ -1922,7 +1768,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1405,
+            "EC": 1393,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -2124,7 +1970,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116886732,
             "CID": 1,
             "CN": "England",
@@ -2227,7 +2073,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1379,
+            "EC": 1400,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -2429,7 +2275,7 @@
                     ]
                 }
             ],
-            "B": 800738,
+            "B": 779997,
             "CI": 116886750,
             "CID": 1,
             "CN": "England",
@@ -2532,7 +2378,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1410,
+            "EC": 1388,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -2735,7 +2581,7 @@
                     ]
                 }
             ],
-            "B": 782738,
+            "B": 761997,
             "CI": 116888238,
             "CID": 1,
             "CN": "England",
@@ -3109,7 +2955,7 @@
                     ]
                 }
             ],
-            "B": 791738,
+            "B": 770997,
             "CI": 116905071,
             "CID": 1,
             "CN": "England",
@@ -3448,7 +3294,7 @@
                     ]
                 }
             ],
-            "B": 874538,
+            "B": 853797,
             "CI": 116886738,
             "CID": 1,
             "CN": "England",
@@ -3551,7 +3397,7 @@
                     "T": 4
                 }
             ],
-            "EC": 1350,
+            "EC": 1330,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -3753,7 +3599,7 @@
                     ]
                 }
             ],
-            "B": 883538,
+            "B": 862797,
             "CI": 116886712,
             "CID": 1,
             "CN": "England",
@@ -3852,109 +3698,37 @@
                 },
                 {
                     "C": 1.24,
-=======
-                    "C": 1.256,
-                    "G": 8,
-                    "T": 5
-                },
-                {
-                    "C": 2.184,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1407,
-=======
-            "EC": 1593,
-            "GSE": true,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
-            "HLU": true,
             "HS": 1,
             "HSI": true,
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "I": 335423444,
-=======
-            "I": 335169722,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "KI": 3,
             "L": "England. Premier League",
             "LE": "England. Premier League",
             "LI": 88637,
             "LR": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0410\u043d\u0433\u043b\u0438\u0438. \u041f\u0440\u0435\u043c\u044c\u0435\u0440-\u043b\u0438\u0433\u0430",
             "MIO": {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                 "Loc": "Tottenham Hotspur (London)",
                 "TSt": "Round 12"
-=======
-                "Loc": "Olympic Stadium (London)",
-                "TSt": "Round 11"
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             },
             "MIS": [
                 {
                     "K": 1,
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "V": "Round 12"
                 },
                 {
                     "K": 2,
                     "V": "Tottenham Hotspur (London)"
-=======
-                    "V": "Round 11"
-                },
-                {
-                    "K": 2,
-                    "V": "Olympic Stadium (London)"
-                },
-                {
-                    "K": 9,
-                    "V": "+10\u00b0C"
-                },
-                {
-                    "K": 20,
-                    "V": "3"
-                },
-                {
-                    "K": 21,
-                    "V": "Some cloud"
-                },
-                {
-                    "K": 22,
-                    "V": "14"
-                },
-                {
-                    "K": 23,
-                    "V": "2.8"
-                },
-                {
-                    "K": 24,
-                    "V": "WNW wind, m/s"
-                },
-                {
-                    "K": 25,
-                    "V": "766"
-                },
-                {
-                    "K": 26,
-                    "V": "Pressure, mmHg"
-                },
-                {
-                    "K": 27,
-                    "V": "63"
-                },
-                {
-                    "K": 28,
-                    "V": "Humidity, %"
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                 }
             ],
             "MS": [
                 0
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "N": 18757,
             "O1": "Tottenham Hotspur",
             "O1C": 39,
@@ -3984,37 +3758,6 @@
             "SE": "Football",
             "SGC": 2,
             "SGI": "60c9c166f75a663f6938d551",
-=======
-            "N": 24479,
-            "O1": "West Ham United",
-            "O1C": 39,
-            "O1CT": "London",
-            "O1E": "West Ham United",
-            "O1I": 1980,
-            "O1IMG": [
-                "1980.png"
-            ],
-            "O1IS": [
-                1980
-            ],
-            "O1R": "\u0412\u0435\u0441\u0442 \u0425\u044d\u043c \u042e\u043d\u0430\u0439\u0442\u0435\u0434",
-            "O2": "Liverpool",
-            "O2C": 39,
-            "O2CT": "Liverpool",
-            "O2E": "Liverpool",
-            "O2I": 1990,
-            "O2IMG": [
-                "1990.png"
-            ],
-            "O2IS": [
-                1990
-            ],
-            "O2R": "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b\u044c",
-            "S": 1636302600,
-            "SE": "Football",
-            "SGC": 53,
-            "SGI": "60c9c166f75a663f6938d586",
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "SI": 1,
             "SIMG": "/genfiles/cms/1-1/desktop/sport/08f3a4e689f1009e21e44adec26d0676.png",
             "SN": "Football",
@@ -4032,101 +3775,54 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.375,
-=======
-                            "C": 3.2,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.08,
-=======
-                            "C": 1.35,
-                            "G": 2,
-                            "T": 8
-                        },
-                        {
-                            "C": 2.48,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.736,
                             "CE": 1,
-=======
-                            "C": 1.54,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.096,
-=======
-                            "C": 3.24,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": 2.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.33,
-=======
-                            "C": 1.344,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -3.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.605,
-=======
-                            "C": 5.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 3.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.465,
-=======
-                            "C": 1.128,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -4.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.308,
-=======
-                            "C": 6.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 4.5,
                             "T": 8
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-=======
-                        },
-                        {
-                            "C": 1.09,
-                            "G": 2,
-                            "P": 2.5,
-                            "T": 7
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                         }
                     ]
                 },
@@ -4146,21 +3842,13 @@
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.65,
-=======
-                            "C": 1.47,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 5.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.239,
-=======
-                            "C": 2.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 5.5,
                             "T": 10
@@ -4180,21 +3868,13 @@
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.1,
-=======
-                            "C": 2.65,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 7.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.369,
-=======
-                            "C": 1.48,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 7.5,
                             "T": 10
@@ -4214,62 +3894,37 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 874538,
+            "B": 853797,
             "CI": 116888270,
-=======
-            "B": 1110465,
-            "CI": 116886748,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "DI": "2 Matches",
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.168,
-=======
-                    "C": 4.36,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 9.85,
-=======
-                    "C": 3.72,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 10.5,
-=======
-                    "C": 1.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.736,
-=======
-                    "C": 1.344,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -2.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.096,
-=======
-                    "C": 3.24,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 2.5,
@@ -4328,29 +3983,17 @@
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.03,
-=======
-                    "C": 1.24,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.04,
-=======
-                    "C": 1.304,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 4.94,
-=======
-                    "C": 2.044,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 }
@@ -4362,10 +4005,6 @@
                     "Value": "Manchester City;1637503200;1994;57060f6368da70fbdfff37cb4b0280a5.png#Everton;1637503200;1992;1992.png/Tottenham Hotspur;1637512200;1984;1984.png#Leeds United;1637512200;2034;8dafff7a4bc7ae83eb47335fae1bd0e9.png"
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-=======
-            "EC": 1398,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "I": 336970483,
@@ -4448,91 +4087,55 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.136,
-=======
-                            "C": 1.875,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 5.8,
-=======
-                            "C": 1.925,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.608,
-=======
-                            "C": 4.42,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.32,
-=======
-                            "C": 1.21,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.08,
-=======
-                            "C": 5.35,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.75,
-=======
-                            "C": 1.14,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.9,
-=======
-                            "C": 10.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.4,
-=======
-                            "C": 1.018,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.54,
-=======
-                            "C": 11,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
@@ -4549,103 +4152,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.148,
-=======
-                            "C": 1.32,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.64,
-=======
-                            "C": 3.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.23,
-=======
-                            "C": 1.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.8,
-=======
-                            "C": 2.53,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.575,
-=======
-                            "C": 1.995,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.39,
-=======
-                            "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.9,
-=======
-                            "C": 2.79,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.9,
-=======
-                            "C": 1.44,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.425,
-=======
-                            "C": 3.46,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.56,
-=======
-                            "C": 1.29,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -4653,183 +4216,110 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1387538,
+            "B": 1366797,
             "CI": 117530873,
-=======
-            "B": 1119465,
-            "CI": 116886755,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.392,
-=======
-                    "C": 2.592,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 5,
-=======
-                    "C": 3.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 7.3,
-=======
-                    "C": 2.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.08,
-=======
-                    "C": 5.35,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.75,
-=======
-                    "C": 1.14,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.575,
-=======
-                    "C": 1.995,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.39,
-=======
-                    "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.36,
-=======
-                    "C": 2.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.59,
-=======
-                    "C": 1.53,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.64,
-=======
-                    "C": 2.56,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.26,
-=======
-                    "C": 1.51,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.81,
-=======
-                    "C": 1.85,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.95,
-=======
-                    "C": 1.905,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.002,
-=======
-                    "C": 1.53,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.2,
-=======
-                    "C": 1.344,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.115,
-=======
-                    "C": 1.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1156,
-=======
-            "EC": 1404,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -4901,96 +4391,64 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.55,
-=======
-                            "C": 1.936,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.6,
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 2.45,
-=======
-                            "C": 1.864,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 2.34,
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 3.26,
-=======
-                            "C": 4.6,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 3.44,
                             "G": 2,
                             "P": -1,
-                            "T": 8
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.34,
-=======
-                            "C": 1.196,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "G": 2,
-                            "P": 1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 4.1,
-=======
-                            "C": 5.55,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.31,
+                            "G": 2,
+                            "P": 1,
+                            "T": 8
+                        },
+                        {
+                            "C": 4.32,
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
-                            "T": 8
+                            "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.22,
-=======
-                            "C": 1.13,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.2,
                             "CE": 1,
                             "G": 2,
                             "P": 1.5,
-                            "T": 7
-                        },
-                        {
-                            "C": 7.9,
-                            "G": 2,
-                            "P": -2,
                             "T": 8
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.055,
-=======
-                            "C": 1.012,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "G": 2,
-                            "P": 2,
-                            "T": 7
                         },
                         {
                             "C": 8.4,
                             "G": 2,
-                            "P": -2.5,
+                            "P": -2,
+                            "T": 7
+                        },
+                        {
+                            "C": 1.045,
+                            "G": 2,
+                            "P": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.03,
-=======
-                            "C": 1.004,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 8.9,
+                            "G": 2,
+                            "P": -2.5,
+                            "T": 7
+                        },
+                        {
+                            "C": 1.025,
                             "G": 2,
                             "P": 2.5,
-                            "T": 7
+                            "T": 8
                         }
                     ]
                 },
@@ -4998,103 +4456,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.33,
-=======
-                            "C": 1.38,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.2,
-=======
-                            "C": 2.94,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.53,
-=======
-                            "C": 1.64,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.54,
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 2.5,
-=======
-                            "C": 2.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 2.48,
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 2.016,
-=======
-                            "C": 2.175,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 2.03,
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.792,
-=======
-                            "C": 1.685,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.784,
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.87,
-=======
-                            "C": 3.2,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.42,
-=======
-                            "C": 1.35,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.54,
-=======
-                            "C": 3.88,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.28,
-=======
-                            "C": 1.24,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -5102,183 +4520,110 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1396538,
+            "B": 1375797,
             "CI": 117530859,
-=======
-            "B": 1119465,
-            "CI": 116886713,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 2.136,
-=======
-                    "C": 2.725,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 2.21,
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 3.44,
-=======
-                    "C": 3.28,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 3.4,
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 3.4,
-=======
-                    "C": 2.62,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 3.24,
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 4.1,
-=======
-                    "C": 1.13,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                    "CE": 1,
-                    "G": 2,
-                    "P": 1.5,
-                    "T": 7
-                },
-                {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 1.22,
-=======
-                    "C": 5.55,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 4.32,
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
+                    "T": 7
+                },
+                {
+                    "C": 1.2,
+                    "CE": 1,
+                    "G": 2,
+                    "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 2.016,
-=======
-                    "C": 2.175,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 2.03,
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 1.792,
-=======
-                    "C": 1.685,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 1.784,
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.3,
-=======
-                    "C": 2.79,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.62,
-=======
-                    "C": 1.44,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.45,
-=======
-                    "C": 2.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.75,
-=======
-                    "C": 1.47,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.92,
-=======
-                    "C": 1.95,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.836,
-=======
-                    "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 1.744,
-=======
-                    "C": 1.488,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 1.696,
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 1.34,
-=======
-                    "C": 1.365,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 1.344,
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                    "C": 1.344,
-=======
-                    "C": 1.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                    "C": 1.37,
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1156,
-=======
-            "EC": 1401,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -5351,49 +4696,29 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.092,
-=======
-                            "C": 2.06,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 6.7,
-=======
-                            "C": 1.76,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.445,
-=======
-                            "C": 4.04,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.78,
-=======
-                            "C": 1.24,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.84,
-=======
-                            "C": 4.94,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
@@ -5436,103 +4761,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.42,
-=======
-                            "C": 1.32,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.78,
-=======
-                            "C": 3.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.65,
-=======
-                            "C": 1.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.24,
-=======
-                            "C": 2.53,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.085,
-=======
-                            "C": 2.008,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.744,
-=======
-                            "C": 1.805,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 3.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.79,
-=======
-                            "C": 2.83,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 4,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.44,
-=======
-                            "C": 1.43,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 4,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.32,
-=======
-                            "C": 3.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 4.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.31,
-=======
-                            "C": 1.285,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 4.5,
                             "T": 10
@@ -5540,41 +4825,24 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1396538,
+            "B": 1375797,
             "CI": 117530877,
-=======
-            "B": 1119465,
-            "CI": 116886715,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.3,
-=======
-                    "C": 2.86,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 5.8,
-=======
-                    "C": 3.38,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 8.8,
-=======
-                    "C": 2.445,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
@@ -5586,133 +4854,81 @@
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.965,
-=======
-                    "C": 4.94,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.085,
-=======
-                    "C": 2.008,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 3.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.744,
-=======
-                    "C": 1.805,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 3.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.99,
-=======
-                    "C": 2.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.82,
-=======
-                    "C": 1.47,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.63,
-=======
-                    "C": 2.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.28,
-=======
-                    "C": 1.57,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.8,
-=======
-                    "C": 1.85,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.962,
-=======
-                    "C": 1.905,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.52,
-=======
-                    "C": 1.452,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.16,
-=======
-                    "C": 1.344,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.09,
-=======
-                    "C": 1.584,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1159,
-=======
-            "EC": 1399,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -5785,20 +5001,12 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.645,
-=======
-                            "C": 2.675,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.48,
-=======
-                            "C": 1.475,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
@@ -5815,63 +5023,39 @@
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.78,
-=======
-                            "C": 3.54,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.25,
-=======
-                            "C": 1.28,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": 1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 7.3,
-=======
-                            "C": 6.45,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.064,
-=======
-                            "C": 1.085,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 7.9,
-=======
-                            "C": 7.1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.04,
-=======
-                            "C": 1.056,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 7
@@ -5882,103 +5066,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.332,
-=======
-                            "C": 1.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.18,
-=======
-                            "C": 3.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.55,
-=======
-                            "C": 1.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.45,
-=======
-                            "C": 2.95,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.048,
-=======
-                            "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.775,
-=======
-                            "C": 1.995,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.91,
-=======
-                            "C": 2.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.41,
-=======
-                            "C": 1.57,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.62,
-=======
-                            "C": 2.99,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.27,
-=======
-                            "C": 1.37,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -5986,147 +5130,90 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1396538,
+            "B": 1375797,
             "CI": 117530862,
-=======
-            "B": 1119465,
-            "CI": 116886708,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.6,
-=======
-                    "C": 3.62,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.48,
-=======
-                    "C": 3.66,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.04,
-=======
-                    "C": 1.98,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.25,
-=======
-                    "C": 1.28,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.78,
-=======
-                    "C": 3.54,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.048,
-=======
-                    "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.775,
-=======
-                    "C": 1.995,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.49,
-=======
-                    "C": 2.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
-                    "P": 1.5,
+                    "P": 0.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.6,
-=======
-                    "C": 1.43,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
-                    "P": 1.5,
+                    "P": 0.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.1,
-=======
-                    "C": 1.944,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.73,
-=======
-                    "C": 1.856,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.91,
-=======
-                    "C": 1.75,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.848,
-=======
-                    "C": 2.025,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
@@ -6136,29 +5223,17 @@
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.332,
-=======
-                    "C": 1.31,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.812,
-=======
-                    "C": 1.86,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1149,
-=======
-            "EC": 1409,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -6231,101 +5306,61 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.625,
-=======
-                            "C": 4.44,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.285,
-=======
-                            "C": 1.192,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.44,
-=======
-                            "C": 1.85,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.31,
-=======
-                            "C": 1.95,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.2,
-=======
-                            "C": 2.43,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.21,
-=======
-                            "C": 1.56,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 8.1,
-=======
-                            "C": 3.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.05,
-=======
-                            "C": 1.275,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 8.6,
-=======
-                            "C": 4.44,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.03,
-=======
-                            "C": 1.2,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 8
@@ -6336,103 +5371,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.28,
-=======
-                            "C": 1.195,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.54,
-=======
-                            "C": 4.4,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.44,
-=======
-                            "C": 1.3,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.79,
-=======
-                            "C": 3.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.89,
-=======
-                            "C": 1.65,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.91,
-=======
-                            "C": 2.245,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.56,
-=======
-                            "C": 2.05,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.51,
-=======
-                            "C": 1.77,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.18,
-=======
-                            "C": 2.57,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.332,
-=======
-                            "C": 1.48,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -6440,83 +5435,50 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1405538,
+            "B": 1384797,
             "CI": 117530876,
-=======
-            "B": 1119465,
-            "CI": 116886739,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.225,
-=======
-                    "C": 5.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.5,
-=======
-                    "C": 4.46,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.13,
-=======
-                    "C": 1.52,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 4.2,
-=======
-                    "C": 1.56,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.21,
-=======
-                    "C": 2.43,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.89,
-=======
-                    "C": 1.65,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.91,
-=======
-                    "C": 2.245,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
@@ -6561,38 +5523,22 @@
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.69,
-=======
-                    "C": 1.16,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.33,
-=======
-                    "C": 1.235,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.39,
-=======
-                    "C": 2.56,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1164,
-=======
-            "EC": 1408,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -6665,63 +5611,63 @@
                     "G": 2,
                     "ME": [
                         {
-                            "C": 1.43,
+                            "C": 1.445,
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-                            "C": 2.82,
+                            "C": 2.77,
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-                            "C": 1.666,
+                            "C": 1.683,
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-                            "C": 2.21,
+                            "C": 2.181,
                             "G": 2,
                             "P": 2.5,
                             "T": 8
                         },
                         {
-                            "C": 1.98,
+                            "C": 2.005,
                             "CE": 1,
                             "G": 2,
                             "P": -3.5,
                             "T": 7
                         },
                         {
-                            "C": 1.825,
+                            "C": 1.805,
                             "CE": 1,
                             "G": 2,
                             "P": 3.5,
                             "T": 8
                         },
                         {
-                            "C": 2.448,
+                            "C": 2.488,
                             "G": 2,
                             "P": -4.5,
                             "T": 7
                         },
                         {
-                            "C": 1.55,
+                            "C": 1.536,
                             "G": 2,
                             "P": 4.5,
                             "T": 8
                         },
                         {
-                            "C": 3.18,
+                            "C": 3.24,
                             "G": 2,
                             "P": -5.5,
                             "T": 7
                         },
                         {
-                            "C": 1.354,
+                            "C": 1.343,
                             "G": 2,
                             "P": 5.5,
                             "T": 8
@@ -6732,63 +5678,63 @@
                     "G": 17,
                     "ME": [
                         {
-                            "C": 1.432,
+                            "C": 1.436,
                             "G": 17,
                             "P": 12.5,
                             "T": 9
                         },
                         {
-                            "C": 2.816,
+                            "C": 2.806,
                             "G": 17,
                             "P": 12.5,
                             "T": 10
                         },
                         {
-                            "C": 1.671,
+                            "C": 1.674,
                             "G": 17,
                             "P": 13.5,
                             "T": 9
                         },
                         {
-                            "C": 2.201,
+                            "C": 2.196,
                             "G": 17,
                             "P": 13.5,
                             "T": 10
                         },
                         {
-                            "C": 1.984,
+                            "C": 1.99,
                             "CE": 1,
                             "G": 17,
                             "P": 14.5,
                             "T": 9
                         },
                         {
-                            "C": 1.82,
+                            "C": 1.816,
                             "CE": 1,
                             "G": 17,
                             "P": 14.5,
                             "T": 10
                         },
                         {
-                            "C": 2.444,
+                            "C": 2.451,
                             "G": 17,
                             "P": 15.5,
                             "T": 9
                         },
                         {
-                            "C": 1.554,
+                            "C": 1.551,
                             "G": 17,
                             "P": 15.5,
                             "T": 10
                         },
                         {
-                            "C": 3.14,
+                            "C": 3.155,
                             "G": 17,
                             "P": 16.5,
                             "T": 9
                         },
                         {
-                            "C": 1.361,
+                            "C": 1.359,
                             "G": 17,
                             "P": 16.5,
                             "T": 10
@@ -6796,101 +5742,92 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1387538,
+            "B": 1366797,
             "CI": 117531576,
-=======
-            "B": 1119465,
-            "CI": 116886732,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "DI": "5 Matches",
             "E": [
                 {
-                    "C": 1.276,
+                    "C": 1.285,
                     "G": 1,
                     "T": 1
                 },
                 {
-                    "C": 11.3,
+                    "C": 11.2,
                     "G": 1,
                     "T": 2
                 },
                 {
-                    "C": 5.5,
+                    "C": 5.3,
                     "G": 1,
                     "T": 3
                 },
                 {
-                    "C": 1.98,
+                    "C": 2.005,
                     "CE": 1,
                     "G": 2,
                     "P": -3.5,
                     "T": 7
                 },
                 {
-                    "C": 1.825,
+                    "C": 1.805,
                     "CE": 1,
                     "G": 2,
                     "P": 3.5,
                     "T": 8
                 },
                 {
-                    "C": 1.984,
+                    "C": 1.99,
                     "CE": 1,
                     "G": 17,
                     "P": 14.5,
                     "T": 9
                 },
                 {
-                    "C": 1.82,
+                    "C": 1.816,
                     "CE": 1,
                     "G": 17,
                     "P": 14.5,
                     "T": 10
                 },
                 {
-                    "C": 1.818,
+                    "C": 1.833,
                     "CE": 1,
                     "G": 15,
                     "P": 8.5,
                     "T": 11
                 },
                 {
-                    "C": 1.989,
+                    "C": 1.972,
                     "CE": 1,
                     "G": 15,
                     "P": 8.5,
                     "T": 12
                 },
                 {
-                    "C": 1.964,
+                    "C": 1.95,
                     "CE": 1,
                     "G": 62,
                     "P": 5.5,
                     "T": 13
                 },
                 {
-                    "C": 1.84,
+                    "C": 1.855,
                     "CE": 1,
                     "G": 62,
                     "P": 5.5,
                     "T": 14
                 }
             ],
-            "EC": 496,
+            "EC": 501,
             "GI": [
                 {
                     "Key": "statDay",
                     "Value": "Arsenal;1638016200;50679;08a25897e35d75d7261a8095b9599aad.png#Newcastle United;1638016200;2000;2000.png/Crystal Palace;1638025200;2020;2020.png#Aston Villa;1638025200;1976;1976.png/Liverpool;1638025200;1990;1990.png#Southampton;1638025200;2006;2006.png/Norwich City;1638025200;1998;1998.png#Wolverhampton Wanderers;1638025200;2058;2058.png/Brighton & Hove Albion;1638034200;2026;2026.png#Leeds United;1638034200;2034;8dafff7a4bc7ae83eb47335fae1bd0e9.png"
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-=======
-            "EC": 1401,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "I": 336988402,
@@ -7003,104 +5940,63 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.712,
-=======
-                            "C": 1.17,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.13,
-=======
-                            "C": 5.05,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.04,
-=======
-                            "C": 1.736,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.24,
-=======
-                            "C": 12.5,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
-                            "P": -1,
+                            "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 5.05,
                             "CE": 1,
-=======
-                            "C": 1.008,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "G": 2,
-                            "P": 1,
-                            "T": 7
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.155,
-=======
-                            "C": 2.1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
-                            "CE": 1,
-                            "G": 2,
-                            "P": 1,
-                            "T": 8
-                        },
-                        {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 10,
-=======
-                            "C": 2.256,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.02,
-=======
-                            "C": 1.64,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.155,
+                            "CE": 1,
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 11,
-=======
-                            "C": 3.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 10,
                             "G": 2,
                             "P": -2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-                            "C": 1.01,
-=======
-                            "C": 1.33,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
+                            "C": 1.02,
                             "G": 2,
                             "P": 2,
+                            "T": 8
+                        },
+                        {
+                            "C": 11,
+                            "G": 2,
+                            "P": -2.5,
+                            "T": 7
+                        },
+                        {
+                            "C": 1.01,
+                            "G": 2,
+                            "P": 2.5,
                             "T": 8
                         }
                     ]
@@ -7133,22 +6029,14 @@
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.285,
-=======
-                            "C": 2.25,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.625,
-=======
-                            "C": 1.645,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
@@ -7181,148 +6069,95 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1479338,
+            "B": 1458597,
             "CI": 117530878,
-=======
-            "B": 1128465,
-            "CI": 116886750,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.416,
-=======
-                    "C": 1.448,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.22,
-=======
-                    "C": 4.74,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.04,
-=======
-                    "C": 6.6,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 5.05,
-=======
-                    "C": 1.736,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
-                    "P": -1,
+                    "P": -1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.155,
-=======
-                    "C": 2.1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
-                    "P": 1,
+                    "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.285,
-=======
-                    "C": 2.25,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.625,
-=======
-                    "C": 1.645,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-                    "C": 2.39,
+                    "C": 2.5,
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 11
                 },
                 {
-                    "C": 1.575,
+                    "C": 1.53,
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.48,
-=======
-                    "C": 1.485,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.65,
-=======
-                    "C": 2.64,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 14
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.03,
-=======
-                    "C": 1.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 180
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.748,
-=======
-                    "C": 2.096,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 19,
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.595,
-=======
-                    "C": 2.784,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
@@ -7332,28 +6167,16 @@
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.41,
-=======
-                    "C": 1.136,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1154,
             "GVE": 1,
             "HS": 1,
             "HSI": true,
             "I": 336989202,
-=======
-            "EC": 1410,
-            "GVE": 1,
-            "HS": 1,
-            "HSI": true,
-            "I": 336575594,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "KI": 3,
             "L": "England. Premier League",
             "LE": "England. Premier League",
@@ -7422,89 +6245,49 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.53,
-=======
-                            "C": 3.26,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.52,
-=======
-                            "C": 1.945,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.15,
-=======
-                            "C": 1.856,
-                            "CE": 1,
-                            "G": 2,
-                            "P": 1.5,
-                            "T": 7
-                        },
-                        {
-                            "C": 1.34,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.36,
-=======
-                            "C": 4.235,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.98,
                             "CE": 1,
-=======
-                            "C": 2.295,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.23,
                             "CE": 1,
-=======
-                            "C": 1.621,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 7.6,
-=======
-                            "C": 1.224,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.06,
-=======
-                            "C": 2.798,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 7
@@ -7516,11 +6299,7 @@
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.035,
-=======
-                            "C": 1.438,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 7
@@ -7531,103 +6310,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.33,
-=======
-                            "C": 1.436,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.2,
-=======
-                            "C": 2.804,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.532,
-=======
-                            "C": 1.625,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.5,
-=======
-                            "C": 2.29,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.03,
-=======
-                            "C": 1.86,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.784,
-=======
-                            "C": 1.94,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.87,
-=======
-                            "C": 2.168,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.42,
-=======
-                            "C": 1.69,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.54,
-=======
-                            "C": 2.601,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.28,
-=======
-                            "C": 1.496,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -7635,23 +6374,14 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1479338,
+            "B": 1458597,
             "CI": 117530858,
-=======
-            "B": 1110465,
-            "CI": 116888238,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.48,
-=======
-                    "C": 2.597,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
@@ -7661,60 +6391,39 @@
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.088,
-=======
-                    "C": 1.713,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.23,
-=======
-                    "C": 1.856,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.98,
-=======
-                    "C": 1.945,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.03,
-=======
-                    "C": 1.86,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.784,
-=======
-                    "C": 1.94,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.48,
                     "CE": 1,
                     "G": 15,
@@ -7730,46 +6439,18 @@
                 },
                 {
                     "C": 2.155,
-=======
-                    "C": 2.09,
-                    "CE": 1,
-                    "G": 15,
-                    "P": 10.5,
-                    "T": 11
-                },
-                {
-                    "C": 1.74,
-                    "CE": 1,
-                    "G": 15,
-                    "P": 10.5,
-                    "T": 12
-                },
-                {
-                    "C": 1.934,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.696,
-=======
-                    "C": 1.867,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 1.5,
                     "T": 14
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                 },
-=======
-                }
-            ],
-            "EC": 640,
-            "GI": [
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                 {
                     "C": 1.91,
                     "G": 19,
@@ -7869,103 +6550,61 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.18,
-=======
-                            "C": 4.42,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.88,
-=======
-                            "C": 1.784,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.79,
-=======
-                            "C": 2.03,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.025,
-=======
-                            "C": 1.21,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.336,
                             "CE": 1,
-=======
-                            "C": 6.37,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.6,
                             "CE": 1,
-=======
-                            "C": 2.13,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.54,
-=======
-                            "C": 1.715,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.29,
-=======
-                            "C": 1.116,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.1,
-=======
-                            "C": 2.65,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.21,
-=======
-                            "C": 1.48,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 8
@@ -7976,103 +6615,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.21,
-=======
-                            "C": 1.371,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 4.2,
-=======
-                            "C": 3.09,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.32,
-=======
-                            "C": 1.574,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.38,
-=======
-                            "C": 2.395,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.696,
-=======
-                            "C": 1.845,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.155,
-=======
-                            "C": 1.96,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.15,
-=======
-                            "C": 2.208,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.7,
-=======
-                            "C": 1.665,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.69,
-=======
-                            "C": 2.745,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.445,
-=======
-                            "C": 1.45,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -8080,139 +6679,83 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1479338,
+            "B": 1458597,
             "CI": 117530863,
-=======
-            "B": 1119465,
-            "CI": 116905071,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.485,
-=======
-                    "C": 3.195,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 4.5,
-=======
-                    "C": 9.2,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 6.35,
-=======
-                    "C": 1.552,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.336,
-=======
-                    "C": 2.03,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.6,
-=======
-                    "C": 1.784,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.696,
-=======
-                    "C": 1.845,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.155,
-=======
-                    "C": 1.96,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.57,
-=======
-                    "C": 1.76,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.4,
-=======
-                    "C": 2.064,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 1.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.63,
-=======
-                    "C": 1.816,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.28,
-=======
-                    "C": 1.992,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 14
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                 },
-=======
-                }
-            ],
-            "EC": 530,
-            "GI": [
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                 {
                     "C": 1.84,
                     "G": 19,
@@ -8441,13 +6984,8 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1479338,
+            "B": 1458597,
             "CI": 117530879,
-=======
-            "B": 1202265,
-            "CI": 116886738,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
@@ -8496,44 +7034,28 @@
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.05,
-=======
-                    "C": 1.85,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.77,
-=======
-                    "C": 1.95,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 2.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.72,
-=======
-                    "C": 2.05,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.12,
-=======
-                    "C": 1.77,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 0.5,
@@ -8565,11 +7087,7 @@
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1152,
-=======
-            "EC": 1358,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -8642,97 +7160,61 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.288,
-=======
-                            "C": 1.38,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.62,
-=======
-                            "C": 3.04,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.31,
-=======
-                            "C": 2.43,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.616,
-=======
-                            "C": 1.56,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.99,
-=======
-                            "C": 3.136,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.37,
-=======
-                            "C": 1.365,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-                            "C": 5.4,
+                            "C": 5.15,
                             "G": 2,
                             "P": -2,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.132,
-=======
-                            "C": 1.145,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 5.85,
-=======
-                            "C": 6.05,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.09,
-=======
-                            "C": 1.104,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 8
@@ -8743,103 +7225,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.31,
-=======
-                            "C": 1.22,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.32,
-=======
-                            "C": 4.1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 1.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.5,
-=======
-                            "C": 1.33,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.59,
-=======
-                            "C": 3.32,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 2,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.97,
-=======
-                            "C": 1.696,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.83,
-=======
-                            "C": 2.155,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 2.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.77,
-=======
-                            "C": 2.15,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.445,
-=======
-                            "C": 1.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.4,
-=======
-                            "C": 2.7,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.3,
-=======
-                            "C": 1.44,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 3.5,
                             "T": 10
@@ -8847,83 +7289,50 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1488338,
+            "B": 1467596,
             "CI": 117530864,
-=======
-            "B": 1211265,
-            "CI": 116886712,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.715,
-=======
-                    "C": 1.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 3.78,
-=======
-                    "C": 3.92,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 4.82,
-=======
-                    "C": 4.08,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.99,
-=======
-                    "C": 3.136,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -1.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.37,
-=======
-                    "C": 1.365,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 1.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.97,
-=======
-                    "C": 1.696,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.83,
-=======
-                    "C": 2.155,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 2.5,
@@ -8968,38 +7377,22 @@
                     "T": 181
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.16,
-=======
-                    "C": 2.038,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 6
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.296,
-=======
-                    "C": 1.28,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 5
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.208,
-=======
-                    "C": 1.264,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 8,
                     "T": 4
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
             "EC": 1152,
-=======
-            "EC": 1408,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "GVE": 1,
             "HS": 1,
             "HSI": true,
@@ -9072,85 +7465,51 @@
                     "G": 2,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.394,
-=======
-                            "C": 1.416,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -1.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.982,
-=======
-                            "C": 2.89,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 1.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.619,
-=======
-                            "C": 1.8,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -2.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.299,
-=======
-                            "C": 2.01,
-                            "CE": 1,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 2.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.925,
                             "CE": 1,
-=======
-                            "C": 2.446,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -3.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.875,
                             "CE": 1,
-=======
-                            "C": 1.553,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 3.5,
                             "T": 8
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.375,
-=======
-                            "C": 3.68,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": -4.5,
                             "T": 7
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.583,
-=======
-                            "C": 1.28,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 2,
                             "P": 4.5,
                             "T": 8
@@ -9173,103 +7532,63 @@
                     "G": 17,
                     "ME": [
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.361,
-=======
-                            "C": 1.308,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 11.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 3.145,
-=======
-                            "C": 3.47,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 11.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.578,
-=======
-                            "C": 1.635,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 12.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.387,
-=======
-                            "C": 2.267,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 12.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.87,
-=======
-                            "C": 2.14,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 13.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.93,
-=======
-                            "C": 1.705,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "CE": 1,
                             "G": 17,
                             "P": 13.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.281,
-=======
-                            "C": 3.05,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 14.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.628,
-=======
-                            "C": 1.38,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 14.5,
                             "T": 10
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 2.911,
-=======
-                            "C": 4.76,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 15.5,
                             "T": 9
                         },
                         {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                             "C": 1.41,
-=======
-                            "C": 1.184,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                             "G": 17,
                             "P": 15.5,
                             "T": 10
@@ -9277,145 +7596,83 @@
                     ]
                 }
             ],
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-            "B": 1479338,
+            "B": 1458596,
             "CI": 117531580,
-=======
-            "B": 1202265,
-            "CI": 116888270,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
             "CID": 1,
             "CN": "England",
             "COI": 231,
             "DI": "5 Matches",
             "E": [
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.245,
-=======
-                    "C": 1.193,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 1
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 11.7,
-=======
-                    "C": 9.25,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 2
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 6,
-=======
-                    "C": 9.3,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "G": 1,
                     "T": 3
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.925,
-=======
-                    "C": 1.8,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": -3.5,
                     "T": 7
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.875,
-=======
-                    "C": 2.01,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 2,
                     "P": 3.5,
                     "T": 8
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.87,
-=======
-                    "C": 2.14,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 13.5,
                     "T": 9
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.93,
-=======
-                    "C": 1.705,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 17,
                     "P": 13.5,
                     "T": 10
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.925,
-=======
-                    "C": 2,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 8.5,
                     "T": 11
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.875,
-=======
-                    "C": 1.81,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 15,
                     "P": 8.5,
                     "T": 12
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 1.66,
-=======
-                    "C": 1.845,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 4.5,
                     "T": 13
                 },
                 {
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
                     "C": 2.22,
-=======
-                    "C": 1.96,
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                     "CE": 1,
                     "G": 62,
                     "P": 4.5,
                     "T": 14
-<<<<<<< HEAD:JSON/PLJson/22betPremierLeague.json
-=======
-                },
-                {
-                    "C": 1.168,
-                    "G": 19,
-                    "T": 180
-                },
-                {
-                    "C": 5.1,
-                    "G": 19,
-                    "T": 181
->>>>>>> 9c4449f4c93969850041d529dd7eb6dcdd4b639a:jsonFiles/22betPremierLeague.json
                 }
             ],
             "EC": 495,

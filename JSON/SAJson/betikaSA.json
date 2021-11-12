@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "away_odd": "8.60",
+            "away_odd": "8.80",
             "away_team": "Spezia",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "40656",
-            "home_odd": "1.30",
+            "home_odd": "1.29",
             "home_team": "ATALANTA",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2447338",
-            "neutral_odd": "6.00",
+            "neutral_odd": "6.20",
             "odds": [
                 {
                     "name": "1X2",
@@ -21,7 +21,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "ATALANTA",
-                            "odd_value": "1.30",
+                            "odd_value": "1.29",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -32,7 +32,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "6.00",
+                            "odd_value": "6.20",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -43,7 +43,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Spezia",
-                            "odd_value": "8.60",
+                            "odd_value": "8.80",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -121,18 +121,18 @@
             "start_time": "2021-11-20 20:00:00"
         },
         {
-            "away_odd": "2.28",
+            "away_odd": "2.32",
             "away_team": "Milan",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "77100",
-            "home_odd": "3.10",
+            "home_odd": "3.05",
             "home_team": "FIORENTINA",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2447340",
-            "neutral_odd": "3.40",
+            "neutral_odd": "3.35",
             "odds": [
                 {
                     "name": "1X2",
@@ -141,7 +141,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "FIORENTINA",
-                            "odd_value": "3.10",
+                            "odd_value": "3.05",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -152,7 +152,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.40",
+                            "odd_value": "3.35",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -163,7 +163,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Milan",
-                            "odd_value": "2.28",
+                            "odd_value": "2.32",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -187,12 +187,12 @@
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "94967",
-            "home_odd": "1.61",
+            "home_odd": "1.60",
             "home_team": "SASSUOLO",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2447341",
-            "neutral_odd": "4.20",
+            "neutral_odd": "4.30",
             "odds": [
                 {
                     "name": "1X2",
@@ -201,7 +201,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "SASSUOLO",
-                            "odd_value": "1.61",
+                            "odd_value": "1.60",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -212,7 +212,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "4.20",
+                            "odd_value": "4.30",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -361,18 +361,18 @@
             "start_time": "2021-11-21 17:00:00"
         },
         {
-            "away_odd": "3.15",
+            "away_odd": "3.20",
             "away_team": "NAPOLI",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "52236",
-            "home_odd": "2.22",
+            "home_odd": "2.17",
             "home_team": "Inter",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2447347",
-            "neutral_odd": "3.45",
+            "neutral_odd": "3.55",
             "odds": [
                 {
                     "name": "1X2",
@@ -381,7 +381,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Inter",
-                            "odd_value": "2.22",
+                            "odd_value": "2.17",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -392,7 +392,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.45",
+                            "odd_value": "3.55",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -403,7 +403,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "NAPOLI",
-                            "odd_value": "3.15",
+                            "odd_value": "3.20",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -481,13 +481,13 @@
             "start_time": "2021-11-21 22:45:00"
         },
         {
-            "away_odd": "4.10",
+            "away_odd": "4.20",
             "away_team": "Empoli",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "28769",
-            "home_odd": "1.78",
+            "home_odd": "1.77",
             "home_team": "HELLAS VERONA",
             "is_esport": false,
             "is_srl": false,
@@ -501,7 +501,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "HELLAS VERONA",
-                            "odd_value": "1.78",
+                            "odd_value": "1.77",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -523,7 +523,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Empoli",
-                            "odd_value": "4.10",
+                            "odd_value": "4.20",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -541,18 +541,18 @@
             "start_time": "2021-11-22 20:30:00"
         },
         {
-            "away_odd": "3.55",
+            "away_odd": "3.60",
             "away_team": "UDINESE",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "78704",
-            "home_odd": "2.15",
+            "home_odd": "2.11",
             "home_team": "TORINO",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2447350",
-            "neutral_odd": "3.20",
+            "neutral_odd": "3.25",
             "odds": [
                 {
                     "name": "1X2",
@@ -561,7 +561,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "TORINO",
-                            "odd_value": "2.15",
+                            "odd_value": "2.11",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -572,7 +572,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.20",
+                            "odd_value": "3.25",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -583,7 +583,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "UDINESE",
-                            "odd_value": "3.55",
+                            "odd_value": "3.60",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -721,7 +721,7 @@
             "start_time": "2021-11-27 17:00:00"
         },
         {
-            "away_odd": "2.65",
+            "away_odd": "2.60",
             "away_team": "HELLAS VERONA",
             "category": "Italy",
             "competition_id": "182",
@@ -763,7 +763,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "HELLAS VERONA",
-                            "odd_value": "2.65",
+                            "odd_value": "2.60",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -787,7 +787,7 @@
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "28906",
-            "home_odd": "2.16",
+            "home_odd": "2.18",
             "home_team": "JUVENTUS",
             "is_esport": false,
             "is_srl": false,
@@ -801,7 +801,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "JUVENTUS",
-                            "odd_value": "2.16",
+                            "odd_value": "2.18",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1087,7 +1087,7 @@
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "10169",
-            "home_odd": "1.81",
+            "home_odd": "1.82",
             "home_team": "ROMA",
             "is_esport": false,
             "is_srl": false,
@@ -1101,7 +1101,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "ROMA",
-                            "odd_value": "1.81",
+                            "odd_value": "1.82",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1205,11 +1205,11 @@
         "current_page": 1,
         "current_tab": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1283,40 +1283,32 @@
         "limit": 100,
         "periods": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -1,
                 "name": "Today",
-                "period_end": "2021-11-12 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2021-11-11",
-                "id": -2,
-                "name": "Next 48hrs",
-                "period_end": "2021-11-13 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2021-11-12",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2021-11-13 04:01:00",
                 "period_start": "2021-11-12 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2021-11-12",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2021-11-14 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2021-11-13",
-                "id": 2,
-                "name": "Saturday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2021-11-14 04:01:00",
                 "period_start": "2021-11-13 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2021-11-14",
-                "id": 3,
+                "id": 2,
                 "name": "Sunday",
                 "period_end": "2021-11-15 04:01:00",
                 "period_start": "2021-11-14 04:00:00",
@@ -1324,7 +1316,7 @@
             },
             {
                 "date": "2021-11-15",
-                "id": 4,
+                "id": 3,
                 "name": "Monday",
                 "period_end": "2021-11-16 04:01:00",
                 "period_start": "2021-11-15 04:00:00",
@@ -1332,7 +1324,7 @@
             },
             {
                 "date": "2021-11-16",
-                "id": 5,
+                "id": 4,
                 "name": "Tuesday",
                 "period_end": "2021-11-17 04:01:00",
                 "period_start": "2021-11-16 04:00:00",
@@ -1340,7 +1332,7 @@
             },
             {
                 "date": "2021-11-17",
-                "id": 6,
+                "id": 5,
                 "name": "Wednesday",
                 "period_end": "2021-11-18 04:01:00",
                 "period_start": "2021-11-17 04:00:00",
@@ -1348,7 +1340,7 @@
             },
             {
                 "date": "2021-11-18",
-                "id": 7,
+                "id": 6,
                 "name": "Thursday",
                 "period_end": "2021-11-19 04:01:00",
                 "period_start": "2021-11-18 04:00:00",
@@ -1356,18 +1348,26 @@
             },
             {
                 "date": "2021-11-19",
+                "id": 7,
+                "name": "Friday",
+                "period_end": "2021-11-20 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-20",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-03-11 04:01:00",
-                "period_start": "2021-11-19 04:00:00",
+                "period_end": "2022-03-12 04:01:00",
+                "period_start": "2021-11-20 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": 9,
                 "name": "All",
-                "period_end": "2022-03-11 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
+                "period_end": "2022-03-12 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1405,10 +1405,6 @@
             {
                 "sport_id": "30",
                 "sport_name": "Basketball"
-            },
-            {
-                "sport_id": "32",
-                "sport_name": "Badminton"
             },
             {
                 "sport_id": "33",
@@ -1459,46 +1455,42 @@
                 "sport_name": "Dota 2"
             },
             {
+                "sport_id": "89",
+                "sport_name": "Bandy"
+            },
+            {
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
-                "date": "2021-11-11",
+                "date": "2021-11-12",
                 "id": -1,
                 "name": "Today's Highlights",
-                "period_end": "2021-11-12 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2021-11-11",
-                "id": -2,
-                "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-11 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2021-11-12",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2021-11-13 04:01:00",
                 "period_start": "2021-11-12 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2021-11-12",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-12 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2021-11-13",
-                "id": 2,
-                "name": "Saturday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2021-11-14 04:01:00",
                 "period_start": "2021-11-13 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2021-11-14",
-                "id": 3,
+                "id": 2,
                 "name": "Sunday",
                 "period_end": "2021-11-15 04:01:00",
                 "period_start": "2021-11-14 04:00:00",
@@ -1506,7 +1498,7 @@
             },
             {
                 "date": "2021-11-15",
-                "id": 4,
+                "id": 3,
                 "name": "Monday",
                 "period_end": "2021-11-16 04:01:00",
                 "period_start": "2021-11-15 04:00:00",
@@ -1514,7 +1506,7 @@
             },
             {
                 "date": "2021-11-16",
-                "id": 5,
+                "id": 4,
                 "name": "Tuesday",
                 "period_end": "2021-11-17 04:01:00",
                 "period_start": "2021-11-16 04:00:00",
@@ -1522,7 +1514,7 @@
             },
             {
                 "date": "2021-11-17",
-                "id": 6,
+                "id": 5,
                 "name": "Wednesday",
                 "period_end": "2021-11-18 04:01:00",
                 "period_start": "2021-11-17 04:00:00",
@@ -1530,7 +1522,7 @@
             },
             {
                 "date": "2021-11-18",
-                "id": 7,
+                "id": 6,
                 "name": "Thursday",
                 "period_end": "2021-11-19 04:01:00",
                 "period_start": "2021-11-18 04:00:00",
@@ -1538,10 +1530,18 @@
             },
             {
                 "date": "2021-11-19",
+                "id": 7,
+                "name": "Friday",
+                "period_end": "2021-11-20 04:01:00",
+                "period_start": "2021-11-19 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2021-11-20",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-01-10 04:01:00",
-                "period_start": "2021-11-19 04:00:00",
+                "period_end": "2022-01-11 04:01:00",
+                "period_start": "2021-11-20 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1659,5 +1659,5 @@
         ],
         "total": "20"
     },
-    "time_elapsed_secs": 0.060596942901611
+    "time_elapsed_secs": 0.027770042419434
 }
