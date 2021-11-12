@@ -64,6 +64,37 @@ def create1XBSARecord(conn, record):
     return cur.lastrowid
 
 
+saTeams = {
+    "napoli": ["Napoli", "NAPOLI"],
+    "acmilan": ["AC Milan", "Milan"],
+    "intermilan": ["Inter", "Internazionale Milano"],
+    "atalanta": ["Atalanta", "ATALANTA"],
+    "lazio": ["Lazio", "LAZIO"],
+    "roma": ["Roma", "ROMA"],
+    "fiorentina": ["Fiorentina", "FIORENTINA"],
+    "juventus": ["Juventus", "JUVENTUS"],
+    "bologna": ["Bologna", "BOLOGNA", "Bologna 1909"],
+    "verona": ["Verona", "HELLAS VERONA", "Hellas Verona"],
+    "empoli": ["Empoli"],
+    "torino": ["Torino", "TORINO"],
+    "sassuolo": ["Sassuolo", "SASSUOLO", "Sassuolo Calcio"],
+    "udinese": ["Udinese", "UDINESE", "Udinese Calcio"],
+    "venezia": ["Venezia", "Venezia", "Unione Venezia"],
+    "spezia": ["Spezia", "Spezia Calcio"],
+    "genoa": ["Genoa", "GENOA"],
+    "sampdoria": ["Sampdoria", "SAMPDORIA"],
+    "salernitana": ["Salernitana", "Salernitana 1919"],
+    "cagliari": ["Cagliari", "CAGLIARI", "Cagliari Calcio"],
+}
+
+
+def returnKey(str):
+    key = [key for key, val in saTeams.items() if str in val]
+    if key:
+        return key[0]
+    return None
+
+
 # save records
 def saveSportPesaSA():
     db = "../DBS/serieA.db"
@@ -73,8 +104,8 @@ def saveSportPesaSA():
     with conn:
         for i in data:
             record = (
-                formatString(i["competitors"][0]["name"]),
-                formatString(i["competitors"][1]["name"]),
+                returnKey(i["competitors"][0]["name"]),
+                returnKey(i["competitors"][1]["name"]),
                 i["markets"][0]["selections"][0]["odds"],
                 i["markets"][0]["selections"][1]["odds"],
                 i["markets"][0]["selections"][2]["odds"],
@@ -93,8 +124,8 @@ def saveBetikaSA():
     with conn:
         for i in data["data"]:
             record = (
-                formatString(i["home_team"]),
-                formatString(i["away_team"]),
+                returnKey(i["home_team"]),
+                returnKey(i["away_team"]),
                 i["home_odd"],
                 i["neutral_odd"],
                 i["away_odd"],
@@ -112,8 +143,8 @@ def saveBet22SA():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -131,8 +162,8 @@ def saveMelSA():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -150,8 +181,8 @@ def save1XSA():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],

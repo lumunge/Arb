@@ -31,6 +31,35 @@ def formatDate(date):
     return date[5:16]
 
 
+bLTeams = {
+    "bayern": ["Bayern Munchen", "BAYERN", "Bayern Munich"],
+    "dortmund": ["Borussia Dortmund", "DORTMUND"],
+    "freiburg": ["SC Freiburg", "FREIBURG", "Freiburg"],
+    "vflwolfsburg": ["VfL Wolfsburg", "WOLFSBURG"],
+    "leipzig": ["RB Leipzig", "LEIPZIG", "RasenBallsport Leipzig"],
+    "leverkusen": ["Bayer Leverkusen", "LEVERKUSEN", "Bayer 04 Leverkusen"],
+    "mainz": ["Mainz", "MAINZ", "1. FSV Mainz 05"],
+    "unionberlin": ["Union Berlin", "UNION BERLIN"],
+    "borussiagladbach": ["Borussia Monchengladbach", "BORUSSIA (MG)"],
+    "hoffenheim": ["Hoffenheim", "HOFFENHEIM", "TSG 1899 Hoffenheim"],
+    "koln": ["FC Koln", "KOLN", "1. Koln"],
+    "bochum": ["VfL Bochum", "Bochum"],
+    "herthaberlin": ["Hertha BSC", "HERTHA"],
+    "eintrachfrankfurt": ["Eintracht Frankfurt", "EINTRACHT"],
+    "stuttgart": ["Stuttgart", "STUTTGART", "VfB Stuttgart"],
+    "augsburg": ["Augsburg", "AUGSBURG"],
+    "arminiabielefeld": ["Arminia Bielefeld", "BIELEFELD"],
+    "greutherfurth": ["Greuther Furth"],
+}
+
+
+def returnKey(str):
+    key = [key for key, val in bLTeams.items() if str in val]
+    if key:
+        return key[0]
+    return None
+
+
 # create records
 def createSPBLRecord(conn, record):
     sportpesasql = """INSERT OR IGNORE INTO sportpesaBundesliga(home_team, away_team, home_odd, neutral_odd, away_odd, start_time) VALUES(?, ?, ?, ?, ?, ?)"""
@@ -81,8 +110,8 @@ def saveSportPesaBL():
     with conn:
         for i in data:
             record = (
-                formatString(i["competitors"][0]["name"]),
-                formatString(i["competitors"][1]["name"]),
+                returnKey(i["competitors"][0]["name"]),
+                returnKey(i["competitors"][1]["name"]),
                 i["markets"][0]["selections"][0]["odds"],
                 i["markets"][0]["selections"][1]["odds"],
                 i["markets"][0]["selections"][2]["odds"],
@@ -101,8 +130,8 @@ def saveBetikaBL():
     with conn:
         for i in data["data"]:
             record = (
-                formatString(i["home_team"]),
-                formatString(i["away_team"]),
+                returnKey(i["home_team"]),
+                returnKey(i["away_team"]),
                 i["home_odd"],
                 i["neutral_odd"],
                 i["away_odd"],
@@ -120,8 +149,8 @@ def saveBet22BL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -139,8 +168,8 @@ def saveMelBL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -158,8 +187,8 @@ def save1XBL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],

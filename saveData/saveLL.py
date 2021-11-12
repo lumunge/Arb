@@ -64,6 +64,37 @@ def create1XBLLRecord(conn, record):
     return cur.lastrowid
 
 
+llTeams = {
+    "realsociedad": ["Real Sociedad"],
+    "realmadrid": ["Real Madrid"],
+    "sevilla": ["Sevilla FC", "SEVILLA", "Sevilla"],
+    "atleticomadrid": ["Atletico Madrid"],
+    "realbetis": ["Betis", "BETIS", "Real Betis"],
+    "rayovallecano": ["Rayo Vallecano", "Vallecano"],
+    "osasuna": ["Osasuna"],
+    "atleticbilbao": ["Athletic Bilbao", "BILBAO"],
+    "barcelona": ["Barcelona", "BARCELONA"],
+    "valencia": ["Valencia", "VALENCIA"],
+    "espanyol": ["Espanyol", "ESPANYOL"],
+    "villarreal": ["Villarreal"],
+    "realmallorca": ["Mallorca"],
+    "alaves": ["Alaves", "ALAVES", "Deportivo Alaves"],
+    "celtavigo": ["Celta Vigo", "CELTA DE VIGO", "Celta"],
+    "cadiz": ["Cadiz CF", "Cadiz", "Cádiz"],
+    "granada": ["Granada"],
+    "elche": ["Elche"],
+    "levante": ["Levante", "LEVANTE", "Levante UD"],
+    "getafe": ["Getafe", "GETAFE"],
+}
+
+
+def returnKey(str):
+    key = [key for key, val in llTeams.items() if str in val]
+    if key:
+        return key[0]
+    return None
+
+
 # save records
 def saveSportPesaLL():
     db = "../DBS/laLiga.db"
@@ -73,8 +104,8 @@ def saveSportPesaLL():
     with conn:
         for i in data:
             record = (
-                formatString(i["competitors"][0]["name"]),
-                formatString(i["competitors"][1]["name"]),
+                returnKey(i["competitors"][0]["name"]),
+                returnKey(i["competitors"][1]["name"]),
                 i["markets"][0]["selections"][0]["odds"],
                 i["markets"][0]["selections"][1]["odds"],
                 i["markets"][0]["selections"][2]["odds"],
@@ -93,8 +124,8 @@ def saveBetikaLL():
     with conn:
         for i in data["data"]:
             record = (
-                formatString(i["home_team"]),
-                formatString(i["away_team"]),
+                returnKey(i["home_team"]),
+                returnKey(i["away_team"]),
                 i["home_odd"],
                 i["neutral_odd"],
                 i["away_odd"],
@@ -112,8 +143,8 @@ def saveBet22LL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -131,8 +162,8 @@ def saveMelLL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
@@ -150,8 +181,8 @@ def save1XLL():
     with conn:
         for i in data["Value"]:
             record = (
-                formatString(i["O1"]),
-                formatString(i["O2"]),
+                returnKey(i["O1"]),
+                returnKey(i["O2"]),
                 i["E"][0]["C"],
                 i["E"][1]["C"],
                 i["E"][2]["C"],
