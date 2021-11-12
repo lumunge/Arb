@@ -2,7 +2,6 @@ import time
 import json
 import sqlite3
 from sqlite3 import Error
-from fuzzywuzzy import fuzz
 
 # DB CONNECTION
 def createConnection(db):
@@ -18,13 +17,6 @@ def formatString(str):
     joinedStr = str.replace(" ", "")
     trimmedStr = joinedStr[0:7]
     return joinedStr.lower()
-
-
-# def fuzzyString(str1, str2):
-#     return fuzz.ratio(str1.lower(), str2.lower()) > 50
-
-
-# print(fuzzyString("Bayern", "Bayer 04 Leverkusen"))
 
 
 def formatDate(date):
