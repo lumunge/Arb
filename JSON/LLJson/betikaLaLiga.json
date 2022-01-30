@@ -241,18 +241,18 @@
             "start_time": "2022-02-05 20:30:00"
         },
         {
-            "away_odd": "2.19",
+            "away_odd": "2.24",
             "away_team": "SEVILLA",
             "category": "Spain",
             "competition_id": "14482",
             "competition_name": "LaLiga",
             "game_id": "33519",
-            "home_odd": "3.50",
+            "home_odd": "3.40",
             "home_team": "Osasuna",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2969792",
-            "neutral_odd": "3.15",
+            "neutral_odd": "3.10",
             "odds": [
                 {
                     "name": "1X2",
@@ -261,7 +261,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Osasuna",
-                            "odd_value": "3.50",
+                            "odd_value": "3.40",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -272,7 +272,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.15",
+                            "odd_value": "3.10",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -283,7 +283,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "SEVILLA",
-                            "odd_value": "2.19",
+                            "odd_value": "2.24",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -541,18 +541,18 @@
             "start_time": "2022-02-06 23:00:00"
         },
         {
-            "away_odd": "4.90",
+            "away_odd": "5.20",
             "away_team": "ESPANYOL",
             "category": "Spain",
             "competition_id": "14482",
             "competition_name": "LaLiga",
             "game_id": "33482",
-            "home_odd": "1.72",
+            "home_odd": "1.68",
             "home_team": "BILBAO",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2969785",
-            "neutral_odd": "3.65",
+            "neutral_odd": "3.75",
             "odds": [
                 {
                     "name": "1X2",
@@ -561,7 +561,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "BILBAO",
-                            "odd_value": "1.72",
+                            "odd_value": "1.68",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -572,7 +572,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.65",
+                            "odd_value": "3.75",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -583,7 +583,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "ESPANYOL",
-                            "odd_value": "4.90",
+                            "odd_value": "5.20",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1265,11 +1265,11 @@
         "current_page": 1,
         "current_tab": [
             {
-                "date": "2022-01-29",
+                "date": "2022-01-30",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1343,40 +1343,32 @@
         "limit": 100,
         "periods": [
             {
-                "date": "2022-01-29",
+                "date": "2022-01-30",
                 "id": -1,
                 "name": "Today",
-                "period_end": "2022-01-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-29",
-                "id": -2,
-                "name": "Next 48hrs",
-                "period_end": "2022-01-31 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2022-01-30",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2022-01-31 04:01:00",
                 "period_start": "2022-01-30 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2022-01-30",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2022-02-01 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2022-01-31",
-                "id": 2,
-                "name": "Monday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2022-02-01 04:01:00",
                 "period_start": "2022-01-31 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2022-02-01",
-                "id": 3,
+                "id": 2,
                 "name": "Tuesday",
                 "period_end": "2022-02-02 04:01:00",
                 "period_start": "2022-02-01 04:00:00",
@@ -1384,7 +1376,7 @@
             },
             {
                 "date": "2022-02-02",
-                "id": 4,
+                "id": 3,
                 "name": "Wednesday",
                 "period_end": "2022-02-03 04:01:00",
                 "period_start": "2022-02-02 04:00:00",
@@ -1392,7 +1384,7 @@
             },
             {
                 "date": "2022-02-03",
-                "id": 5,
+                "id": 4,
                 "name": "Thursday",
                 "period_end": "2022-02-04 04:01:00",
                 "period_start": "2022-02-03 04:00:00",
@@ -1400,7 +1392,7 @@
             },
             {
                 "date": "2022-02-04",
-                "id": 6,
+                "id": 5,
                 "name": "Friday",
                 "period_end": "2022-02-05 04:01:00",
                 "period_start": "2022-02-04 04:00:00",
@@ -1408,7 +1400,7 @@
             },
             {
                 "date": "2022-02-05",
-                "id": 7,
+                "id": 6,
                 "name": "Saturday",
                 "period_end": "2022-02-06 04:01:00",
                 "period_start": "2022-02-05 04:00:00",
@@ -1416,18 +1408,26 @@
             },
             {
                 "date": "2022-02-06",
+                "id": 7,
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-07",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-05-29 04:01:00",
-                "period_start": "2022-02-06 04:00:00",
+                "period_end": "2022-05-30 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2022-01-29",
+                "date": "2022-01-30",
                 "id": 9,
                 "name": "All",
-                "period_end": "2022-05-29 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
+                "period_end": "2022-05-30 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1507,46 +1507,42 @@
                 "sport_name": "American Football"
             },
             {
+                "sport_id": "70",
+                "sport_name": "Bowls"
+            },
+            {
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
-                "date": "2022-01-29",
+                "date": "2022-01-30",
                 "id": -1,
                 "name": "Today's Highlights",
-                "period_end": "2022-01-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-29",
-                "id": -2,
-                "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2022-01-30",
-                "id": 1,
-                "name": "Tomorrow",
                 "period_end": "2022-01-31 04:01:00",
                 "period_start": "2022-01-30 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2022-01-30",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2022-01-31",
-                "id": 2,
-                "name": "Monday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2022-02-01 04:01:00",
                 "period_start": "2022-01-31 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2022-02-01",
-                "id": 3,
+                "id": 2,
                 "name": "Tuesday",
                 "period_end": "2022-02-02 04:01:00",
                 "period_start": "2022-02-01 04:00:00",
@@ -1554,7 +1550,7 @@
             },
             {
                 "date": "2022-02-02",
-                "id": 4,
+                "id": 3,
                 "name": "Wednesday",
                 "period_end": "2022-02-03 04:01:00",
                 "period_start": "2022-02-02 04:00:00",
@@ -1562,7 +1558,7 @@
             },
             {
                 "date": "2022-02-03",
-                "id": 5,
+                "id": 4,
                 "name": "Thursday",
                 "period_end": "2022-02-04 04:01:00",
                 "period_start": "2022-02-03 04:00:00",
@@ -1570,7 +1566,7 @@
             },
             {
                 "date": "2022-02-04",
-                "id": 6,
+                "id": 5,
                 "name": "Friday",
                 "period_end": "2022-02-05 04:01:00",
                 "period_start": "2022-02-04 04:00:00",
@@ -1578,7 +1574,7 @@
             },
             {
                 "date": "2022-02-05",
-                "id": 7,
+                "id": 6,
                 "name": "Saturday",
                 "period_end": "2022-02-06 04:01:00",
                 "period_start": "2022-02-05 04:00:00",
@@ -1586,10 +1582,18 @@
             },
             {
                 "date": "2022-02-06",
+                "id": 7,
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-07",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-02-06 04:00:00",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1707,5 +1711,5 @@
         ],
         "total": "21"
     },
-    "time_elapsed_secs": 0.049771070480347
+    "time_elapsed_secs": 0.064320802688599
 }

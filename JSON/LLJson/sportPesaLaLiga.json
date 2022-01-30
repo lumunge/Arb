@@ -295,7 +295,7 @@
                     {
                         "id": 2415861721,
                         "name": "Osasuna",
-                        "odds": "3.51",
+                        "odds": "3.41",
                         "shortName": "1",
                         "specValue": 0
                     },
@@ -309,7 +309,7 @@
                     {
                         "id": 2415861863,
                         "name": "Sevilla FC",
-                        "odds": "2.18",
+                        "odds": "2.22",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -620,21 +620,21 @@
                     {
                         "id": 2415862123,
                         "name": "Athletic Bilbao",
-                        "odds": "1.69",
+                        "odds": "1.67",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
                         "id": 2415862125,
                         "name": "Draw",
-                        "odds": "3.77",
+                        "odds": "3.80",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
                         "id": 2415862119,
                         "name": "Espanyol",
-                        "odds": "5.03",
+                        "odds": "5.20",
                         "shortName": "2",
                         "specValue": 0
                     }
