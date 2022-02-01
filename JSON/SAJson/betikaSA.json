@@ -1,7 +1,67 @@
 {
     "data": [
         {
-            "away_odd": "2.37",
+            "away_odd": "2.90",
+            "away_team": "LAZIO",
+            "category": "Italy",
+            "competition_id": "182",
+            "competition_name": "Serie A",
+            "game_id": "95259",
+            "home_odd": "2.37",
+            "home_team": "FIORENTINA",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2960940",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "FIORENTINA",
+                            "odd_value": "2.37",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "LAZIO",
+                            "odd_value": "2.90",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "28160294",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-05 22:45:00"
+        },
+        {
+            "away_odd": "2.34",
             "away_team": "SASSUOLO",
             "category": "Italy",
             "competition_id": "182",
@@ -12,7 +72,7 @@
             "is_esport": false,
             "is_srl": false,
             "match_id": "2960908",
-            "neutral_odd": "3.50",
+            "neutral_odd": "3.55",
             "odds": [
                 {
                     "name": "1X2",
@@ -32,7 +92,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.50",
+                            "odd_value": "3.55",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -43,7 +103,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "SASSUOLO",
-                            "odd_value": "2.37",
+                            "odd_value": "2.34",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -61,13 +121,13 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "9.80",
+            "away_odd": "10.00",
             "away_team": "CAGLIARI",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "83587",
-            "home_odd": "1.27",
+            "home_odd": "1.26",
             "home_team": "ATALANTA",
             "is_esport": false,
             "is_srl": false,
@@ -81,7 +141,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "ATALANTA",
-                            "odd_value": "1.27",
+                            "odd_value": "1.26",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -103,7 +163,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "CAGLIARI",
-                            "odd_value": "9.80",
+                            "odd_value": "10.00",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -121,13 +181,13 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "1.52",
+            "away_odd": "1.51",
             "away_team": "NAPOLI",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "56895",
-            "home_odd": "5.80",
+            "home_odd": "6.00",
             "home_team": "Venezia",
             "is_esport": false,
             "is_srl": false,
@@ -141,7 +201,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Venezia",
-                            "odd_value": "5.80",
+                            "odd_value": "6.00",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -163,7 +223,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "NAPOLI",
-                            "odd_value": "1.52",
+                            "odd_value": "1.51",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -181,7 +241,7 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "2.34",
+            "away_odd": "2.31",
             "away_team": "Spezia",
             "category": "Italy",
             "competition_id": "182",
@@ -192,7 +252,7 @@
             "is_esport": false,
             "is_srl": false,
             "match_id": "2960929",
-            "neutral_odd": "3.25",
+            "neutral_odd": "3.30",
             "odds": [
                 {
                     "name": "1X2",
@@ -212,7 +272,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.25",
+                            "odd_value": "3.30",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -223,7 +283,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Spezia",
-                            "odd_value": "2.34",
+                            "odd_value": "2.31",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -241,18 +301,18 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "4.10",
+            "away_odd": "4.20",
             "away_team": "Milan",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "14017",
-            "home_odd": "1.85",
+            "home_odd": "1.86",
             "home_team": "Inter",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2960931",
-            "neutral_odd": "3.65",
+            "neutral_odd": "3.70",
             "odds": [
                 {
                     "name": "1X2",
@@ -261,7 +321,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Inter",
-                            "odd_value": "1.85",
+                            "odd_value": "1.86",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -272,7 +332,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.65",
+                            "odd_value": "3.70",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -283,7 +343,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Milan",
-                            "odd_value": "4.10",
+                            "odd_value": "4.20",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -361,73 +421,13 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "2.95",
-            "away_team": "LAZIO",
-            "category": "Italy",
-            "competition_id": "182",
-            "competition_name": "Serie A",
-            "game_id": "95259",
-            "home_odd": "2.35",
-            "home_team": "FIORENTINA",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2960940",
-            "neutral_odd": "3.40",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "FIORENTINA",
-                            "odd_value": "2.35",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "3.40",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "LAZIO",
-                            "odd_value": "2.95",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "28160294",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2022-02-06 17:00:00"
-        },
-        {
-            "away_odd": "7.80",
+            "away_odd": "8.00",
             "away_team": "GENOA",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "54824",
-            "home_odd": "1.37",
+            "home_odd": "1.39",
             "home_team": "ROMA",
             "is_esport": false,
             "is_srl": false,
@@ -441,7 +441,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "ROMA",
-                            "odd_value": "1.37",
+                            "odd_value": "1.39",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -463,7 +463,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "GENOA",
-                            "odd_value": "7.80",
+                            "odd_value": "8.00",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -487,7 +487,7 @@
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "12830",
-            "home_odd": "1.57",
+            "home_odd": "1.58",
             "home_team": "JUVENTUS",
             "is_esport": false,
             "is_srl": false,
@@ -501,7 +501,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "JUVENTUS",
-                            "odd_value": "1.57",
+                            "odd_value": "1.58",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -541,7 +541,7 @@
             "start_time": "2022-02-06 17:00:00"
         },
         {
-            "away_odd": "3.60",
+            "away_odd": "3.55",
             "away_team": "Empoli",
             "category": "Italy",
             "competition_id": "182",
@@ -583,7 +583,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Empoli",
-                            "odd_value": "3.60",
+                            "odd_value": "3.55",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -661,13 +661,13 @@
             "start_time": "2022-02-12 17:00:00"
         },
         {
-            "away_odd": "2.34",
+            "away_odd": "2.32",
             "away_team": "Inter",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "22009",
-            "home_odd": "2.95",
+            "home_odd": "3.00",
             "home_team": "NAPOLI",
             "is_esport": false,
             "is_srl": false,
@@ -681,7 +681,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "NAPOLI",
-                            "odd_value": "2.95",
+                            "odd_value": "3.00",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -703,7 +703,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Inter",
-                            "odd_value": "2.34",
+                            "odd_value": "2.32",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -721,13 +721,13 @@
             "start_time": "2022-02-12 20:00:00"
         },
         {
-            "away_odd": "6.20",
+            "away_odd": "6.40",
             "away_team": "Venezia",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "92853",
-            "home_odd": "1.51",
+            "home_odd": "1.50",
             "home_team": "TORINO",
             "is_esport": false,
             "is_srl": false,
@@ -741,7 +741,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "TORINO",
-                            "odd_value": "1.51",
+                            "odd_value": "1.50",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -763,7 +763,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Venezia",
-                            "odd_value": "6.20",
+                            "odd_value": "6.40",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -781,18 +781,18 @@
             "start_time": "2022-02-12 22:45:00"
         },
         {
-            "away_odd": "7.00",
+            "away_odd": "7.20",
             "away_team": "SAMPDORIA",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "45917",
-            "home_odd": "1.42",
+            "home_odd": "1.41",
             "home_team": "Milan",
             "is_esport": false,
             "is_srl": false,
             "match_id": "2879071",
-            "neutral_odd": "4.80",
+            "neutral_odd": "4.90",
             "odds": [
                 {
                     "name": "1X2",
@@ -801,7 +801,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "Milan",
-                            "odd_value": "1.42",
+                            "odd_value": "1.41",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -812,7 +812,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "4.80",
+                            "odd_value": "4.90",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -823,7 +823,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "SAMPDORIA",
-                            "odd_value": "7.00",
+                            "odd_value": "7.20",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -901,13 +901,13 @@
             "start_time": "2022-02-13 17:00:00"
         },
         {
-            "away_odd": "4.20",
+            "away_odd": "4.30",
             "away_team": "Salernitana",
             "category": "Italy",
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "93388",
-            "home_odd": "1.86",
+            "home_odd": "1.83",
             "home_team": "GENOA",
             "is_esport": false,
             "is_srl": false,
@@ -921,7 +921,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "GENOA",
-                            "odd_value": "1.86",
+                            "odd_value": "1.83",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -943,7 +943,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "Salernitana",
-                            "odd_value": "4.20",
+                            "odd_value": "4.30",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1087,7 +1087,7 @@
             "competition_id": "182",
             "competition_name": "Serie A",
             "game_id": "75963",
-            "home_odd": "2.60",
+            "home_odd": "2.55",
             "home_team": "ATALANTA",
             "is_esport": false,
             "is_srl": false,
@@ -1101,7 +1101,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "ATALANTA",
-                            "odd_value": "2.60",
+                            "odd_value": "2.55",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1205,11 +1205,11 @@
         "current_page": 1,
         "current_tab": [
             {
-                "date": "2022-01-29",
+                "date": "2022-02-01",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
+                "period_end": "2022-04-02 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1283,56 +1283,32 @@
         "limit": 100,
         "periods": [
             {
-                "date": "2022-01-29",
+                "date": "2022-02-01",
                 "id": -1,
                 "name": "Today",
-                "period_end": "2022-01-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-29",
-                "id": -2,
-                "name": "Next 48hrs",
-                "period_end": "2022-01-31 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2022-01-30",
-                "id": 1,
-                "name": "Tomorrow",
-                "period_end": "2022-01-31 04:01:00",
-                "period_start": "2022-01-30 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-31",
-                "id": 2,
-                "name": "Monday",
-                "period_end": "2022-02-01 04:01:00",
-                "period_start": "2022-01-31 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-02-01",
-                "id": 3,
-                "name": "Tuesday",
                 "period_end": "2022-02-02 04:01:00",
                 "period_start": "2022-02-01 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2022-02-01",
+                "id": -2,
+                "name": "Next 48hrs",
+                "period_end": "2022-02-03 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2022-02-02",
-                "id": 4,
-                "name": "Wednesday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2022-02-03 04:01:00",
                 "period_start": "2022-02-02 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2022-02-03",
-                "id": 5,
+                "id": 2,
                 "name": "Thursday",
                 "period_end": "2022-02-04 04:01:00",
                 "period_start": "2022-02-03 04:00:00",
@@ -1340,7 +1316,7 @@
             },
             {
                 "date": "2022-02-04",
-                "id": 6,
+                "id": 3,
                 "name": "Friday",
                 "period_end": "2022-02-05 04:01:00",
                 "period_start": "2022-02-04 04:00:00",
@@ -1348,7 +1324,7 @@
             },
             {
                 "date": "2022-02-05",
-                "id": 7,
+                "id": 4,
                 "name": "Saturday",
                 "period_end": "2022-02-06 04:01:00",
                 "period_start": "2022-02-05 04:00:00",
@@ -1356,18 +1332,42 @@
             },
             {
                 "date": "2022-02-06",
+                "id": 5,
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-07",
+                "id": 6,
+                "name": "Monday",
+                "period_end": "2022-02-08 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-08",
+                "id": 7,
+                "name": "Tuesday",
+                "period_end": "2022-02-09 04:01:00",
+                "period_start": "2022-02-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-09",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-05-29 04:01:00",
-                "period_start": "2022-02-06 04:00:00",
+                "period_end": "2022-06-01 04:01:00",
+                "period_start": "2022-02-09 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2022-01-29",
+                "date": "2022-02-01",
                 "id": 9,
                 "name": "All",
-                "period_end": "2022-05-29 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
+                "period_end": "2022-06-01 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1435,10 +1435,6 @@
                 "sport_name": "Rugby"
             },
             {
-                "sport_id": "43",
-                "sport_name": "Aussie Rules"
-            },
-            {
                 "sport_id": "45",
                 "sport_name": "Table Tennis"
             },
@@ -1447,62 +1443,42 @@
                 "sport_name": "American Football"
             },
             {
+                "sport_id": "89",
+                "sport_name": "Bandy"
+            },
+            {
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
-                "date": "2022-01-29",
+                "date": "2022-02-01",
                 "id": -1,
                 "name": "Today's Highlights",
-                "period_end": "2022-01-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-29",
-                "id": -2,
-                "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-01-29 04:00:00",
-                "prioritized": false
-            },
-            {
-                "date": "2022-01-30",
-                "id": 1,
-                "name": "Tomorrow",
-                "period_end": "2022-01-31 04:01:00",
-                "period_start": "2022-01-30 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-01-31",
-                "id": 2,
-                "name": "Monday",
-                "period_end": "2022-02-01 04:01:00",
-                "period_start": "2022-01-31 04:00:00",
-                "prioritized": true
-            },
-            {
-                "date": "2022-02-01",
-                "id": 3,
-                "name": "Tuesday",
                 "period_end": "2022-02-02 04:01:00",
                 "period_start": "2022-02-01 04:00:00",
                 "prioritized": true
             },
             {
+                "date": "2022-02-01",
+                "id": -2,
+                "name": "\ud83d\udd25 Next 48hrs",
+                "period_end": "2022-04-02 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
+                "prioritized": false
+            },
+            {
                 "date": "2022-02-02",
-                "id": 4,
-                "name": "Wednesday",
+                "id": 1,
+                "name": "Tomorrow",
                 "period_end": "2022-02-03 04:01:00",
                 "period_start": "2022-02-02 04:00:00",
                 "prioritized": true
             },
             {
                 "date": "2022-02-03",
-                "id": 5,
+                "id": 2,
                 "name": "Thursday",
                 "period_end": "2022-02-04 04:01:00",
                 "period_start": "2022-02-03 04:00:00",
@@ -1510,7 +1486,7 @@
             },
             {
                 "date": "2022-02-04",
-                "id": 6,
+                "id": 3,
                 "name": "Friday",
                 "period_end": "2022-02-05 04:01:00",
                 "period_start": "2022-02-04 04:00:00",
@@ -1518,7 +1494,7 @@
             },
             {
                 "date": "2022-02-05",
-                "id": 7,
+                "id": 4,
                 "name": "Saturday",
                 "period_end": "2022-02-06 04:01:00",
                 "period_start": "2022-02-05 04:00:00",
@@ -1526,10 +1502,34 @@
             },
             {
                 "date": "2022-02-06",
+                "id": 5,
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-07",
+                "id": 6,
+                "name": "Monday",
+                "period_end": "2022-02-08 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-08",
+                "id": 7,
+                "name": "Tuesday",
+                "period_end": "2022-02-09 04:01:00",
+                "period_start": "2022-02-08 04:00:00",
+                "prioritized": true
+            },
+            {
+                "date": "2022-02-09",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-03-30 04:01:00",
-                "period_start": "2022-02-06 04:00:00",
+                "period_end": "2022-04-02 04:01:00",
+                "period_start": "2022-02-09 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1647,5 +1647,5 @@
         ],
         "total": "20"
     },
-    "time_elapsed_secs": 0.028459072113037
+    "time_elapsed_secs": 0.018548965454102
 }
