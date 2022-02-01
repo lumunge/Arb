@@ -1,138 +1,18 @@
 {
     "data": [
         {
-            "away_odd": "5.20",
-            "away_team": "AUGSBURG",
+            "away_odd": "3.15",
+            "away_team": "Bochum",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "88461",
-            "home_odd": "1.62",
-            "home_team": "KOLN",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2815655",
-            "neutral_odd": "4.00",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "KOLN",
-                            "odd_value": "1.62",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "4.00",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "AUGSBURG",
-                            "odd_value": "5.20",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883352",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-10 22:30:00"
-        },
-        {
-            "away_odd": "11.00",
-            "away_team": "MAINZ",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "78013",
-            "home_odd": "1.23",
-            "home_team": "BAYERN",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2815671",
-            "neutral_odd": "7.00",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "BAYERN",
-                            "odd_value": "1.23",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "7.00",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "MAINZ",
-                            "odd_value": "11.00",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883340",
-            "side_bets": "69",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-11 17:30:00"
-        },
-        {
-            "away_odd": "3.95",
-            "away_team": "BIELEFELD",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "78086",
-            "home_odd": "1.98",
+            "game_id": "77267",
+            "home_odd": "2.28",
             "home_team": "HERTHA",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2815697",
-            "neutral_odd": "3.35",
+            "match_id": "2959616",
+            "neutral_odd": "3.30",
             "odds": [
                 {
                     "name": "1X2",
@@ -141,7 +21,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "HERTHA",
-                            "odd_value": "1.98",
+                            "odd_value": "2.28",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -152,7 +32,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.35",
+                            "odd_value": "3.30",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -162,8 +42,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "BIELEFELD",
-                            "odd_value": "3.95",
+                            "odd_key": "Bochum",
+                            "odd_value": "3.15",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -174,25 +54,25 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883350",
+            "parent_match_id": "27883460",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-11 17:30:00"
+            "start_time": "2022-02-04 22:30:00"
         },
         {
-            "away_odd": "4.00",
+            "away_odd": "2.11",
             "away_team": "BORUSSIA (MG)",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "71715",
-            "home_odd": "1.81",
-            "home_team": "LEIPZIG",
+            "game_id": "47317",
+            "home_odd": "3.45",
+            "home_team": "BIELEFELD",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2815730",
-            "neutral_odd": "3.90",
+            "match_id": "2959629",
+            "neutral_odd": "3.40",
             "odds": [
                 {
                     "name": "1X2",
@@ -200,8 +80,8 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "LEIPZIG",
-                            "odd_value": "1.81",
+                            "odd_key": "BIELEFELD",
+                            "odd_value": "3.45",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -212,7 +92,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.90",
+                            "odd_value": "3.40",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -223,7 +103,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "BORUSSIA (MG)",
-                            "odd_value": "4.00",
+                            "odd_value": "2.11",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -234,24 +114,144 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883342",
+            "parent_match_id": "27883462",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-11 17:30:00"
+            "start_time": "2022-02-05 17:30:00"
         },
         {
-            "away_odd": "2.80",
+            "away_odd": "2.90",
+            "away_team": "FREIBURG",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "33161",
+            "home_odd": "2.33",
+            "home_team": "KOLN",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2959654",
+            "neutral_odd": "3.50",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "KOLN",
+                            "odd_value": "2.33",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.50",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "FREIBURG",
+                            "odd_value": "2.90",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883464",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-05 17:30:00"
+        },
+        {
+            "away_odd": "2.50",
+            "away_team": "EINTRACHT",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "2290",
+            "home_odd": "2.75",
+            "home_team": "STUTTGART",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2959671",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "STUTTGART",
+                            "odd_value": "2.75",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "EINTRACHT",
+                            "odd_value": "2.50",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883454",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-05 17:30:00"
+        },
+        {
+            "away_odd": "2.65",
             "away_team": "HOFFENHEIM",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "91925",
-            "home_odd": "2.41",
-            "home_team": "FREIBURG",
+            "game_id": "79109",
+            "home_odd": "2.55",
+            "home_team": "MAINZ",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2815803",
+            "match_id": "2959673",
             "neutral_odd": "3.45",
             "odds": [
                 {
@@ -260,8 +260,8 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "FREIBURG",
-                            "odd_value": "2.41",
+                            "odd_key": "MAINZ",
+                            "odd_value": "2.55",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -283,7 +283,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "HOFFENHEIM",
-                            "odd_value": "2.80",
+                            "odd_value": "2.65",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -294,145 +294,25 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883348",
+            "parent_match_id": "27883456",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-11 17:30:00"
+            "start_time": "2022-02-05 17:30:00"
         },
         {
-            "away_odd": "1.51",
-            "away_team": "DORTMUND",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "35045",
-            "home_odd": "5.60",
-            "home_team": "Bochum",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2815840",
-            "neutral_odd": "4.70",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "Bochum",
-                            "odd_value": "5.60",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "4.70",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "DORTMUND",
-                            "odd_value": "1.51",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883354",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-11 17:30:00"
-        },
-        {
-            "away_odd": "4.30",
-            "away_team": "STUTTGART",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "58939",
-            "home_odd": "1.82",
-            "home_team": "WOLFSBURG",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2815864",
-            "neutral_odd": "3.65",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "WOLFSBURG",
-                            "odd_value": "1.82",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "3.65",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "STUTTGART",
-                            "odd_value": "4.30",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883344",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-11 20:30:00"
-        },
-        {
-            "away_odd": "1.74",
+            "away_odd": "2.35",
             "away_team": "UNION BERLIN",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "96520",
-            "home_odd": "4.50",
-            "home_team": "Greuther Furth",
+            "game_id": "38823",
+            "home_odd": "3.10",
+            "home_team": "AUGSBURG",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2817342",
-            "neutral_odd": "3.85",
+            "match_id": "2959825",
+            "neutral_odd": "3.25",
             "odds": [
                 {
                     "name": "1X2",
@@ -440,8 +320,8 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "Greuther Furth",
-                            "odd_value": "4.50",
+                            "odd_key": "AUGSBURG",
+                            "odd_value": "3.10",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -452,7 +332,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.85",
+                            "odd_value": "3.25",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -463,7 +343,7 @@
                             "display": "2",
                             "odd_def": "{$competitor2}",
                             "odd_key": "UNION BERLIN",
-                            "odd_value": "1.74",
+                            "odd_value": "2.35",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -474,265 +354,85 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883356",
+            "parent_match_id": "27883458",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-12 17:30:00"
+            "start_time": "2022-02-05 17:30:00"
         },
         {
-            "away_odd": "2.18",
+            "away_odd": "6.00",
+            "away_team": "LEIPZIG",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "98869",
+            "home_odd": "1.45",
+            "home_team": "BAYERN",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2959692",
+            "neutral_odd": "5.00",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "BAYERN",
+                            "odd_value": "1.45",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "5.00",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "LEIPZIG",
+                            "odd_value": "6.00",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883448",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-05 20:30:00"
+        },
+        {
+            "away_odd": "3.35",
             "away_team": "LEVERKUSEN",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "77131",
-            "home_odd": "3.15",
-            "home_team": "EINTRACHT",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2815894",
-            "neutral_odd": "3.50",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "EINTRACHT",
-                            "odd_value": "3.15",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "3.50",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "LEVERKUSEN",
-                            "odd_value": "2.18",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883346",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-12 19:30:00"
-        },
-        {
-            "away_odd": "1.27",
-            "away_team": "BAYERN",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "22239",
-            "home_odd": "9.00",
-            "home_team": "STUTTGART",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2843224",
-            "neutral_odd": "6.60",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "STUTTGART",
-                            "odd_value": "9.00",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "6.60",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "BAYERN",
-                            "odd_value": "1.27",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883368",
-            "side_bets": "70",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-14 20:30:00"
-        },
-        {
-            "away_odd": "3.10",
-            "away_team": "Bochum",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "31362",
-            "home_odd": "2.31",
-            "home_team": "BIELEFELD",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2843232",
-            "neutral_odd": "3.30",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "BIELEFELD",
-                            "odd_value": "2.31",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "3.30",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "Bochum",
-                            "odd_value": "3.10",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883374",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-14 22:30:00"
-        },
-        {
-            "away_odd": "4.30",
-            "away_team": "HERTHA",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "92388",
-            "home_odd": "1.85",
-            "home_team": "MAINZ",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2843242",
-            "neutral_odd": "3.55",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "MAINZ",
-                            "odd_value": "1.85",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "3.55",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "HERTHA",
-                            "odd_value": "4.30",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883370",
-            "side_bets": "71",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-14 22:30:00"
-        },
-        {
-            "away_odd": "3.75",
-            "away_team": "KOLN",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "76581",
+            "game_id": "16715",
             "home_odd": "1.97",
-            "home_team": "WOLFSBURG",
+            "home_team": "DORTMUND",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2843267",
-            "neutral_odd": "3.55",
+            "match_id": "2959713",
+            "neutral_odd": "3.95",
             "odds": [
                 {
                     "name": "1X2",
@@ -740,7 +440,7 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "WOLFSBURG",
+                            "odd_key": "DORTMUND",
                             "odd_value": "1.97",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
@@ -752,7 +452,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.55",
+                            "odd_value": "3.95",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -762,8 +462,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "KOLN",
-                            "odd_value": "3.75",
+                            "odd_key": "LEVERKUSEN",
+                            "odd_value": "3.35",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -774,25 +474,25 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883360",
+            "parent_match_id": "27883450",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-14 22:30:00"
+            "start_time": "2022-02-06 17:30:00"
         },
         {
-            "away_odd": "4.00",
-            "away_team": "EINTRACHT",
+            "away_odd": "5.40",
+            "away_team": "Greuther Furth",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "42552",
-            "home_odd": "1.87",
-            "home_team": "BORUSSIA (MG)",
+            "game_id": "93913",
+            "home_odd": "1.62",
+            "home_team": "WOLFSBURG",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2843367",
-            "neutral_odd": "3.65",
+            "match_id": "2959715",
+            "neutral_odd": "4.00",
             "odds": [
                 {
                     "name": "1X2",
@@ -800,8 +500,8 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "BORUSSIA (MG)",
-                            "odd_value": "1.87",
+                            "odd_key": "WOLFSBURG",
+                            "odd_value": "1.62",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -812,7 +512,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.65",
+                            "odd_value": "4.00",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -822,8 +522,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "EINTRACHT",
-                            "odd_value": "4.00",
+                            "odd_key": "Greuther Furth",
+                            "odd_value": "5.40",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -834,24 +534,84 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883366",
-            "side_bets": "71",
+            "parent_match_id": "27883452",
+            "side_bets": "70",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-15 20:30:00"
+            "start_time": "2022-02-06 19:30:00"
         },
         {
-            "away_odd": "1.63",
-            "away_team": "LEIPZIG",
+            "away_odd": "5.60",
+            "away_team": "KOLN",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "30392",
-            "home_odd": "5.20",
-            "home_team": "AUGSBURG",
+            "game_id": "42763",
+            "home_odd": "1.55",
+            "home_team": "LEIPZIG",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2843301",
+            "match_id": "2982285",
+            "neutral_odd": "4.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "LEIPZIG",
+                            "odd_value": "1.55",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "KOLN",
+                            "odd_value": "5.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883466",
+            "side_bets": "70",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-11 22:30:00"
+        },
+        {
+            "away_odd": "4.90",
+            "away_team": "AUGSBURG",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "58718",
+            "home_odd": "1.64",
+            "home_team": "BORUSSIA (MG)",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982287",
             "neutral_odd": "4.10",
             "odds": [
                 {
@@ -860,8 +620,8 @@
                         {
                             "display": "1",
                             "odd_def": "{$competitor1}",
-                            "odd_key": "AUGSBURG",
-                            "odd_value": "5.20",
+                            "odd_key": "BORUSSIA (MG)",
+                            "odd_value": "1.64",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -882,8 +642,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "LEIPZIG",
-                            "odd_value": "1.63",
+                            "odd_key": "AUGSBURG",
+                            "odd_value": "4.90",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -894,25 +654,265 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883372",
+            "parent_match_id": "27883474",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-15 22:30:00"
+            "start_time": "2022-02-12 17:30:00"
         },
         {
-            "away_odd": "3.95",
-            "away_team": "HOFFENHEIM",
+            "away_odd": "3.20",
+            "away_team": "WOLFSBURG",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "16869",
-            "home_odd": "1.86",
+            "game_id": "44896",
+            "home_odd": "2.21",
+            "home_team": "EINTRACHT",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982333",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "EINTRACHT",
+                            "odd_value": "2.21",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "WOLFSBURG",
+                            "odd_value": "3.20",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883468",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-12 17:30:00"
+        },
+        {
+            "away_odd": "2.22",
+            "away_team": "HERTHA",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "64851",
+            "home_odd": "3.20",
+            "home_team": "Greuther Furth",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982347",
+            "neutral_odd": "3.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Greuther Furth",
+                            "odd_value": "3.20",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "HERTHA",
+                            "odd_value": "2.22",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883482",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-12 17:30:00"
+        },
+        {
+            "away_odd": "3.35",
+            "away_team": "MAINZ",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "29577",
+            "home_odd": "2.13",
+            "home_team": "FREIBURG",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982355",
+            "neutral_odd": "3.45",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "FREIBURG",
+                            "odd_value": "2.13",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "3.45",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "MAINZ",
+                            "odd_value": "3.35",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883476",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-12 17:30:00"
+        },
+        {
+            "away_odd": "1.21",
+            "away_team": "BAYERN",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "23616",
+            "home_odd": "11.00",
+            "home_team": "Bochum",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982716",
+            "neutral_odd": "7.40",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "Bochum",
+                            "odd_value": "11.00",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "7.40",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BAYERN",
+                            "odd_value": "1.21",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883480",
+            "side_bets": "69",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-12 17:30:00"
+        },
+        {
+            "away_odd": "5.60",
+            "away_team": "STUTTGART",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "83682",
+            "home_odd": "1.53",
             "home_team": "LEVERKUSEN",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2843310",
-            "neutral_odd": "3.75",
+            "match_id": "2982382",
+            "neutral_odd": "4.60",
             "odds": [
                 {
                     "name": "1X2",
@@ -921,7 +921,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "LEVERKUSEN",
-                            "odd_value": "1.86",
+                            "odd_value": "1.53",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -932,7 +932,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.75",
+                            "odd_value": "4.60",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -942,8 +942,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "HOFFENHEIM",
-                            "odd_value": "3.95",
+                            "odd_key": "STUTTGART",
+                            "odd_value": "5.60",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -954,85 +954,25 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883362",
+            "parent_match_id": "27883470",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-15 22:30:00"
+            "start_time": "2022-02-12 20:30:00"
         },
         {
-            "away_odd": "20.00",
-            "away_team": "Greuther Furth",
+            "away_odd": "1.95",
+            "away_team": "DORTMUND",
             "category": "Germany",
             "competition_id": "214",
             "competition_name": "Bundesliga",
-            "game_id": "30841",
-            "home_odd": "1.11",
-            "home_team": "DORTMUND",
-            "is_esport": false,
-            "is_srl": false,
-            "match_id": "2843333",
-            "neutral_odd": "9.60",
-            "odds": [
-                {
-                    "name": "1X2",
-                    "odds": [
-                        {
-                            "display": "1",
-                            "odd_def": "{$competitor1}",
-                            "odd_key": "DORTMUND",
-                            "odd_value": "1.11",
-                            "outcome_id": "1",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "X",
-                            "odd_def": "draw",
-                            "odd_key": "draw",
-                            "odd_value": "9.60",
-                            "outcome_id": "2",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        },
-                        {
-                            "display": "2",
-                            "odd_def": "{$competitor2}",
-                            "odd_key": "Greuther Furth",
-                            "odd_value": "20.00",
-                            "outcome_id": "3",
-                            "parsed_special_bet_value": {
-                                "": ""
-                            },
-                            "special_bet_value": ""
-                        }
-                    ],
-                    "sub_type_id": "1"
-                }
-            ],
-            "parent_match_id": "27883358",
-            "side_bets": "69",
-            "sport_id": "14",
-            "sport_name": "Soccer",
-            "start_time": "2021-12-15 22:30:00"
-        },
-        {
-            "away_odd": "3.10",
-            "away_team": "FREIBURG",
-            "category": "Germany",
-            "competition_id": "214",
-            "competition_name": "Bundesliga",
-            "game_id": "90349",
-            "home_odd": "2.31",
+            "game_id": "83723",
+            "home_odd": "3.70",
             "home_team": "UNION BERLIN",
             "is_esport": false,
             "is_srl": false,
-            "match_id": "2843340",
-            "neutral_odd": "3.30",
+            "match_id": "2982468",
+            "neutral_odd": "3.65",
             "odds": [
                 {
                     "name": "1X2",
@@ -1041,7 +981,7 @@
                             "display": "1",
                             "odd_def": "{$competitor1}",
                             "odd_key": "UNION BERLIN",
-                            "odd_value": "2.31",
+                            "odd_value": "3.70",
                             "outcome_id": "1",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1052,7 +992,7 @@
                             "display": "X",
                             "odd_def": "draw",
                             "odd_key": "draw",
-                            "odd_value": "3.30",
+                            "odd_value": "3.65",
                             "outcome_id": "2",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1062,8 +1002,8 @@
                         {
                             "display": "2",
                             "odd_def": "{$competitor2}",
-                            "odd_key": "FREIBURG",
-                            "odd_value": "3.10",
+                            "odd_key": "DORTMUND",
+                            "odd_value": "1.95",
                             "outcome_id": "3",
                             "parsed_special_bet_value": {
                                 "": ""
@@ -1074,22 +1014,82 @@
                     "sub_type_id": "1"
                 }
             ],
-            "parent_match_id": "27883364",
+            "parent_match_id": "27883472",
             "side_bets": "71",
             "sport_id": "14",
             "sport_name": "Soccer",
-            "start_time": "2021-12-15 22:30:00"
+            "start_time": "2022-02-13 17:30:00"
+        },
+        {
+            "away_odd": "5.60",
+            "away_team": "BIELEFELD",
+            "category": "Germany",
+            "competition_id": "214",
+            "competition_name": "Bundesliga",
+            "game_id": "95126",
+            "home_odd": "1.56",
+            "home_team": "HOFFENHEIM",
+            "is_esport": false,
+            "is_srl": false,
+            "match_id": "2982338",
+            "neutral_odd": "4.30",
+            "odds": [
+                {
+                    "name": "1X2",
+                    "odds": [
+                        {
+                            "display": "1",
+                            "odd_def": "{$competitor1}",
+                            "odd_key": "HOFFENHEIM",
+                            "odd_value": "1.56",
+                            "outcome_id": "1",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "X",
+                            "odd_def": "draw",
+                            "odd_key": "draw",
+                            "odd_value": "4.30",
+                            "outcome_id": "2",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        },
+                        {
+                            "display": "2",
+                            "odd_def": "{$competitor2}",
+                            "odd_key": "BIELEFELD",
+                            "odd_value": "5.60",
+                            "outcome_id": "3",
+                            "parsed_special_bet_value": {
+                                "": ""
+                            },
+                            "special_bet_value": ""
+                        }
+                    ],
+                    "sub_type_id": "1"
+                }
+            ],
+            "parent_match_id": "27883478",
+            "side_bets": "71",
+            "sport_id": "14",
+            "sport_name": "Soccer",
+            "start_time": "2022-02-13 19:30:00"
         }
     ],
     "meta": {
         "current_page": 1,
         "current_tab": [
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-02-04 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1163,91 +1163,91 @@
         "limit": 100,
         "periods": [
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": -1,
                 "name": "Today",
-                "period_end": "2021-12-07 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-01-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": -2,
                 "name": "Next 48hrs",
-                "period_end": "2021-12-08 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-02-01 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2021-12-07",
+                "date": "2022-01-31",
                 "id": 1,
                 "name": "Tomorrow",
-                "period_end": "2021-12-08 04:01:00",
-                "period_start": "2021-12-07 04:00:00",
+                "period_end": "2022-02-01 04:01:00",
+                "period_start": "2022-01-31 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-08",
+                "date": "2022-02-01",
                 "id": 2,
-                "name": "Wednesday",
-                "period_end": "2021-12-09 04:01:00",
-                "period_start": "2021-12-08 04:00:00",
+                "name": "Tuesday",
+                "period_end": "2022-02-02 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-09",
+                "date": "2022-02-02",
                 "id": 3,
-                "name": "Thursday",
-                "period_end": "2021-12-10 04:01:00",
-                "period_start": "2021-12-09 04:00:00",
+                "name": "Wednesday",
+                "period_end": "2022-02-03 04:01:00",
+                "period_start": "2022-02-02 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-10",
+                "date": "2022-02-03",
                 "id": 4,
-                "name": "Friday",
-                "period_end": "2021-12-11 04:01:00",
-                "period_start": "2021-12-10 04:00:00",
+                "name": "Thursday",
+                "period_end": "2022-02-04 04:01:00",
+                "period_start": "2022-02-03 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-11",
+                "date": "2022-02-04",
                 "id": 5,
-                "name": "Saturday",
-                "period_end": "2021-12-12 04:01:00",
-                "period_start": "2021-12-11 04:00:00",
+                "name": "Friday",
+                "period_end": "2022-02-05 04:01:00",
+                "period_start": "2022-02-04 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-12",
+                "date": "2022-02-05",
                 "id": 6,
-                "name": "Sunday",
-                "period_end": "2021-12-13 04:01:00",
-                "period_start": "2021-12-12 04:00:00",
+                "name": "Saturday",
+                "period_end": "2022-02-06 04:01:00",
+                "period_start": "2022-02-05 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-13",
+                "date": "2022-02-06",
                 "id": 7,
-                "name": "Monday",
-                "period_end": "2021-12-14 04:01:00",
-                "period_start": "2021-12-13 04:00:00",
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-14",
+                "date": "2022-02-07",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-04-05 04:01:00",
-                "period_start": "2021-12-14 04:00:00",
+                "period_end": "2022-05-30 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": 9,
                 "name": "All",
-                "period_end": "2022-04-05 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-05-30 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1307,6 +1307,18 @@
                 "sport_name": "Boxing"
             },
             {
+                "sport_id": "40",
+                "sport_name": "Futsal"
+            },
+            {
+                "sport_id": "41",
+                "sport_name": "Rugby"
+            },
+            {
+                "sport_id": "43",
+                "sport_name": "Aussie Rules"
+            },
+            {
                 "sport_id": "45",
                 "sport_name": "Table Tennis"
             },
@@ -1319,101 +1331,89 @@
                 "sport_name": "Bowls"
             },
             {
-                "sport_id": "79",
-                "sport_name": "Counter-Strike"
-            },
-            {
-                "sport_id": "89",
-                "sport_name": "Bandy"
-            },
-            {
-                "sport_id": "97",
-                "sport_name": "ESport King of Glory"
-            },
-            {
                 "sport_id": "105",
                 "sport_name": "eSoccer"
             }
         ],
         "tabs": [
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": -1,
                 "name": "Today's Highlights",
-                "period_end": "2021-12-07 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-01-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-06",
+                "date": "2022-01-30",
                 "id": -2,
                 "name": "\ud83d\udd25 Next 48hrs",
-                "period_end": "2022-02-04 04:01:00",
-                "period_start": "2021-12-06 04:00:00",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-01-30 04:00:00",
                 "prioritized": false
             },
             {
-                "date": "2021-12-07",
+                "date": "2022-01-31",
                 "id": 1,
                 "name": "Tomorrow",
-                "period_end": "2021-12-08 04:01:00",
-                "period_start": "2021-12-07 04:00:00",
+                "period_end": "2022-02-01 04:01:00",
+                "period_start": "2022-01-31 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-08",
+                "date": "2022-02-01",
                 "id": 2,
-                "name": "Wednesday",
-                "period_end": "2021-12-09 04:01:00",
-                "period_start": "2021-12-08 04:00:00",
+                "name": "Tuesday",
+                "period_end": "2022-02-02 04:01:00",
+                "period_start": "2022-02-01 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-09",
+                "date": "2022-02-02",
                 "id": 3,
-                "name": "Thursday",
-                "period_end": "2021-12-10 04:01:00",
-                "period_start": "2021-12-09 04:00:00",
+                "name": "Wednesday",
+                "period_end": "2022-02-03 04:01:00",
+                "period_start": "2022-02-02 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-10",
+                "date": "2022-02-03",
                 "id": 4,
-                "name": "Friday",
-                "period_end": "2021-12-11 04:01:00",
-                "period_start": "2021-12-10 04:00:00",
+                "name": "Thursday",
+                "period_end": "2022-02-04 04:01:00",
+                "period_start": "2022-02-03 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-11",
+                "date": "2022-02-04",
                 "id": 5,
-                "name": "Saturday",
-                "period_end": "2021-12-12 04:01:00",
-                "period_start": "2021-12-11 04:00:00",
+                "name": "Friday",
+                "period_end": "2022-02-05 04:01:00",
+                "period_start": "2022-02-04 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-12",
+                "date": "2022-02-05",
                 "id": 6,
-                "name": "Sunday",
-                "period_end": "2021-12-13 04:01:00",
-                "period_start": "2021-12-12 04:00:00",
+                "name": "Saturday",
+                "period_end": "2022-02-06 04:01:00",
+                "period_start": "2022-02-05 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-13",
+                "date": "2022-02-06",
                 "id": 7,
-                "name": "Monday",
-                "period_end": "2021-12-14 04:01:00",
-                "period_start": "2021-12-13 04:00:00",
+                "name": "Sunday",
+                "period_end": "2022-02-07 04:01:00",
+                "period_start": "2022-02-06 04:00:00",
                 "prioritized": true
             },
             {
-                "date": "2021-12-14",
+                "date": "2022-02-07",
                 "id": 8,
                 "name": "Next Week",
-                "period_end": "2022-02-04 04:01:00",
-                "period_start": "2021-12-14 04:00:00",
+                "period_end": "2022-03-31 04:01:00",
+                "period_start": "2022-02-07 04:00:00",
                 "prioritized": false
             }
         ],
@@ -1531,5 +1531,5 @@
         ],
         "total": "18"
     },
-    "time_elapsed_secs": 0.048266887664795
+    "time_elapsed_secs": 0.086786031723022
 }
