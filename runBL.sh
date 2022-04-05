@@ -1,10 +1,10 @@
 #!/bin/bash
 
-cd JSON/BLJson/ && rm -rf *
+cd json/BLJson/ && rm -rf *
 echo "cleared json success!"
 sleep 2
 
-cd ../../DBS/ && python3 clearBlTables.py
+cd ../../database/ && python3 clearBlTables.py
 echo "cleared tables success!"
 sleep 2
 

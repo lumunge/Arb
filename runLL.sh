@@ -1,12 +1,12 @@
 #!/bin/bash
 
 echo "clearing json files..."
-cd JSON/LLJson/ && rm -rf *
+cd json/LLJson/ && rm -rf *
 echo "success!"
 sleep 2
 
 echo "clearing tables..."
-cd ../../DBS/ && python3 clearLlTables.py
+cd ../../database/ && python3 clearLlTables.py
 echo "success!"
 sleep 2
 
