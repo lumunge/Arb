@@ -97,9 +97,9 @@ def returnKey(str):
 
 # save records
 def saveSportPesaPL():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
-    f = open("../JSON/PLJson/sportPesaPremierLeague.json")
+    f = open("../json/PLJson/sportPesaPremierLeague.json")
     data = json.load(f)
     with conn:
         for i in data:
@@ -117,9 +117,9 @@ def saveSportPesaPL():
 
 
 def saveBetikaPL():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
-    f = open("../JSON/PLJson/betikaPremierLeague.json")
+    f = open("../json/PLJson/betikaPremierLeague.json")
     data = json.load(f)
     with conn:
         for i in data["data"]:
@@ -136,9 +136,9 @@ def saveBetikaPL():
 
 
 def saveBet22PL():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
-    f = open("../JSON/PLJson/22betPremierLeague.json")
+    f = open("../json/PLJson/22betPremierLeague.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -155,9 +155,9 @@ def saveBet22PL():
 
 
 def saveMelPL():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
-    f = open("../JSON/PLJson/melbetPremierLeague.json")
+    f = open("../json/PLJson/melbetPremierLeague.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -174,9 +174,9 @@ def saveMelPL():
 
 
 def save1XPL():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
-    f = open("../JSON/PLJson/1xbetPremierLeague.json")
+    f = open("../json/PLJson/1xbetPremierLeague.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -193,7 +193,7 @@ def save1XPL():
 
 
 def combineRecords():
-    db = "../DBS/premierLeague.db"
+    db = "../database/premierLeague.db"
     conn = createConnection(db)
     combinePremierLeagueSql = """INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time)
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time

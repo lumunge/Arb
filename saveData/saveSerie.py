@@ -97,9 +97,9 @@ def returnKey(str):
 
 # save records
 def saveSportPesaSA():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
-    f = open("../JSON/SAJson/sportPesaSA.json")
+    f = open("../json/SAJson/sportPesaSA.json")
     data = json.load(f)
     with conn:
         for i in data:
@@ -117,9 +117,9 @@ def saveSportPesaSA():
 
 
 def saveBetikaSA():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
-    f = open("../JSON//SAJson/betikaSA.json")
+    f = open("../json//SAJson/betikaSA.json")
     data = json.load(f)
     with conn:
         for i in data["data"]:
@@ -136,9 +136,9 @@ def saveBetikaSA():
 
 
 def saveBet22SA():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
-    f = open("../JSON/SAJson/22betSA.json")
+    f = open("../json/SAJson/22betSA.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -155,9 +155,9 @@ def saveBet22SA():
 
 
 def saveMelSA():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
-    f = open("../JSON/SAJson/melbetSA.json")
+    f = open("../json/SAJson/melbetSA.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -174,9 +174,9 @@ def saveMelSA():
 
 
 def save1XSA():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
-    f = open("../JSON/SAJson/1xbetSA.json")
+    f = open("../json/SAJson/1xbetSA.json")
     data = json.load(f)
     with conn:
         for i in data["Value"]:
@@ -193,7 +193,7 @@ def save1XSA():
 
 
 def combineRecords():
-    db = "../DBS/serieA.db"
+    db = "../database/serieA.db"
     conn = createConnection(db)
     combineSASql = """INSERT INTO SACombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
