@@ -11,8 +11,8 @@ X1BetBLURL = "https://1xbet.co.ke/LineFeed/Get1x2_VZip?sports=1&champs=96463&cou
 
 def fetchBundesLiga(url, jsonFile, site):
     res = requests.get(url)
-    print("...fetching bundesliga data")
-    print(f"{site} status: ", res.status_code)
+    print("Fetching bundesliga odds...")
+    print(f"{site} Status: ", res.status_code)
     resJson = json.loads(res.text)
     resObj = json.dumps(resJson, indent=4, sort_keys=True)
     with open(jsonFile, "a") as o:
