@@ -20,9 +20,9 @@ def fetchPremierLeague(url, jsonFile, site):
 
 
 fetchPremierLeague(
-    SportPesaPLURL, "../JSON/PLJson/sportPesaPremierLeague.json", "sportpesa"
+    SportPesaPLURL, "../json/PLJson/sportPesaPremierLeague.json", "sportpesa"
 )
-fetchPremierLeague(BetikaPLURL, "../JSON/PLJson/betikaPremierLeague.json", "betika")
-fetchPremierLeague(Bet22PLURL, "../JSON/PLJson/22betPremierLeague.json", "22bet")
-fetchPremierLeague(MelBetPLUrl, "../JSON/PLJson/melbetPremierLeague.json", "melbet")
-fetchPremierLeague(X1BetPLURL, "../JSON/PLJson/1xbetPremierLeague.json", "1xbet")
+fetchPremierLeague(BetikaPLURL, "../json/PLJson/betikaPremierLeague.json", "betika")
+fetchPremierLeague(Bet22PLURL, "../json/PLJson/22betPremierLeague.json", "22bet")
+fetchPremierLeague(MelBetPLUrl, "../json/PLJson/melbetPremierLeague.json", "melbet")
+fetchPremierLeague(X1BetPLURL, "../json/PLJson/1xbetPremierLeague.json", "1xbet")
