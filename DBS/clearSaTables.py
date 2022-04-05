@@ -1,19 +1,8 @@
-import sqlite3
-from sqlite3 import Error
-
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
-
+import conn as dbConn
 
 def truncateSATables():
     db = "./serieA.db"
-    conn = createConnection(db)
+    conn = dbConn.createConnection(db)
     spSql = """DELETE FROM sportpesaSA"""
     btkSql = """DELETE FROM betikaSA"""
     bt22Sql = """DELETE FROM bet22SA"""

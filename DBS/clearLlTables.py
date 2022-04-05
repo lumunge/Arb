@@ -1,19 +1,8 @@
-import sqlite3
-from sqlite3 import Error
-
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
-
+import conn as dbConn
 
 def truncateLlTables():
     db = "./laLiga.db"
-    conn = createConnection(db)
+    conn = dbConn.createConnection(db)
     spSql = """DELETE FROM sportpesaLaLiga"""
     btkSql = """DELETE FROM betikaLaLiga"""
     bt22Sql = """DELETE FROM bet22LaLiga"""
