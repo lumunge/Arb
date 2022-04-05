@@ -7,7 +7,7 @@ def probability(a, b, c):
 
 # GET LA LIGA DATA FUNCTIONS
 def getSportPesaLLData():
-    f = open("../JSON/LLJson/sportPesaLaLiga.json")
+    f = open("../json/LLJson/sportPesaLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -34,7 +34,7 @@ def getSportPesaLLData():
 
 
 def getBetikaLLData():
-    f = open("../JSON/LLJson/betikaLaLiga.json")
+    f = open("../json/LLJson/betikaLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -64,7 +64,7 @@ def getBetikaLLData():
 
 
 def get22BetLLData():
-    f = open("../JSON/LLJson/22betLaLiga.json")
+    f = open("../json/LLJson/22betLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
@@ -94,7 +94,7 @@ def get22BetLLData():
 
 
 def getMlLLData():
-    f = open("../JSON/LLJson/melbetLaLiga.json")
+    f = open("../json/LLJson/melbetLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -136,7 +136,7 @@ def getMlLLData():
 
 
 def get1XLLData():
-    f = open("../JSON/LLJson/1xbetLaLiga.json")
+    f = open("../json/LLJson/1xbetLaLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(

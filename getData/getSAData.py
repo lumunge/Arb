@@ -7,7 +7,7 @@ def probability(a, b, c):
 
 # GET LA LIGA DATA FUNCTIONS
 def getSportPesaSAData():
-    f = open("../JSON/SAJson/sportPesaSA.json")
+    f = open("../json/SAJson/sportPesaSA.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -34,7 +34,7 @@ def getSportPesaSAData():
 
 
 def getBetikaSAData():
-    f = open("../JSON/SAJson/betikaSA.json")
+    f = open("../json/SAJson/betikaSA.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -64,7 +64,7 @@ def getBetikaSAData():
 
 
 def get22BetSAData():
-    f = open("../JSON/SAJson/22betSA.json")
+    f = open("../json/SAJson/22betSA.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
@@ -94,7 +94,7 @@ def get22BetSAData():
 
 
 def getMlSAData():
-    f = open("../JSON/SAJson/melbetSA.json")
+    f = open("../json/SAJson/melbetSA.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -136,7 +136,7 @@ def getMlSAData():
 
 
 def get1XSAData():
-    f = open("../JSON/SAJson/1xbetSA.json")
+    f = open("../json/SAJson/1xbetSA.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(

@@ -1,8 +1,8 @@
 from utils import genIndices, probability
-from DBS import conn as dbConn
+from database import conn as dbConn
 
 def getRecords():
-    db = "./DBS/laLiga.db"
+    db = "./database/laLiga.db"
     conn = dbConn.createConnection(db)
     getSpSql = """SELECT * FROM LLCombinations"""
     cur = conn.cursor()

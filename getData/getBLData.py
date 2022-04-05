@@ -7,7 +7,7 @@ def probability(a, b, c):
 
 # GET BUNDESLIGA DATA FUNCTIONS
 def getSportPesaBLData():
-    f = open("../JSON/BLJson/sportPesaBundesLiga.json")
+    f = open("../json/BLJson/sportPesaBundesLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -34,7 +34,7 @@ def getSportPesaBLData():
 
 
 def getBetikaBLData():
-    f = open("../JSON/BLJson/betikaBundesLiga.json")
+    f = open("../json/BLJson/betikaBundesLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<25} {:<15}".format(
@@ -64,7 +64,7 @@ def getBetikaBLData():
 
 
 def get22BetBLData():
-    f = open("../JSON/BLJson/22betBundesLiga.json")
+    f = open("../json/BLJson/22betBundesLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
@@ -94,7 +94,7 @@ def get22BetBLData():
 
 
 def getMlBLData():
-    f = open("../JSON/BLJson/melbetBundesLiga.json")
+    f = open("../json/BLJson/melbetBundesLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
@@ -136,7 +136,7 @@ def getChPlData():
 
 
 def get1XBlData():
-    f = open("../JSON/BLJson/1xbetBundesLiga.json")
+    f = open("../json/BLJson/1xbetBundesLiga.json")
     data = json.load(f)
     print(
         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(

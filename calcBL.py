@@ -1,14 +1,15 @@
-from utils import genIndices, probability
-from DBS import conn as dbConn
+# from utils import genIndices, probability
+from utilities import functions as fun
+from database import conn as dbConn
 
 def getRecords():
-    db = "./DBS/bundesliga.db"
+    db = "./database/bundesliga.db"
     conn = dbConn.createConnection(db)
     getSpSql = """SELECT * FROM bLCombinations"""
     cur = conn.cursor()
     cur.execute(getSpSql)
     results = cur.fetchall()
-    combinations = genIndices()
+    combinations = fun.genIndices()
     conn.commit()
     sites = {
         2: "sph",
@@ -53,7 +54,7 @@ def getRecords():
                     i[j[1]],
                     sites[j[2]],
                     i[j[2]],
-                    probability(i[j[0]], i[j[1]], i[j[2]]),
+                    fun.probability(i[j[0]], i[j[1]], i[j[2]]),
                     i[17],
                 )
             )

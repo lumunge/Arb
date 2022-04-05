@@ -1,8 +1,8 @@
 from utils import genIndices, probability
-from DBS import conn as dbConn
+from database import conn as dbConn
 
 def getRecords():
-    db = "./DBS/serieA.db"
+    db = "./database/serieA.db"
     conn = dbConn.createConnection(db)
     getSpSql = """SELECT * FROM SACombinations"""
     cur = conn.cursor()
