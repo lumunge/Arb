@@ -1,20 +1,9 @@
 from utils import genIndices, probability
-import sqlite3
-from sqlite3 import Error
-
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
-
+from DBS import conn as dbConn
 
 def getRecords():
     db = "./DBS/laLiga.db"
-    conn = createConnection(db)
+    conn = dbConn.createConnection(db)
     getSpSql = """SELECT * FROM LLCombinations"""
     cur = conn.cursor()
     cur.execute(getSpSql)

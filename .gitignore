@@ -1,2 +1,4 @@
 sqlcmd.txt
 Accounts
+*.json
+*.db

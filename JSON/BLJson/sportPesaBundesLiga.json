@@ -1,19 +1,19 @@
 [
     {
-        "betgeniusId": 0,
-        "betradarId": 27883460,
+        "betgeniusId": 9037260,
+        "betradarId": 32669825,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 447,
-                "name": "Hertha BSC"
+                "id": 65,
+                "name": "Augsburg"
             },
             {
-                "id": 440,
-                "name": "VfL Bochum"
+                "id": 77,
+                "name": "Mainz"
             }
         ],
         "country": {
@@ -21,10 +21,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-04T19:30:00.000Z",
-        "dateTimestamp": 1644003000000,
-        "hasCustomBet": 0,
-        "id": 3468761,
+        "date": "2022-04-06T16:30:00.000Z",
+        "dateTimestamp": 1649262600000,
+        "hasCustomBet": 1,
+        "id": 3596217,
         "markets": [
             {
                 "columns": 3,
@@ -33,23 +33,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415453357,
-                        "name": "Hertha BSC",
-                        "odds": "2.27",
+                        "id": 2426125327,
+                        "name": "Augsburg",
+                        "odds": "3.25",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415453347,
+                        "id": 2426125363,
                         "name": "Draw",
-                        "odds": "3.36",
+                        "odds": "3.30",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415453359,
-                        "name": "VfL Bochum",
-                        "odds": "3.11",
+                        "id": 2426125365,
+                        "name": "Mainz",
+                        "odds": "2.22",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -57,7 +57,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5809,
+        "smsId": 5990,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -65,16 +65,81 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 27883462,
+        "betgeniusId": 8196209,
+        "betradarId": 27883600,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 83871,
-                "name": "Arminia Bielefeld"
+                "id": 80,
+                "name": "Stuttgart"
+            },
+            {
+                "id": 68,
+                "name": "Borussia Dortmund"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-08T18:30:00.000Z",
+        "dateTimestamp": 1649442600000,
+        "hasCustomBet": 1,
+        "id": 3595213,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426066047,
+                        "name": "Stuttgart",
+                        "odds": "3.70",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426066049,
+                        "name": "Draw",
+                        "odds": "3.91",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426066045,
+                        "name": "Borussia Dortmund",
+                        "odds": "1.87",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2034,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8196213,
+        "betradarId": 27883608,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 73,
+                "name": "Greuther Furth"
             },
             {
                 "id": 69,
@@ -86,10 +151,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-05T14:30:00.000Z",
-        "dateTimestamp": 1644071400000,
-        "hasCustomBet": 0,
-        "id": 3468779,
+        "date": "2022-04-09T13:30:00.000Z",
+        "dateTimestamp": 1649511000000,
+        "hasCustomBet": 1,
+        "id": 3595227,
         "markets": [
             {
                 "columns": 3,
@@ -98,23 +163,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415455583,
-                        "name": "Arminia Bielefeld",
-                        "odds": "3.39",
+                        "id": 2426066763,
+                        "name": "Greuther Furth",
+                        "odds": "4.39",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415455579,
+                        "id": 2426066819,
                         "name": "Draw",
-                        "odds": "3.49",
+                        "odds": "3.94",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415455581,
+                        "id": 2426066865,
                         "name": "Borussia Monchengladbach",
-                        "odds": "2.09",
+                        "odds": "1.73",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -122,7 +187,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 1076,
+        "smsId": 5201,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -130,20 +195,20 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 27883456,
+        "betgeniusId": 8196211,
+        "betradarId": 27883604,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 77,
-                "name": "Mainz"
+                "id": 445,
+                "name": "FC Koln"
             },
             {
-                "id": 76,
-                "name": "Hoffenheim"
+                "id": 77,
+                "name": "Mainz"
             }
         ],
         "country": {
@@ -151,10 +216,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-05T14:30:00.000Z",
-        "dateTimestamp": 1644071400000,
-        "hasCustomBet": 0,
-        "id": 3468813,
+        "date": "2022-04-09T13:30:00.000Z",
+        "dateTimestamp": 1649511000000,
+        "hasCustomBet": 1,
+        "id": 3595229,
         "markets": [
             {
                 "columns": 3,
@@ -163,22 +228,217 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415458873,
-                        "name": "Mainz",
-                        "odds": "2.50",
+                        "id": 2426066477,
+                        "name": "FC Koln",
+                        "odds": "2.45",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415458903,
+                        "id": 2426066483,
                         "name": "Draw",
-                        "odds": "3.55",
+                        "odds": "3.31",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415458935,
-                        "name": "Hoffenheim",
+                        "id": 2426066491,
+                        "name": "Mainz",
+                        "odds": "2.86",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5523,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8196205,
+        "betradarId": 27883592,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 67,
+                "name": "Bayern Munchen"
+            },
+            {
+                "id": 65,
+                "name": "Augsburg"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-09T13:30:00.000Z",
+        "dateTimestamp": 1649511000000,
+        "hasCustomBet": 1,
+        "id": 3595231,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426067177,
+                        "name": "Bayern Munchen",
+                        "odds": "1.10",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426067187,
+                        "name": "Draw",
+                        "odds": "10.05",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426067205,
+                        "name": "Augsburg",
+                        "odds": "21.10",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5844,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8196207,
+        "betradarId": 27883596,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 82,
+                "name": "VfL Wolfsburg"
+            },
+            {
+                "id": 83871,
+                "name": "Arminia Bielefeld"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-09T13:30:00.000Z",
+        "dateTimestamp": 1649511000000,
+        "hasCustomBet": 1,
+        "id": 3595313,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426070403,
+                        "name": "VfL Wolfsburg",
+                        "odds": "1.68",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426070417,
+                        "name": "Draw",
+                        "odds": "3.79",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426070433,
+                        "name": "Arminia Bielefeld",
+                        "odds": "4.99",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3595,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8196210,
+        "betradarId": 27883602,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 447,
+                "name": "Hertha BSC"
+            },
+            {
+                "id": 454,
+                "name": "Union Berlin"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-09T16:30:00.000Z",
+        "dateTimestamp": 1649521800000,
+        "hasCustomBet": 1,
+        "id": 3595305,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426069081,
+                        "name": "Hertha BSC",
+                        "odds": "2.75",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426069083,
+                        "name": "Draw",
+                        "odds": "3.15",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426069085,
+                        "name": "Union Berlin",
                         "odds": "2.65",
                         "shortName": "2",
                         "specValue": 0
@@ -187,7 +447,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 1212,
+        "smsId": 2316,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -195,276 +455,16 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 27883464,
+        "betgeniusId": 8196212,
+        "betradarId": 27883606,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 445,
-                "name": "FC Koln"
-            },
-            {
-                "id": 72,
-                "name": "SC Freiburg"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-05T14:30:00.000Z",
-        "dateTimestamp": 1644071400000,
-        "hasCustomBet": 0,
-        "id": 3468819,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415460379,
-                        "name": "FC Koln",
-                        "odds": "2.31",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460383,
-                        "name": "Draw",
-                        "odds": "3.55",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460385,
-                        "name": "SC Freiburg",
-                        "odds": "2.90",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 3712,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883454,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 80,
-                "name": "Stuttgart"
-            },
-            {
-                "id": 70,
-                "name": "Eintracht Frankfurt"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-05T14:30:00.000Z",
-        "dateTimestamp": 1644071400000,
-        "hasCustomBet": 0,
-        "id": 3468821,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415460765,
-                        "name": "Stuttgart",
-                        "odds": "2.70",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460777,
-                        "name": "Draw",
-                        "odds": "3.50",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460785,
-                        "name": "Eintracht Frankfurt",
-                        "odds": "2.48",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 3758,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883458,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 65,
-                "name": "Augsburg"
-            },
-            {
-                "id": 454,
-                "name": "Union Berlin"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-05T14:30:00.000Z",
-        "dateTimestamp": 1644071400000,
-        "hasCustomBet": 0,
-        "id": 3468913,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415472067,
-                        "name": "Augsburg",
-                        "odds": "3.05",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415472095,
-                        "name": "Draw",
-                        "odds": "3.30",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415472107,
-                        "name": "Union Berlin",
-                        "odds": "2.33",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 5482,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883448,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 67,
-                "name": "Bayern Munchen"
-            },
-            {
-                "id": 83981,
-                "name": "RB Leipzig"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-05T17:30:00.000Z",
-        "dateTimestamp": 1644082200000,
-        "hasCustomBet": 0,
-        "id": 3468817,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415460279,
-                        "name": "Bayern Munchen",
-                        "odds": "1.43",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460311,
-                        "name": "Draw",
-                        "odds": "5.17",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415460343,
-                        "name": "RB Leipzig",
-                        "odds": "5.96",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 5016,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883450,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 68,
-                "name": "Borussia Dortmund"
+                "id": 440,
+                "name": "VfL Bochum"
             },
             {
                 "id": 66,
@@ -476,10 +476,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-06T14:30:00.000Z",
-        "dateTimestamp": 1644157800000,
-        "hasCustomBet": 0,
-        "id": 3468811,
+        "date": "2022-04-10T13:30:00.000Z",
+        "dateTimestamp": 1649597400000,
+        "hasCustomBet": 1,
+        "id": 3595317,
         "markets": [
             {
                 "columns": 3,
@@ -488,88 +488,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415458617,
-                        "name": "Borussia Dortmund",
-                        "odds": "1.97",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415458663,
-                        "name": "Draw",
-                        "odds": "4.01",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415458667,
-                        "name": "Bayer Leverkusen",
-                        "odds": "3.31",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 5112,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883452,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 82,
-                "name": "VfL Wolfsburg"
-            },
-            {
-                "id": 73,
-                "name": "Greuther Furth"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-06T16:30:00.000Z",
-        "dateTimestamp": 1644165000000,
-        "hasCustomBet": 0,
-        "id": 3468847,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415462197,
-                        "name": "VfL Wolfsburg",
-                        "odds": "1.60",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415462243,
-                        "name": "Draw",
+                        "id": 2426070885,
+                        "name": "VfL Bochum",
                         "odds": "4.10",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426070909,
+                        "name": "Draw",
+                        "odds": "3.95",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415462279,
-                        "name": "Greuther Furth",
-                        "odds": "5.21",
+                        "id": 2426070931,
+                        "name": "Bayer Leverkusen",
+                        "odds": "1.78",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -577,7 +512,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 1166,
+        "smsId": 3720,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -585,8 +520,8 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 27883466,
+        "betgeniusId": 8196206,
+        "betradarId": 27883594,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
@@ -597,8 +532,8 @@
                 "name": "RB Leipzig"
             },
             {
-                "id": 445,
-                "name": "FC Koln"
+                "id": 76,
+                "name": "Hoffenheim"
             }
         ],
         "country": {
@@ -606,10 +541,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-11T19:30:00.000Z",
-        "dateTimestamp": 1644607800000,
-        "hasCustomBet": 0,
-        "id": 3482339,
+        "date": "2022-04-10T17:30:00.000Z",
+        "dateTimestamp": 1649611800000,
+        "hasCustomBet": 1,
+        "id": 3595295,
         "markets": [
             {
                 "columns": 3,
@@ -618,23 +553,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416408961,
+                        "id": 2426068707,
                         "name": "RB Leipzig",
-                        "odds": "1.54",
+                        "odds": "1.52",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416408971,
+                        "id": 2426068727,
                         "name": "Draw",
-                        "odds": "4.41",
+                        "odds": "4.60",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416408965,
-                        "name": "FC Koln",
-                        "odds": "5.41",
+                        "id": 2426068719,
+                        "name": "Hoffenheim",
+                        "odds": "5.40",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -642,7 +577,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5652,
+        "smsId": 4718,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -651,80 +586,15 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27883474,
+        "betradarId": 27883610,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 69,
-                "name": "Borussia Monchengladbach"
-            },
-            {
-                "id": 65,
-                "name": "Augsburg"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-12T14:30:00.000Z",
-        "dateTimestamp": 1644676200000,
-        "hasCustomBet": 0,
-        "id": 3482359,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2416409429,
-                        "name": "Borussia Monchengladbach",
-                        "odds": "1.63",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416409431,
-                        "name": "Draw",
-                        "odds": "4.11",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416409435,
-                        "name": "Augsburg",
-                        "odds": "4.91",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 4184,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883468,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 70,
-                "name": "Eintracht Frankfurt"
+                "id": 68,
+                "name": "Borussia Dortmund"
             },
             {
                 "id": 82,
@@ -736,10 +606,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-12T14:30:00.000Z",
-        "dateTimestamp": 1644676200000,
+        "date": "2022-04-16T13:30:00.000Z",
+        "dateTimestamp": 1650115800000,
         "hasCustomBet": 0,
-        "id": 3482361,
+        "id": 3630509,
         "markets": [
             {
                 "columns": 3,
@@ -748,23 +618,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416409445,
-                        "name": "Eintracht Frankfurt",
-                        "odds": "2.19",
+                        "id": 2428494487,
+                        "name": "Borussia Dortmund",
+                        "odds": "1.54",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409449,
+                        "id": 2428494481,
                         "name": "Draw",
-                        "odds": "3.50",
+                        "odds": "4.32",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409453,
+                        "id": 2428494491,
                         "name": "VfL Wolfsburg",
-                        "odds": "3.15",
+                        "odds": "5.62",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -772,7 +642,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2733,
+        "smsId": 2119,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -781,80 +651,15 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27883476,
+        "betradarId": 27883624,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 72,
-                "name": "SC Freiburg"
-            },
-            {
-                "id": 77,
-                "name": "Mainz"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-12T14:30:00.000Z",
-        "dateTimestamp": 1644676200000,
-        "hasCustomBet": 0,
-        "id": 3482389,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2416409885,
-                        "name": "SC Freiburg",
-                        "odds": "2.11",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416409853,
-                        "name": "Draw",
-                        "odds": "3.55",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416409875,
-                        "name": "Mainz",
-                        "odds": "3.30",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 1215,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883482,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 73,
-                "name": "Greuther Furth"
+                "id": 65,
+                "name": "Augsburg"
             },
             {
                 "id": 447,
@@ -866,10 +671,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-12T14:30:00.000Z",
-        "dateTimestamp": 1644676200000,
+        "date": "2022-04-16T13:30:00.000Z",
+        "dateTimestamp": 1650115800000,
         "hasCustomBet": 0,
-        "id": 3482403,
+        "id": 3630511,
         "markets": [
             {
                 "columns": 3,
@@ -878,23 +683,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416409995,
-                        "name": "Greuther Furth",
-                        "odds": "3.16",
+                        "id": 2428494501,
+                        "name": "Augsburg",
+                        "odds": "2.18",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409983,
+                        "id": 2428494511,
                         "name": "Draw",
-                        "odds": "3.46",
+                        "odds": "3.26",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409979,
+                        "id": 2428494507,
                         "name": "Hertha BSC",
-                        "odds": "2.20",
+                        "odds": "3.41",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -902,7 +707,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 3781,
+        "smsId": 5854,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -911,80 +716,15 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27883480,
+        "betradarId": 27883622,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 440,
-                "name": "VfL Bochum"
-            },
-            {
-                "id": 67,
-                "name": "Bayern Munchen"
-            }
-        ],
-        "country": {
-            "id": 72,
-            "iso": "deu",
-            "name": "Germany"
-        },
-        "date": "2022-02-12T14:30:00.000Z",
-        "dateTimestamp": 1644676200000,
-        "hasCustomBet": 0,
-        "id": 3482647,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2416429923,
-                        "name": "VfL Bochum",
-                        "odds": "11.03",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416429943,
-                        "name": "Draw",
-                        "odds": "7.22",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416429961,
-                        "name": "Bayern Munchen",
-                        "odds": "1.20",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 2527,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 27883470,
-        "competition": {
-            "id": 76390,
-            "name": "Bundesliga"
-        },
-        "competitors": [
-            {
-                "id": 66,
-                "name": "Bayer Leverkusen"
+                "id": 77,
+                "name": "Mainz"
             },
             {
                 "id": 80,
@@ -996,10 +736,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-12T17:30:00.000Z",
-        "dateTimestamp": 1644687000000,
+        "date": "2022-04-16T13:30:00.000Z",
+        "dateTimestamp": 1650115800000,
         "hasCustomBet": 0,
-        "id": 3482399,
+        "id": 3630513,
         "markets": [
             {
                 "columns": 3,
@@ -1008,23 +748,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416409949,
-                        "name": "Bayer Leverkusen",
-                        "odds": "1.52",
+                        "id": 2428494515,
+                        "name": "Mainz",
+                        "odds": "1.87",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409931,
+                        "id": 2428494527,
                         "name": "Draw",
-                        "odds": "4.60",
+                        "odds": "3.55",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409937,
+                        "id": 2428494517,
                         "name": "Stuttgart",
-                        "odds": "5.40",
+                        "odds": "4.10",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1032,7 +772,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 4309,
+        "smsId": 3724,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -1041,19 +781,19 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27883472,
+        "betradarId": 27883618,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
         },
         "competitors": [
             {
-                "id": 454,
-                "name": "Union Berlin"
+                "id": 72,
+                "name": "SC Freiburg"
             },
             {
-                "id": 68,
-                "name": "Borussia Dortmund"
+                "id": 440,
+                "name": "VfL Bochum"
             }
         ],
         "country": {
@@ -1061,10 +801,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-13T14:30:00.000Z",
-        "dateTimestamp": 1644762600000,
+        "date": "2022-04-16T13:30:00.000Z",
+        "dateTimestamp": 1650115800000,
         "hasCustomBet": 0,
-        "id": 3482483,
+        "id": 3630749,
         "markets": [
             {
                 "columns": 3,
@@ -1073,23 +813,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416422765,
-                        "name": "Union Berlin",
-                        "odds": "3.65",
+                        "id": 2428505531,
+                        "name": "SC Freiburg",
+                        "odds": "1.70",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416422745,
+                        "id": 2428505543,
                         "name": "Draw",
-                        "odds": "3.70",
+                        "odds": "3.89",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416422747,
-                        "name": "Borussia Dortmund",
-                        "odds": "1.94",
+                        "id": 2428505545,
+                        "name": "VfL Bochum",
+                        "odds": "4.69",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1097,7 +837,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 4437,
+        "smsId": 2533,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -1106,7 +846,137 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 27883478,
+        "betradarId": 27883616,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 69,
+                "name": "Borussia Monchengladbach"
+            },
+            {
+                "id": 445,
+                "name": "FC Koln"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-16T16:30:00.000Z",
+        "dateTimestamp": 1650126600000,
+        "hasCustomBet": 0,
+        "id": 3630587,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428499995,
+                        "name": "Borussia Monchengladbach",
+                        "odds": "2.03",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428499997,
+                        "name": "Draw",
+                        "odds": "3.60",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428499999,
+                        "name": "FC Koln",
+                        "odds": "3.45",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2506,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27883626,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 83871,
+                "name": "Arminia Bielefeld"
+            },
+            {
+                "id": 67,
+                "name": "Bayern Munchen"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-17T13:30:00.000Z",
+        "dateTimestamp": 1650202200000,
+        "hasCustomBet": 0,
+        "id": 3630593,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428500749,
+                        "name": "Arminia Bielefeld",
+                        "odds": "13.92",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428500755,
+                        "name": "Draw",
+                        "odds": "7.76",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428500765,
+                        "name": "Bayern Munchen",
+                        "odds": "1.16",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1042,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27883620,
         "competition": {
             "id": 76390,
             "name": "Bundesliga"
@@ -1117,8 +987,8 @@
                 "name": "Hoffenheim"
             },
             {
-                "id": 83871,
-                "name": "Arminia Bielefeld"
+                "id": 73,
+                "name": "Greuther Furth"
             }
         ],
         "country": {
@@ -1126,10 +996,10 @@
             "iso": "deu",
             "name": "Germany"
         },
-        "date": "2022-02-13T16:30:00.000Z",
-        "dateTimestamp": 1644769800000,
+        "date": "2022-04-17T15:30:00.000Z",
+        "dateTimestamp": 1650209400000,
         "hasCustomBet": 0,
-        "id": 3482363,
+        "id": 3630565,
         "markets": [
             {
                 "columns": 3,
@@ -1138,23 +1008,88 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416409467,
+                        "id": 2428497955,
                         "name": "Hoffenheim",
-                        "odds": "1.55",
+                        "odds": "1.28",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409465,
+                        "id": 2428497953,
                         "name": "Draw",
-                        "odds": "4.31",
+                        "odds": "5.80",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416409475,
-                        "name": "Arminia Bielefeld",
-                        "odds": "5.41",
+                        "id": 2428497959,
+                        "name": "Greuther Furth",
+                        "odds": "9.40",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 20,
+        "smsId": 1371,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27883614,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 454,
+                "name": "Union Berlin"
+            },
+            {
+                "id": 70,
+                "name": "Eintracht Frankfurt"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-17T15:30:00.000Z",
+        "dateTimestamp": 1650209400000,
+        "hasCustomBet": 0,
+        "id": 3630589,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428499757,
+                        "name": "Union Berlin",
+                        "odds": "2.40",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428499771,
+                        "name": "Draw",
+                        "odds": "3.35",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428499827,
+                        "name": "Eintracht Frankfurt",
+                        "odds": "2.90",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1162,7 +1097,72 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2348,
+        "smsId": 5655,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 27883612,
+        "competition": {
+            "id": 76390,
+            "name": "Bundesliga"
+        },
+        "competitors": [
+            {
+                "id": 66,
+                "name": "Bayer Leverkusen"
+            },
+            {
+                "id": 83981,
+                "name": "RB Leipzig"
+            }
+        ],
+        "country": {
+            "id": 72,
+            "iso": "deu",
+            "name": "Germany"
+        },
+        "date": "2022-04-17T17:30:00.000Z",
+        "dateTimestamp": 1650216600000,
+        "hasCustomBet": 0,
+        "id": 3630591,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428500419,
+                        "name": "Bayer Leverkusen",
+                        "odds": "2.70",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428500433,
+                        "name": "Draw",
+                        "odds": "3.50",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428500425,
+                        "name": "RB Leipzig",
+                        "odds": "2.47",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2414,
         "sport": {
             "id": 1,
             "name": "Football"

@@ -1,19 +1,19 @@
 [
     {
-        "betgeniusId": 0,
-        "betradarId": 28160300,
+        "betgeniusId": 8258873,
+        "betradarId": 28160454,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 97,
-                "name": "Roma"
+                "id": 489,
+                "name": "Empoli"
             },
             {
-                "id": 90,
-                "name": "Genoa"
+                "id": 499,
+                "name": "Spezia"
             }
         ],
         "country": {
@@ -21,10 +21,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-05T14:00:00.000Z",
-        "dateTimestamp": 1644069600000,
-        "hasCustomBet": 0,
-        "id": 3469713,
+        "date": "2022-04-09T13:00:00.000Z",
+        "dateTimestamp": 1649509200000,
+        "hasCustomBet": 1,
+        "id": 3596239,
         "markets": [
             {
                 "columns": 3,
@@ -33,23 +33,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415527591,
-                        "name": "Roma",
-                        "odds": "1.38",
+                        "id": 2426127329,
+                        "name": "Empoli",
+                        "odds": "1.97",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415527635,
+                        "id": 2426127339,
                         "name": "Draw",
-                        "odds": "5.03",
+                        "odds": "3.61",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415527655,
-                        "name": "Genoa",
-                        "odds": "7.65",
+                        "id": 2426127347,
+                        "name": "Spezia",
+                        "odds": "3.71",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -57,7 +57,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2514,
+        "smsId": 5070,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -65,8 +65,8 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 28160296,
+        "betgeniusId": 8258875,
+        "betradarId": 28160458,
         "competition": {
             "id": 67358,
             "name": "Serie A"
@@ -77,8 +77,8 @@
                 "name": "Inter"
             },
             {
-                "id": 83,
-                "name": "AC Milan"
+                "id": 502,
+                "name": "Verona"
             }
         ],
         "country": {
@@ -86,10 +86,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-05T17:00:00.000Z",
-        "dateTimestamp": 1644080400000,
-        "hasCustomBet": 0,
-        "id": 3469703,
+        "date": "2022-04-09T16:00:00.000Z",
+        "dateTimestamp": 1649520000000,
+        "hasCustomBet": 1,
+        "id": 3596225,
         "markets": [
             {
                 "columns": 3,
@@ -98,88 +98,348 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415525369,
+                        "id": 2426125481,
                         "name": "Inter",
-                        "odds": "1.83",
+                        "odds": "1.39",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415525417,
+                        "id": 2426125477,
+                        "name": "Draw",
+                        "odds": "5.02",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125471,
+                        "name": "Verona",
+                        "odds": "7.43",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1518,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258871,
+        "betradarId": 28160452,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 86,
+                "name": "Cagliari"
+            },
+            {
+                "id": 92,
+                "name": "Juventus"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-09T18:45:00.000Z",
+        "dateTimestamp": 1649529900000,
+        "hasCustomBet": 1,
+        "id": 3596229,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426125533,
+                        "name": "Cagliari",
+                        "odds": "5.00",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125535,
+                        "name": "Draw",
+                        "odds": "3.61",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125553,
+                        "name": "Juventus",
+                        "odds": "1.73",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 4005,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258874,
+        "betradarId": 28160456,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 90,
+                "name": "Genoa"
+            },
+            {
+                "id": 93,
+                "name": "Lazio"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-10T10:30:00.000Z",
+        "dateTimestamp": 1649586600000,
+        "hasCustomBet": 1,
+        "id": 3596241,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426127463,
+                        "name": "Genoa",
+                        "odds": "4.03",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426127451,
+                        "name": "Draw",
+                        "odds": "3.52",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426127461,
+                        "name": "Lazio",
+                        "odds": "1.91",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 3271,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258879,
+        "betradarId": 28160468,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 84227,
+                "name": "Venezia"
+            },
+            {
+                "id": 102,
+                "name": "Udinese"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-10T13:00:00.000Z",
+        "dateTimestamp": 1649595600000,
+        "hasCustomBet": 1,
+        "id": 3596219,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426125419,
+                        "name": "Venezia",
+                        "odds": "3.37",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125421,
+                        "name": "Draw",
+                        "odds": "3.37",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125427,
+                        "name": "Udinese",
+                        "odds": "2.17",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5457,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258877,
+        "betradarId": 28160464,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 498,
+                "name": "Sassuolo"
+            },
+            {
+                "id": 84,
+                "name": "Atalanta"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-10T13:00:00.000Z",
+        "dateTimestamp": 1649595600000,
+        "hasCustomBet": 1,
+        "id": 3596243,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426127483,
+                        "name": "Sassuolo",
+                        "odds": "3.27",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426127489,
+                        "name": "Draw",
+                        "odds": "3.67",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426127485,
+                        "name": "Atalanta",
+                        "odds": "2.10",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1211,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258876,
+        "betradarId": 28160460,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 100,
+                "name": "Napoli"
+            },
+            {
+                "id": 89,
+                "name": "Fiorentina"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-10T13:00:00.000Z",
+        "dateTimestamp": 1649595600000,
+        "hasCustomBet": 1,
+        "id": 3596249,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426127717,
+                        "name": "Napoli",
+                        "odds": "1.76",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426127727,
                         "name": "Draw",
                         "odds": "3.77",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415525457,
-                        "name": "AC Milan",
-                        "odds": "4.12",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 2174,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160294,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 89,
-                "name": "Fiorentina"
-            },
-            {
-                "id": 93,
-                "name": "Lazio"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-05T19:45:00.000Z",
-        "dateTimestamp": 1644090300000,
-        "hasCustomBet": 0,
-        "id": 3469715,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415527377,
+                        "id": 2426127701,
                         "name": "Fiorentina",
-                        "odds": "2.35",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415527449,
-                        "name": "Draw",
-                        "odds": "3.50",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415527493,
-                        "name": "Lazio",
-                        "odds": "2.90",
+                        "odds": "4.52",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -187,7 +447,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5312,
+        "smsId": 1429,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -195,410 +455,20 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 28160290,
+        "betgeniusId": 8258869,
+        "betradarId": 28160462,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 84,
-                "name": "Atalanta"
+                "id": 97,
+                "name": "Roma"
             },
-            {
-                "id": 86,
-                "name": "Cagliari"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T11:30:00.000Z",
-        "dateTimestamp": 1644147000000,
-        "hasCustomBet": 0,
-        "id": 3469705,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415525183,
-                        "name": "Atalanta",
-                        "odds": "1.26",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415525201,
-                        "name": "Draw",
-                        "odds": "6.25",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415525241,
-                        "name": "Cagliari",
-                        "odds": "9.88",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 2555,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160292,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 85,
-                "name": "Bologna"
-            },
-            {
-                "id": 489,
-                "name": "Empoli"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T14:00:00.000Z",
-        "dateTimestamp": 1644156000000,
-        "hasCustomBet": 0,
-        "id": 3469701,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415524421,
-                        "name": "Bologna",
-                        "odds": "1.98",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524497,
-                        "name": "Draw",
-                        "odds": "3.72",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524575,
-                        "name": "Empoli",
-                        "odds": "3.57",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 1920,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160308,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 84227,
-                "name": "Venezia"
-            },
-            {
-                "id": 100,
-                "name": "Napoli"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T14:00:00.000Z",
-        "dateTimestamp": 1644156000000,
-        "hasCustomBet": 0,
-        "id": 3469711,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415526045,
-                        "name": "Venezia",
-                        "odds": "5.83",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415526171,
-                        "name": "Draw",
-                        "odds": "4.53",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415526239,
-                        "name": "Napoli",
-                        "odds": "1.51",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 2999,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160304,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 98,
-                "name": "Sampdoria"
-            },
-            {
-                "id": 498,
-                "name": "Sassuolo"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T14:00:00.000Z",
-        "dateTimestamp": 1644156000000,
-        "hasCustomBet": 0,
-        "id": 3469717,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415527845,
-                        "name": "Sampdoria",
-                        "odds": "2.86",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415527869,
-                        "name": "Draw",
-                        "odds": "3.62",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415527957,
-                        "name": "Sassuolo",
-                        "odds": "2.33",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 5487,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160306,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 102,
-                "name": "Udinese"
-            },
-            {
-                "id": 101,
-                "name": "Torino"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T17:00:00.000Z",
-        "dateTimestamp": 1644166800000,
-        "hasCustomBet": 0,
-        "id": 3469697,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415524071,
-                        "name": "Udinese",
-                        "odds": "2.87",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524073,
-                        "name": "Draw",
-                        "odds": "3.23",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524119,
-                        "name": "Torino",
-                        "odds": "2.52",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 5254,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160298,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 92,
-                "name": "Juventus"
-            },
-            {
-                "id": 502,
-                "name": "Verona"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-06T19:45:00.000Z",
-        "dateTimestamp": 1644176700000,
-        "hasCustomBet": 0,
-        "id": 3469699,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2415524159,
-                        "name": "Juventus",
-                        "odds": "1.64",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524223,
-                        "name": "Draw",
-                        "odds": "4.01",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2415524285,
-                        "name": "Verona",
-                        "odds": "5.15",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 3594,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160302,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
             {
                 "id": 84171,
                 "name": "Salernitana"
-            },
-            {
-                "id": 499,
-                "name": "Spezia"
             }
         ],
         "country": {
@@ -606,10 +476,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-07T19:45:00.000Z",
-        "dateTimestamp": 1644263100000,
-        "hasCustomBet": 0,
-        "id": 3469709,
+        "date": "2022-04-10T16:00:00.000Z",
+        "dateTimestamp": 1649606400000,
+        "hasCustomBet": 1,
+        "id": 3596223,
         "markets": [
             {
                 "columns": 3,
@@ -618,23 +488,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2415526647,
-                        "name": "Salernitana",
-                        "odds": "3.07",
+                        "id": 2426125431,
+                        "name": "Roma",
+                        "odds": "1.28",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2415526715,
+                        "id": 2426125437,
                         "name": "Draw",
-                        "odds": "3.38",
+                        "odds": "5.83",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2415526719,
-                        "name": "Spezia",
-                        "odds": "2.31",
+                        "id": 2426125441,
+                        "name": "Salernitana",
+                        "odds": "10.05",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -642,7 +512,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2660,
+        "smsId": 2396,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -650,20 +520,85 @@
         "state": {}
     },
     {
-        "betgeniusId": 0,
-        "betradarId": 28160318,
+        "betgeniusId": 8258878,
+        "betradarId": 28160466,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 93,
-                "name": "Lazio"
+                "id": 101,
+                "name": "Torino"
             },
+            {
+                "id": 83,
+                "name": "AC Milan"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-10T18:45:00.000Z",
+        "dateTimestamp": 1649616300000,
+        "hasCustomBet": 1,
+        "id": 3596233,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2426125601,
+                        "name": "Torino",
+                        "odds": "3.81",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125615,
+                        "name": "Draw",
+                        "odds": "3.46",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2426125625,
+                        "name": "AC Milan",
+                        "odds": "1.99",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 2795,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 8258870,
+        "betradarId": 28160450,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
             {
                 "id": 85,
                 "name": "Bologna"
+            },
+            {
+                "id": 98,
+                "name": "Sampdoria"
             }
         ],
         "country": {
@@ -671,10 +606,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-12T14:00:00.000Z",
-        "dateTimestamp": 1644674400000,
-        "hasCustomBet": 0,
-        "id": 3484219,
+        "date": "2022-04-11T18:45:00.000Z",
+        "dateTimestamp": 1649702700000,
+        "hasCustomBet": 1,
+        "id": 3596251,
         "markets": [
             {
                 "columns": 3,
@@ -683,23 +618,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416539797,
-                        "name": "Lazio",
-                        "odds": "1.68",
+                        "id": 2426127817,
+                        "name": "Bologna",
+                        "odds": "2.18",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416539811,
+                        "id": 2426127837,
                         "name": "Draw",
-                        "odds": "4.03",
+                        "odds": "3.36",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416539843,
-                        "name": "Bologna",
-                        "odds": "4.73",
+                        "id": 2426127833,
+                        "name": "Sampdoria",
+                        "odds": "3.36",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -707,7 +642,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5259,
+        "smsId": 5177,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -716,15 +651,15 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160322,
+        "betradarId": 28160486,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 100,
-                "name": "Napoli"
+                "id": 499,
+                "name": "Spezia"
             },
             {
                 "id": 91,
@@ -736,10 +671,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-12T17:00:00.000Z",
-        "dateTimestamp": 1644685200000,
+        "date": "2022-04-15T17:00:00.000Z",
+        "dateTimestamp": 1650042000000,
         "hasCustomBet": 0,
-        "id": 3484121,
+        "id": 3631553,
         "markets": [
             {
                 "columns": 3,
@@ -748,23 +683,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416531767,
-                        "name": "Napoli",
-                        "odds": "2.97",
+                        "id": 2428557725,
+                        "name": "Spezia",
+                        "odds": "7.64",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416531799,
+                        "id": 2428557801,
                         "name": "Draw",
-                        "odds": "3.47",
+                        "odds": "4.92",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416531803,
+                        "id": 2428557835,
                         "name": "Inter",
-                        "odds": "2.32",
+                        "odds": "1.39",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -772,7 +707,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 4064,
+        "smsId": 3291,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -781,72 +716,7 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160328,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 101,
-                "name": "Torino"
-            },
-            {
-                "id": 84227,
-                "name": "Venezia"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-12T19:45:00.000Z",
-        "dateTimestamp": 1644695100000,
-        "hasCustomBet": 0,
-        "id": 3484215,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2416538797,
-                        "name": "Torino",
-                        "odds": "1.50",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416538805,
-                        "name": "Draw",
-                        "odds": "4.32",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416538807,
-                        "name": "Venezia",
-                        "odds": "6.43",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 4840,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160320,
+        "betradarId": 28160480,
         "competition": {
             "id": 67358,
             "name": "Serie A"
@@ -857,8 +727,8 @@
                 "name": "AC Milan"
             },
             {
-                "id": 98,
-                "name": "Sampdoria"
+                "id": 90,
+                "name": "Genoa"
             }
         ],
         "country": {
@@ -866,10 +736,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T11:30:00.000Z",
-        "dateTimestamp": 1644751800000,
+        "date": "2022-04-15T19:00:00.000Z",
+        "dateTimestamp": 1650049200000,
         "hasCustomBet": 0,
-        "id": 3484213,
+        "id": 3631565,
         "markets": [
             {
                 "columns": 3,
@@ -878,23 +748,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416538325,
+                        "id": 2428559469,
                         "name": "AC Milan",
-                        "odds": "1.42",
+                        "odds": "1.35",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416538327,
+                        "id": 2428559535,
                         "name": "Draw",
-                        "odds": "4.82",
+                        "odds": "4.92",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416538329,
-                        "name": "Sampdoria",
-                        "odds": "7.04",
+                        "id": 2428559561,
+                        "name": "Genoa",
+                        "odds": "9.23",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -902,7 +772,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2381,
+        "smsId": 2205,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -911,15 +781,145 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160314,
+        "betradarId": 28160472,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 90,
-                "name": "Genoa"
+                "id": 86,
+                "name": "Cagliari"
+            },
+            {
+                "id": 498,
+                "name": "Sassuolo"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-16T10:30:00.000Z",
+        "dateTimestamp": 1650105000000,
+        "hasCustomBet": 0,
+        "id": 3631569,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428560855,
+                        "name": "Cagliari",
+                        "odds": "3.07",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428560889,
+                        "name": "Draw",
+                        "odds": "3.47",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428560939,
+                        "name": "Sassuolo",
+                        "odds": "2.27",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 5417,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160488,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 102,
+                "name": "Udinese"
+            },
+            {
+                "id": 489,
+                "name": "Empoli"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-16T12:30:00.000Z",
+        "dateTimestamp": 1650112200000,
+        "hasCustomBet": 0,
+        "id": 3631563,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428559963,
+                        "name": "Udinese",
+                        "odds": "1.98",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428560027,
+                        "name": "Draw",
+                        "odds": "3.57",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428560087,
+                        "name": "Empoli",
+                        "odds": "3.72",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1172,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160484,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 98,
+                "name": "Sampdoria"
             },
             {
                 "id": 84171,
@@ -931,10 +931,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T14:00:00.000Z",
-        "dateTimestamp": 1644760800000,
+        "date": "2022-04-16T12:30:00.000Z",
+        "dateTimestamp": 1650112200000,
         "hasCustomBet": 0,
-        "id": 3484109,
+        "id": 3631577,
         "markets": [
             {
                 "columns": 3,
@@ -943,23 +943,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416529283,
-                        "name": "Genoa",
-                        "odds": "1.83",
+                        "id": 2428562799,
+                        "name": "Sampdoria",
+                        "odds": "1.76",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416529295,
+                        "id": 2428562859,
                         "name": "Draw",
-                        "odds": "3.68",
+                        "odds": "3.77",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416529315,
+                        "id": 2428562913,
                         "name": "Salernitana",
-                        "odds": "4.24",
+                        "odds": "4.52",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -967,7 +967,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 2507,
+        "smsId": 5677,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -976,19 +976,19 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160312,
+        "betradarId": 28160474,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 489,
-                "name": "Empoli"
+                "id": 89,
+                "name": "Fiorentina"
             },
             {
-                "id": 86,
-                "name": "Cagliari"
+                "id": 84227,
+                "name": "Venezia"
             }
         ],
         "country": {
@@ -996,10 +996,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T14:00:00.000Z",
-        "dateTimestamp": 1644760800000,
+        "date": "2022-04-16T14:30:00.000Z",
+        "dateTimestamp": 1650119400000,
         "hasCustomBet": 0,
-        "id": 3484127,
+        "id": 3631583,
         "markets": [
             {
                 "columns": 3,
@@ -1008,23 +1008,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416533283,
-                        "name": "Empoli",
-                        "odds": "1.90",
+                        "id": 2428564433,
+                        "name": "Fiorentina",
+                        "odds": "1.46",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533295,
+                        "id": 2428564455,
                         "name": "Draw",
-                        "odds": "3.81",
+                        "odds": "4.52",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533307,
-                        "name": "Cagliari",
-                        "odds": "3.76",
+                        "id": 2428564477,
+                        "name": "Venezia",
+                        "odds": "6.83",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1032,7 +1032,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 1568,
+        "smsId": 2618,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -1041,19 +1041,19 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160316,
+        "betradarId": 28160476,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 502,
-                "name": "Verona"
+                "id": 92,
+                "name": "Juventus"
             },
             {
-                "id": 102,
-                "name": "Udinese"
+                "id": 85,
+                "name": "Bologna"
             }
         ],
         "country": {
@@ -1061,10 +1061,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T14:00:00.000Z",
-        "dateTimestamp": 1644760800000,
+        "date": "2022-04-16T16:30:00.000Z",
+        "dateTimestamp": 1650126600000,
         "hasCustomBet": 0,
-        "id": 3484131,
+        "id": 3631587,
         "markets": [
             {
                 "columns": 3,
@@ -1073,23 +1073,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416533627,
-                        "name": "Verona",
-                        "odds": "1.94",
+                        "id": 2428564157,
+                        "name": "Juventus",
+                        "odds": "1.47",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533645,
+                        "id": 2428564163,
                         "name": "Draw",
-                        "odds": "3.63",
+                        "odds": "4.22",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533651,
-                        "name": "Udinese",
-                        "odds": "3.78",
+                        "id": 2428564181,
+                        "name": "Bologna",
+                        "odds": "7.33",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1097,7 +1097,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5306,
+        "smsId": 3165,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -1106,15 +1106,80 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160324,
+        "betradarId": 28160478,
         "competition": {
             "id": 67358,
             "name": "Serie A"
         },
         "competitors": [
             {
-                "id": 498,
-                "name": "Sassuolo"
+                "id": 93,
+                "name": "Lazio"
+            },
+            {
+                "id": 101,
+                "name": "Torino"
+            }
+        ],
+        "country": {
+            "id": 94,
+            "iso": "ita",
+            "name": "Italy"
+        },
+        "date": "2022-04-16T18:45:00.000Z",
+        "dateTimestamp": 1650134700000,
+        "hasCustomBet": 0,
+        "id": 3631585,
+        "markets": [
+            {
+                "columns": 3,
+                "columnsApp": 3,
+                "id": 10,
+                "name": "3 Way",
+                "selections": [
+                    {
+                        "id": 2428564317,
+                        "name": "Lazio",
+                        "odds": "1.76",
+                        "shortName": "1",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428564365,
+                        "name": "Draw",
+                        "odds": "3.77",
+                        "shortName": "X",
+                        "specValue": 0
+                    },
+                    {
+                        "id": 2428564373,
+                        "name": "Torino",
+                        "odds": "4.52",
+                        "shortName": "2",
+                        "specValue": 0
+                    }
+                ]
+            }
+        ],
+        "marketsCount": 22,
+        "smsId": 1805,
+        "sport": {
+            "id": 1,
+            "name": "Football"
+        },
+        "state": {}
+    },
+    {
+        "betgeniusId": 0,
+        "betradarId": 28160482,
+        "competition": {
+            "id": 67358,
+            "name": "Serie A"
+        },
+        "competitors": [
+            {
+                "id": 100,
+                "name": "Napoli"
             },
             {
                 "id": 97,
@@ -1126,10 +1191,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T17:00:00.000Z",
-        "dateTimestamp": 1644771600000,
+        "date": "2022-04-18T17:00:00.000Z",
+        "dateTimestamp": 1650301200000,
         "hasCustomBet": 0,
-        "id": 3484221,
+        "id": 3631613,
         "markets": [
             {
                 "columns": 3,
@@ -1138,23 +1203,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416539681,
-                        "name": "Sassuolo",
-                        "odds": "3.12",
+                        "id": 2428570397,
+                        "name": "Napoli",
+                        "odds": "1.99",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416539717,
+                        "id": 2428570425,
                         "name": "Draw",
-                        "odds": "3.58",
+                        "odds": "3.57",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416539747,
+                        "id": 2428570443,
                         "name": "Roma",
-                        "odds": "2.20",
+                        "odds": "3.67",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1162,7 +1227,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 4883,
+        "smsId": 2456,
         "sport": {
             "id": 1,
             "name": "Football"
@@ -1171,7 +1236,7 @@
     },
     {
         "betgeniusId": 0,
-        "betradarId": 28160310,
+        "betradarId": 28160470,
         "competition": {
             "id": 67358,
             "name": "Serie A"
@@ -1182,8 +1247,8 @@
                 "name": "Atalanta"
             },
             {
-                "id": 92,
-                "name": "Juventus"
+                "id": 502,
+                "name": "Verona"
             }
         ],
         "country": {
@@ -1191,10 +1256,10 @@
             "iso": "ita",
             "name": "Italy"
         },
-        "date": "2022-02-13T19:45:00.000Z",
-        "dateTimestamp": 1644781500000,
+        "date": "2022-04-18T19:00:00.000Z",
+        "dateTimestamp": 1650308400000,
         "hasCustomBet": 0,
-        "id": 3484129,
+        "id": 3631621,
         "markets": [
             {
                 "columns": 3,
@@ -1203,23 +1268,23 @@
                 "name": "3 Way",
                 "selections": [
                     {
-                        "id": 2416533015,
+                        "id": 2428572173,
                         "name": "Atalanta",
-                        "odds": "2.56",
+                        "odds": "1.66",
                         "shortName": "1",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533021,
+                        "id": 2428572197,
                         "name": "Draw",
-                        "odds": "3.31",
+                        "odds": "4.04",
                         "shortName": "X",
                         "specValue": 0
                     },
                     {
-                        "id": 2416533107,
-                        "name": "Juventus",
-                        "odds": "2.76",
+                        "id": 2428572275,
+                        "name": "Verona",
+                        "odds": "4.84",
                         "shortName": "2",
                         "specValue": 0
                     }
@@ -1227,72 +1292,7 @@
             }
         ],
         "marketsCount": 22,
-        "smsId": 5440,
-        "sport": {
-            "id": 1,
-            "name": "Football"
-        },
-        "state": {}
-    },
-    {
-        "betgeniusId": 0,
-        "betradarId": 28160326,
-        "competition": {
-            "id": 67358,
-            "name": "Serie A"
-        },
-        "competitors": [
-            {
-                "id": 499,
-                "name": "Spezia"
-            },
-            {
-                "id": 89,
-                "name": "Fiorentina"
-            }
-        ],
-        "country": {
-            "id": 94,
-            "iso": "ita",
-            "name": "Italy"
-        },
-        "date": "2022-02-14T19:45:00.000Z",
-        "dateTimestamp": 1644867900000,
-        "hasCustomBet": 0,
-        "id": 3484207,
-        "markets": [
-            {
-                "columns": 3,
-                "columnsApp": 3,
-                "id": 10,
-                "name": "3 Way",
-                "selections": [
-                    {
-                        "id": 2416537451,
-                        "name": "Spezia",
-                        "odds": "4.02",
-                        "shortName": "1",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416537473,
-                        "name": "Draw",
-                        "odds": "3.72",
-                        "shortName": "X",
-                        "specValue": 0
-                    },
-                    {
-                        "id": 2416537513,
-                        "name": "Fiorentina",
-                        "odds": "1.86",
-                        "shortName": "2",
-                        "specValue": 0
-                    }
-                ]
-            }
-        ],
-        "marketsCount": 22,
-        "smsId": 2142,
+        "smsId": 4808,
         "sport": {
             "id": 1,
             "name": "Football"
