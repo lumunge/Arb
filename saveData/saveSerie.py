@@ -1,16 +1,14 @@
 import time
 import json
-import sqlite3
-from sqlite3 import Error
+import os
+import sys
 
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
+DBPATH = os.path.abspath(os.path.join(
+    os.path.dirname(__file__), 
+    os.pardir))
+sys.path.append(DBPATH)
+
+import database
 
 
 def formatString(str):
@@ -98,7 +96,7 @@ def returnKey(str):
 # save records
 def saveSportPesaSA():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/SAJson/sportPesaSA.json")
     data = json.load(f)
     with conn:
@@ -118,7 +116,7 @@ def saveSportPesaSA():
 
 def saveBetikaSA():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json//SAJson/betikaSA.json")
     data = json.load(f)
     with conn:
@@ -137,7 +135,7 @@ def saveBetikaSA():
 
 def saveBet22SA():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/SAJson/22betSA.json")
     data = json.load(f)
     with conn:
@@ -156,7 +154,7 @@ def saveBet22SA():
 
 def saveMelSA():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/SAJson/melbetSA.json")
     data = json.load(f)
     with conn:
@@ -175,7 +173,7 @@ def saveMelSA():
 
 def save1XSA():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/SAJson/1xbetSA.json")
     data = json.load(f)
     with conn:
@@ -194,7 +192,7 @@ def save1XSA():
 
 def combineRecords():
     db = "../database/serieA.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     combineSASql = """INSERT INTO SACombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
 FROM sportpesaSA sp, betikaSA as btk, bet22SA as btt, melSA as ml, x1betSA as x1

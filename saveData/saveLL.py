@@ -1,16 +1,14 @@
 import time
 import json
-import sqlite3
-from sqlite3 import Error
+import os
+import sys
 
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
+DBPATH = os.path.abspath(os.path.join(
+    os.path.dirname(__file__), 
+    os.pardir))
+sys.path.append(DBPATH)
+
+import database
 
 
 def formatString(str):
@@ -98,7 +96,7 @@ def returnKey(str):
 # save records
 def saveSportPesaLL():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/LLJson/sportPesaLaLiga.json")
     data = json.load(f)
     with conn:
@@ -118,7 +116,7 @@ def saveSportPesaLL():
 
 def saveBetikaLL():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/LLJson/betikaLaLiga.json")
     data = json.load(f)
     with conn:
@@ -137,7 +135,7 @@ def saveBetikaLL():
 
 def saveBet22LL():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/LLJson/22betLaLiga.json")
     data = json.load(f)
     with conn:
@@ -156,7 +154,7 @@ def saveBet22LL():
 
 def saveMelLL():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/LLJson/melbetLaLiga.json")
     data = json.load(f)
     with conn:
@@ -175,7 +173,7 @@ def saveMelLL():
 
 def save1XLL():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/LLJson/1xbetLaLiga.json")
     data = json.load(f)
     with conn:
@@ -194,7 +192,7 @@ def save1XLL():
 
 def combineRecords():
     db = "../database/laLiga.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     combineLaLigaSql = """INSERT INTO LLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
 FROM sportpesaLaLiga sp, betikaLaLiga as btk, bet22LaLiga as btt, melLaLiga as ml, x1betLaLiga as x1

@@ -1,16 +1,14 @@
 import time
 import json
-import sqlite3
-from sqlite3 import Error
+import os
+import sys
 
-# DB CONNECTION
-def createConnection(db):
-    conn = None
-    try:
-        conn = sqlite3.connect(db)
-    except Error as e:
-        print(e)
-    return conn
+DBPATH = os.path.abspath(os.path.join(
+    os.path.dirname(__file__), 
+    os.pardir))
+sys.path.append(DBPATH)
+
+import database
 
 
 def formatString(str):
@@ -98,7 +96,7 @@ def returnKey(str):
 # save records
 def saveSportPesaPL():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/PLJson/sportPesaPremierLeague.json")
     data = json.load(f)
     with conn:
@@ -118,7 +116,7 @@ def saveSportPesaPL():
 
 def saveBetikaPL():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/PLJson/betikaPremierLeague.json")
     data = json.load(f)
     with conn:
@@ -137,7 +135,7 @@ def saveBetikaPL():
 
 def saveBet22PL():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/PLJson/22betPremierLeague.json")
     data = json.load(f)
     with conn:
@@ -156,7 +154,7 @@ def saveBet22PL():
 
 def saveMelPL():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/PLJson/melbetPremierLeague.json")
     data = json.load(f)
     with conn:
@@ -175,7 +173,7 @@ def saveMelPL():
 
 def save1XPL():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     f = open("../json/PLJson/1xbetPremierLeague.json")
     data = json.load(f)
     with conn:
@@ -194,7 +192,7 @@ def save1XPL():
 
 def combineRecords():
     db = "../database/premierLeague.db"
-    conn = createConnection(db)
+    conn = database.createConnection(db)
     combinePremierLeagueSql = """INSERT INTO pLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time)
 SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time
 FROM sportpesaPremierLeague sp, betikaPremierLeague as btk, bet22PremierLeague as btt, melPremierLeague as ml, x1betPremierLeague as x1
