@@ -21,4 +21,4 @@ echo "success!"
 sleep 2
 
 echo "printing data..."
-cd ../ && python3 calcPL.py
+cd ../calcOdds && python3 calcPL.py

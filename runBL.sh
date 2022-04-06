@@ -17,4 +17,4 @@ echo "saved data success!"
 sleep 2
 
 echo "printing data..."
-cd ../ && python3 calcBL.py
+cd ../calcOdds && python3 calcBL.py
