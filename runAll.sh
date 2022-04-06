@@ -1,0 +1,1 @@
+./runBL.sh && ./runLL.sh && ./runPL.sh && ./runSA.sh
