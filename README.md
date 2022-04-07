@@ -19,10 +19,10 @@ Arbitrage bet in sports betting is an activity where a bettor simultaneously pla
 
 #### Project Dependencies:
 
-requests
-sqlite3
-urllib
-json
+- requests
+- sqlite3
+- urllib
+- json
 
 #### How to use it?
 
