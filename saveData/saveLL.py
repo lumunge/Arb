@@ -3,9 +3,7 @@ import json
 import os
 import sys
 
-DBPATH = os.path.abspath(os.path.join(
-    os.path.dirname(__file__), 
-    os.pardir))
+DBPATH = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 sys.path.append(DBPATH)
 
 import database
@@ -62,7 +60,7 @@ def create1XBLLRecord(conn, record):
     return cur.lastrowid
 
 
-llTeams = {
+llTeams = {  # laliga teams
     "realsociedad": ["Real Sociedad"],
     "realmadrid": ["Real Madrid"],
     "sevilla": ["Sevilla FC", "SEVILLA", "Sevilla"],
@@ -206,11 +204,11 @@ AND sp.home_team=x1.home_team;"""
     print("Records combined!")
     return cur.lastrowid
 
-
-saveSportPesaLL()
-saveBetikaLL()
-saveBet22LL()
-saveMelLL()
-save1XLL()
-time.sleep(3)
-combineRecords()
+if __name__ == "__main__":
+    saveSportPesaLL()
+    saveBetikaLL()
+    saveBet22LL()
+    saveMelLL()
+    save1XLL()
+    time.sleep(3)
+    combineRecords()

@@ -1,5 +1,6 @@
 import conn as dbConn
 
+
 def truncateSATables():
     db = "./serieA.db"
     conn = dbConn.createConnection(db)
@@ -20,4 +21,5 @@ def truncateSATables():
     return cur.lastrowid
 
 
-truncateSATables()
+if __name__ == "__main__":
+    truncateSATables()

@@ -3,9 +3,7 @@ import json
 import os
 import sys
 
-DBPATH = os.path.abspath(os.path.join(
-    os.path.dirname(__file__), 
-    os.pardir))
+DBPATH = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 sys.path.append(DBPATH)
 
 import database
@@ -62,7 +60,7 @@ def create1XBPLRecord(conn, record):
     return cur.lastrowid
 
 
-pLTeams = {
+pLTeams = {  # premier league
     "arsenal": ["Arsenal"],
     "astonvilla": ["Aston Villa"],
     "brentford": ["Brentford"],
@@ -207,10 +205,11 @@ AND sp.home_team=x1.home_team;"""
     return cur.lastrowid
 
 
-saveSportPesaPL()
-saveBetikaPL()
-saveBet22PL()
-saveMelPL()
-save1XPL()
-time.sleep(3)
-combineRecords()
+if __name__ == "__main__":
+    saveSportPesaPL()
+    saveBetikaPL()
+    saveBet22PL()
+    saveMelPL()
+    save1XPL()
+    time.sleep(3)
+    combineRecords()

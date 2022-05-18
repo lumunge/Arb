@@ -3,9 +3,7 @@ import json
 import os
 import sys
 
-DBPATH = os.path.abspath(os.path.join(
-    os.path.dirname(__file__), 
-    os.pardir))
+DBPATH = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 sys.path.append(DBPATH)
 
 import database
@@ -207,10 +205,11 @@ AND sp.home_team=x1.home_team;"""
     return cur.lastrowid
 
 
-saveSportPesaSA()
-saveBetikaSA()
-saveBet22SA()
-saveMelSA()
-save1XSA()
-time.sleep(3)
-combineRecords()
+if __name__ == "__main__":
+    saveSportPesaSA()
+    saveBetikaSA()
+    saveBet22SA()
+    saveMelSA()
+    save1XSA()
+    time.sleep(3)
+    combineRecords()

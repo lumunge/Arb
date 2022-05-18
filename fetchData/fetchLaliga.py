@@ -19,8 +19,9 @@ def fetchLaLiga(url, jsonFile, site):
         o.write(resObj)
 
 
-fetchLaLiga(SportPesaLLURL, "../json/LLJson/sportPesaLaLiga.json", "sportpesa")
-fetchLaLiga(BetikaLLURL, "../json/LLJson/betikaLaLiga.json", "betika")
-fetchLaLiga(Bet22LLURL, "../json/LLJson/22betLaLiga.json", "22bet")
-fetchLaLiga(MelBetLLUrl, "../json/LLJson/melbetLaLiga.json", "melbet")
-fetchLaLiga(X1BetLLURL, "../json/LLJson/1xbetLaLiga.json", "1xbet")
+if __name__ == "__main__":
+    fetchLaLiga(SportPesaLLURL, "../json/LLJson/sportPesaLaLiga.json", "sportpesa")
+    fetchLaLiga(BetikaLLURL, "../json/LLJson/betikaLaLiga.json", "betika")
+    fetchLaLiga(Bet22LLURL, "../json/LLJson/22betLaLiga.json", "22bet")
+    fetchLaLiga(MelBetLLUrl, "../json/LLJson/melbetLaLiga.json", "melbet")
+    fetchLaLiga(X1BetLLURL, "../json/LLJson/1xbetLaLiga.json", "1xbet")

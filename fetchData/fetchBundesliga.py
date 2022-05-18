@@ -19,8 +19,11 @@ def fetchBundesLiga(url, jsonFile, site):
         o.write(resObj)
 
 
-fetchBundesLiga(SportPesaBLURL, "../json/BLJson/sportPesaBundesLiga.json", "sportpesa")
-fetchBundesLiga(BetikaBLURL, "../json/BLJson/betikaBundesLiga.json", "betika")
-fetchBundesLiga(Bet22BLURL, "../json/BLJson/22betBundesLiga.json", "22bet")
-fetchBundesLiga(MelBetBLUrl, "../json/BLJson/melbetBundesLiga.json", "melbet")
-fetchBundesLiga(X1BetBLURL, "../json/BLJson/1xbetBundesLiga.json", "1xbet")
+if __name__ == "__main__":
+    fetchBundesLiga(
+        SportPesaBLURL, "../json/BLJson/sportPesaBundesLiga.json", "sportpesa"
+    )
+    fetchBundesLiga(BetikaBLURL, "../json/BLJson/betikaBundesLiga.json", "betika")
+    fetchBundesLiga(Bet22BLURL, "../json/BLJson/22betBundesLiga.json", "22bet")
+    fetchBundesLiga(MelBetBLUrl, "../json/BLJson/melbetBundesLiga.json", "melbet")
+    fetchBundesLiga(X1BetBLURL, "../json/BLJson/1xbetBundesLiga.json", "1xbet")

@@ -19,10 +19,11 @@ def fetchPremierLeague(url, jsonFile, site):
         o.write(resObj)
 
 
-fetchPremierLeague(
-    SportPesaPLURL, "../json/PLJson/sportPesaPremierLeague.json", "sportpesa"
-)
-fetchPremierLeague(BetikaPLURL, "../json/PLJson/betikaPremierLeague.json", "betika")
-fetchPremierLeague(Bet22PLURL, "../json/PLJson/22betPremierLeague.json", "22bet")
-fetchPremierLeague(MelBetPLUrl, "../json/PLJson/melbetPremierLeague.json", "melbet")
-fetchPremierLeague(X1BetPLURL, "../json/PLJson/1xbetPremierLeague.json", "1xbet")
+if __name__ == "__main__":
+    fetchPremierLeague(
+        SportPesaPLURL, "../json/PLJson/sportPesaPremierLeague.json", "sportpesa"
+    )
+    fetchPremierLeague(BetikaPLURL, "../json/PLJson/betikaPremierLeague.json", "betika")
+    fetchPremierLeague(Bet22PLURL, "../json/PLJson/22betPremierLeague.json", "22bet")
+    fetchPremierLeague(MelBetPLUrl, "../json/PLJson/melbetPremierLeague.json", "melbet")
+    fetchPremierLeague(X1BetPLURL, "../json/PLJson/1xbetPremierLeague.json", "1xbet")

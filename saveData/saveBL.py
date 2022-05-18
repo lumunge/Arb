@@ -3,9 +3,7 @@ import json
 import os
 import sys
 
-DBPATH = os.path.abspath(os.path.join(
-    os.path.dirname(__file__), 
-    os.pardir))
+DBPATH = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 sys.path.append(DBPATH)
 
 import database
@@ -13,7 +11,7 @@ import database
 
 def formatString(str):
     joinedStr = str.replace(" ", "")
-    trimmedStr = joinedStr[0:7]
+    # trimmedStr = joinedStr[0:7]
     return joinedStr.lower()
 
 
@@ -21,7 +19,7 @@ def formatDate(date):
     return date[5:16]
 
 
-bLTeams = {
+bLTeams = {  # bundesliga teams
     "bayern": ["Bayern Munchen", "BAYERN", "Bayern Munich"],
     "dortmund": ["Borussia Dortmund", "DORTMUND"],
     "freiburg": ["SC Freiburg", "FREIBURG", "Freiburg"],
@@ -91,7 +89,7 @@ def create1XBBLRecord(conn, record):
     return cur.lastrowid
 
 
-# save records
+# save records to database
 def saveSportPesaBL():
     db = "../database/bundesliga.db"
     conn = database.createConnection(db)
@@ -188,7 +186,7 @@ def save1XBL():
     print("saved 1xbet bundesliga!!")
 
 
-def combineRecords():
+def combineRecords():  # combine table columns
     db = "../database/bundesliga.db"
     conn = database.createConnection(db)
     combineBundesligaSql = f"""INSERT INTO bLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
@@ -205,10 +203,11 @@ AND sp.home_team=x1.home_team"""
     return cur.lastrowid
 
 
-saveSportPesaBL()
-saveBetikaBL()
-saveBet22BL()
-saveMelBL()
-save1XBL()
-time.sleep(3)
-combineRecords()
+if __name__ == "__main__":  # entry
+    saveSportPesaBL()
+    saveBetikaBL()
+    saveBet22BL()
+    saveMelBL()
+    save1XBL()
+    time.sleep(3)
+    combineRecords()

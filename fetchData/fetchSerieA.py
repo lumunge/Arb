@@ -19,8 +19,9 @@ def fetchSA(url, jsonFile, site):
         o.write(resObj)
 
 
-fetchSA(SportPesaSAURL, "../json/SAJson/sportPesaSA.json", "sportpesa")
-fetchSA(BetikaSAURL, "../json/SAJson/betikaSA.json", "betika")
-fetchSA(Bet22SAURL, "../json/SAJson/22betSA.json", "22bet")
-fetchSA(MelBetSAUrl, "../json/SAJson/melbetSA.json", "melbet")
-fetchSA(X1BetSAURL, "../json/SAJson/1xbetSA.json", "1xbet")
+if __name__ == "__main__":
+    fetchSA(SportPesaSAURL, "../json/SAJson/sportPesaSA.json", "sportpesa")
+    fetchSA(BetikaSAURL, "../json/SAJson/betikaSA.json", "betika")
+    fetchSA(Bet22SAURL, "../json/SAJson/22betSA.json", "22bet")
+    fetchSA(MelBetSAUrl, "../json/SAJson/melbetSA.json", "melbet")
+    fetchSA(X1BetSAURL, "../json/SAJson/1xbetSA.json", "1xbet")

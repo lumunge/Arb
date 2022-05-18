@@ -156,8 +156,9 @@ def get1XBlData():
     f.close()
 
 
-# getSportPesaBLData()
-# getBetikaBLData()
-# get22BetBLData()
-# getMlBLData()
-# get1XBlData()
+# if __name__ == "__main__":
+#     getSportPesaBLData()
+#     getBetikaBLData()
+#     get22BetBLData()
+#     getMlBLData()
+#     get1XBlData()

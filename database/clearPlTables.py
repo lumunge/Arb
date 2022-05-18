@@ -1,5 +1,6 @@
 import conn as dbConn
 
+
 def truncatePlTables():
     db = "./premierLeague.db"
     conn = dbConn.createConnection(db)
@@ -20,4 +21,5 @@ def truncatePlTables():
     return cur.lastrowid
 
 
-truncatePlTables()
+if __name__ == "__main__":
+    truncatePlTables()
