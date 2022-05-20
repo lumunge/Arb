@@ -4,7 +4,5 @@
 mkdir json; cd json; mkdir BLJson LLJson PLJson SAJson;
 
 # create local database
-cd ../database; touch bundesliga.db laLiga.db premierLeague.db serieA.db;
-
-cd ../utils; python3 create_dbtables.py
+cd ../database; touch bundesliga.db laLiga.db premierLeague.db serieA.db; python3 create_dbtables.py
 

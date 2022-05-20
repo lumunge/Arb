@@ -28,8 +28,11 @@ Arbitrage bet in sports betting is an activity where a bettor simultaneously pla
 
 The scripts will fetch odds from the various betting sites and different leagues then print all odds in an organized manner in a bash terminal. Also, note that [termux](https://play.google.com/store/apps/details?id=com.termux) can be used to execute the scripts from an android phone. From the output, there will be probabilities highlighted in green color which are less than 100%. These are the arbitrage opportunities. Once the odds are printed this [Arbitrage calculator](https://thearbacademy.com/arbitrage-betting-calculator/) is useful to determine the stakes to place and profits. This code only covers 3-way bets so in the calculator the bettor has to place three bets(three odds).
 
-1. git clone https://github.com/lumunge/Arb.git
-   This step downloads the reposiroty into a local directory on the system.
+1. To get started we execute the following script to download the source code to a local directory;
+
+```
+$ git clone https://github.com/lumunge/Arb.git
+```
 
 2. We make sure the repo is successfully downloaded.
 
@@ -58,7 +61,19 @@ To deactivate a python environment, we write;
 $ deactivate
 ```
 
-4. We are not ready to run the scripts.
+4. We are now ready to run the scripts.
+
+- We first make sure all the shell scripts can be executed by providing appropriate permissions;
+
+```
+$ chmod +x *.sh
+```
+
+- Next we run the initialization script that creates json directories and databases with tables for data cleaning and processing(For this step to work make sure [sqlite3](https://linuxhint.com/install-sqlite-ubuntu-linux-mint/) in installed);
+
+```
+$ ./start_here.sh
+```
 
 - To look for arbitrage opportunities in the Bundesliga execute the command;
 
