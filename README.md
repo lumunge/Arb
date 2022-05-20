@@ -28,6 +28,62 @@ Arbitrage bet in sports betting is an activity where a bettor simultaneously pla
 
 The scripts will fetch odds from the various betting sites and different leagues then print all odds in an organized manner in a bash terminal. Also, note that [termux](https://play.google.com/store/apps/details?id=com.termux) can be used to execute the scripts from an android phone. From the output, there will be probabilities highlighted in green color which are less than 100%. These are the arbitrage opportunities. Once the odds are printed this [Arbitrage calculator](https://thearbacademy.com/arbitrage-betting-calculator/) is useful to determine the stakes to place and profits. This code only covers 3-way bets so in the calculator the bettor has to place three bets(three odds).
 
+1. git clone https://github.com/lumunge/Arb.git
+   This step downloads the reposiroty into a local directory on the system.
+
+2. We make sure the repo is successfully downloaded.
+
+3. We install all project requirements.
+
+```
+$ pip install -r requirements.txt
+```
+
+It is advisable to do this in a python virtual environment.
+To create a virtual environment we write;
+
+```
+$ virtualenv [Name of virtual environment]
+```
+
+Once created we activate it as follows;
+
+```
+$ source [path to activation script]
+```
+
+To deactivate a python environment, we write;
+
+```
+$ deactivate
+```
+
+4. We are not ready to run the scripts.
+
+- To look for arbitrage opportunities in the Bundesliga execute the command;
+
+```
+$ ./runBL.sh
+```
+
+- For arbitrage opportunities in the premier league execute the command;
+
+```
+$ ./runPL.sh
+```
+
+- For opportunities in Series A league, execute the command;
+
+```
+$ ./runSA.sh
+```
+
+- For La Liga opportunities write;
+
+```
+$ ./runLL/sh
+```
+
 #### Disclaimer
 
 This is intended purely as an experiment. I do not recommend that anyone pursue the arbitrage opportunities provided by this code with real money. There are many factors involved to ensure a profit such as tax, odds fluctuating, and much more. Also, bookmakers don't like to lose. That said, I will not be devoting any time to maintaining this repository, and as such bugs can present themselves and therefore challenge the authenticity of an arb. In addition to this, arbitrage betting is a risky endeavor even with the right data.
