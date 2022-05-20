@@ -179,7 +179,7 @@ def create_database_tables():
     conn1.commit()
     conn2.commit()
     conn3.commit()
-    print("### Tables Generated Successfully!! ###")
+    print("### SUCCESS!! ###")
 
 if __name__ == "__main__":  # entry
     create_database_tables()

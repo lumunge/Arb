@@ -75,6 +75,8 @@ $ chmod +x *.sh
 $ ./start_here.sh
 ```
 
+If the above script executed successfully we execute the text "### SUCCESS!! ###" to be printed.
+
 - To look for arbitrage opportunities in the Bundesliga execute the command;
 
 ```
@@ -93,11 +95,19 @@ $ ./runPL.sh
 $ ./runSA.sh
 ```
 
-- For La Liga opportunities write;
+- For La Liga opportunities we write;
 
 ```
 $ ./runLL/sh
 ```
+
+- For all opportunities we write;
+
+```
+$ ./runLL/sh
+```
+
+Arbitrage opportunities are highlighted in a green color as shown below;
 
 #### Disclaimer
 
