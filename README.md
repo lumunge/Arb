@@ -37,7 +37,8 @@ $ git clone https://github.com/lumunge/Arb.git
 ![arb1](https://github.com/lumunge/Arb/blob/master/img/arb1.png)
 
 2. We make sure the repo is successfully downloaded.
-   ![arb6](https://github.com/lumunge/Arb/blob/master/img/arb6.png)
+
+![arb6](https://github.com/lumunge/Arb/blob/master/img/arb6.png)
 
 3. We install all project requirements.
 
