@@ -23,6 +23,8 @@ Arbitrage bet in sports betting is an activity where a bettor simultaneously pla
 - sqlite3
 - urllib
 - json
+- pandas
+- numpy
 
 #### How to use it?
 
