@@ -34,13 +34,18 @@ The scripts will fetch odds from the various betting sites and different leagues
 $ git clone https://github.com/lumunge/Arb.git
 ```
 
+![arb1](https://github.com/lumunge/Arb/blob/master/img/arb1.png)
+
 2. We make sure the repo is successfully downloaded.
+   ![arb6](https://github.com/lumunge/Arb/blob/master/img/arb6.png)
 
 3. We install all project requirements.
 
 ```
 $ pip install -r requirements.txt
 ```
+
+![arb4](https://github.com/lumunge/Arb/blob/master/img/arb4.png)
 
 It is advisable to do this in a python virtual environment.
 To create a virtual environment we write;
@@ -49,11 +54,15 @@ To create a virtual environment we write;
 $ virtualenv [Name of virtual environment]
 ```
 
+![arb2](https://github.com/lumunge/Arb/blob/master/img/arb2.png)
+
 Once created we activate it as follows;
 
 ```
 $ source [path to activation script]
 ```
+
+![arb3](https://github.com/lumunge/Arb/blob/master/img/arb3.png)
 
 To deactivate a python environment, we write;
 
@@ -108,6 +117,7 @@ $ ./runLL/sh
 ```
 
 Arbitrage opportunities are highlighted in a green color as shown below;
+![arb5](https://github.com/lumunge/Arb/blob/master/img/arb5.png)
 
 #### Disclaimer
 
