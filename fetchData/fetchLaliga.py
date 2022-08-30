@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Bundesliga URLS
+# LaLiga URLS
 SportPesaLLURL = "https://www.ke.sportpesa.com/api/upcoming/games?type=prematch&sportId=1&section=top&leagueId=76837&markets_layout=multiple&o=startTime"
 BetikaLLURL = "https://api.betika.com/v1/uo/matches?tab=upcoming&sub_type_id=1,186&sport_id=14&tag_id=&competition_id=14482&sort_id=2&period_id=9&esports=false"
 Bet22LLURL = "https://22bet.co.ke/LineFeed/Get1x2_VZip?sports=1&champs=127733&count=50&lng=en&tf=3000000&mode=4&partner=151&getEmpty=true"
