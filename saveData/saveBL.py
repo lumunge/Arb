@@ -65,28 +65,6 @@ def createBBLRecord(conn, record):
     return cur.lastrowid
 
 
-def createB22BLRecord(conn, record):
-    bet22sql = """INSERT OR IGNORE INTO bet22Bundesliga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(bet22sql, record)
-    conn.commit()
-    return cur.lastrowid
-
-
-def createMLBLRecord(conn, record):
-    mlsql = """INSERT OR IGNORE INTO melBundesliga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(mlsql, record)
-    conn.commit()
-    return cur.lastrowid
-
-
-def create1XBBLRecord(conn, record):
-    x1sql = """INSERT OR IGNORE INTO x1betBundesliga(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(x1sql, record)
-    conn.commit()
-    return cur.lastrowid
 
 
 # save records to database
@@ -129,73 +107,14 @@ def saveBetikaBL():
     print("saved betika bundesliga!!")
 
 
-def saveBet22BL():
-    db = "../database/bundesliga.db"
-    conn = database.createConnection(db)
-    f = open("../json/BLJson/22betBundesLiga.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            createB22BLRecord(conn, record)
-    f.close()
-    print("saved 22 bet bundesliga!!")
-
-
-def saveMelBL():
-    db = "../database/bundesliga.db"
-    conn = database.createConnection(db)
-    f = open("../json/BLJson/melbetBundesLiga.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            createMLBLRecord(conn, record)
-    f.close()
-    print("saved melbet bundesliga!!")
-
-
-def save1XBL():
-    db = "../database/bundesliga.db"
-    conn = database.createConnection(db)
-    f = open("../json/BLJson/1xbetBundesLiga.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            create1XBBLRecord(conn, record)
-    f.close()
-    print("saved 1xbet bundesliga!!")
-
 
 def combineRecords():  # combine table columns
     db = "../database/bundesliga.db"
     conn = database.createConnection(db)
-    combineBundesligaSql = f"""INSERT INTO bLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
-SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
-FROM sportpesaBundesliga sp, betikaBundesliga as btk, bet22Bundesliga as btt, melBundesliga as ml, x1betBundesliga as x1
-WHERE sp.home_team=btk.home_team
-AND sp.home_team=btt.home_team
-AND sp.home_team=ml.home_team
-AND sp.home_team=x1.home_team"""
+    combineBundesligaSql = f"""INSERT INTO bLCombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, time) 
+SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, sp.start_time 
+FROM sportpesaBundesliga sp, betikaBundesliga as btk
+WHERE sp.home_team=btk.home_team;"""
     cur = conn.cursor()
     cur.execute(combineBundesligaSql)
     conn.commit()
@@ -206,8 +125,5 @@ AND sp.home_team=x1.home_team"""
 if __name__ == "__main__":  # entry
     saveSportPesaBL()
     saveBetikaBL()
-    saveBet22BL()
-    saveMelBL()
-    save1XBL()
     time.sleep(3)
     combineRecords()

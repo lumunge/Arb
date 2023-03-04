@@ -11,7 +11,7 @@ import database
 
 def getRecords():
     db = "../database/bundesliga.db"
-    conn = database.createConnection(db)
+    conn = database.conn.createConnection(db)
     getSpSql = """SELECT * FROM bLCombinations"""
     cur = conn.cursor()
     cur.execute(getSpSql)
@@ -25,15 +25,6 @@ def getRecords():
         5: "btkh",
         6: "btkx",
         7: "btka",
-        8: "bt22h",
-        9: "bt22x",
-        10: "bt22a",
-        11: "mlh",
-        12: "mlx",
-        13: "mla",
-        14: "x1h",
-        15: "x1x",
-        16: "x1a",
     }
     print(
         "{:<10} {:<10} {:<5} {:<10} {:<5} {:<10} {:<5} {:<10} {:<10} {:<15}".format(
@@ -62,7 +53,7 @@ def getRecords():
                     sites[j[2]],
                     i[j[2]],
                     utils.probability(i[j[0]], i[j[1]], i[j[2]]),
-                    i[17],
+                    i[8],
                 )
             )
         print(

@@ -63,79 +63,10 @@ def getBetikaPLData():
     f.close()
 
 
-def get22BetData():
-    f = open("../json/PLJson/22betPremierLeague.json")
-    data = json.load(f)
-    print(
-        "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
-            "Home_Team", "Away_Team", "hOdd", "nOdd", "aOdd", "Probability"
-        )
-    )
-    for i in data["Value"]:
-        if i["E"][0]["C"] == None or i["E"][1]["C"] == None or i["E"][2]["C"] == None:
-            continue
-        else:
-            print(
-                "{:<25} {:<25} {:<10} {:<10} {:<10} {:<15}".format(
-                    i["O1"],
-                    i["O2"],
-                    i["E"][0]["C"],
-                    i["E"][1]["C"],
-                    i["E"][2]["C"],
-                    probability(
-                        float(i["E"][0]["C"]),
-                        float(i["E"][1]["C"]),
-                        float(i["E"][2]["C"]),
-                    ),
-                )
-            )
-
-    f.close()
 
 
-def getMlPLData():
-    f = open("../json/PLJson/melbetPremierLeague.json")
-    data = json.load(f)
-    print(
-        "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-            "Home_Team", "Away_Team", "hOdd", "nOdd", "aOdd"
-        )
-    )
-    for i in data["Value"]:
-        print(
-            "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-                i["O1"],
-                i["O2"],
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-        )
-    f.close()
 
 
-# def getChPlData():
-#     f = open("./jsonFiles/chezaPremierLeague.json")
-#     data = json.load(f)
-#     print(
-#         "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-#             "Home_Team", "Away_Team", "hOdd", "nOdd", "aOdd"
-#         )
-#     )
-#     for i in data["games"]:
-#         print(
-#             "{:<25} {:<25} {:<10} {:<10} {:<10}".format(
-#                 i["name"].split("vs.")[0].strip(),
-#                 i["name"].split("vs.")[1].strip(),
-#                 i["betTypes"][0]["betLines"][0]["odds"],
-#                 i["betTypes"][0]["betLines"][1]["odds"],
-#                 i["betTypes"][0]["betLines"][2]["odds"],
-#             )
-#         )
-#     f.close()
-
-
-def get1XPlData():
     f = open("../json/PLJson/1xbetPremierLeague.json")
     data = json.load(f)
     print(
@@ -161,8 +92,3 @@ if __name__ == "__main__":
     print("-=====================================================")
     getBetikaPLData()
     print("-=====================================================")
-    get22BetData()
-    print("-=====================================================")
-    getMlPLData()
-    print("-=====================================================")
-    get1XPlData()

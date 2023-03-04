@@ -36,29 +36,6 @@ def createBSARecord(conn, record):
     return cur.lastrowid
 
 
-def createB22SARecord(conn, record):
-    bet22sql = """INSERT OR IGNORE INTO bet22SA(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(bet22sql, record)
-    conn.commit()
-    return cur.lastrowid
-
-
-def createMLSARecord(conn, record):
-    mlsql = """INSERT OR IGNORE INTO melSA(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(mlsql, record)
-    conn.commit()
-    return cur.lastrowid
-
-
-def create1XBSARecord(conn, record):
-    x1sql = """INSERT OR IGNORE INTO x1betSA(home_team, away_team, home_odd, neutral_odd, away_odd) VALUES(?, ?, ?, ?, ?)"""
-    cur = conn.cursor()
-    cur.execute(x1sql, record)
-    conn.commit()
-    return cur.lastrowid
-
 
 saTeams = {
     "napoli": ["Napoli", "NAPOLI"],
@@ -131,73 +108,14 @@ def saveBetikaSA():
     print("saved betika serie a!!")
 
 
-def saveBet22SA():
-    db = "../database/serieA.db"
-    conn = database.createConnection(db)
-    f = open("../json/SAJson/22betSA.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            createB22SARecord(conn, record)
-    f.close()
-    print("saved 22 bet serie a!!")
-
-
-def saveMelSA():
-    db = "../database/serieA.db"
-    conn = database.createConnection(db)
-    f = open("../json/SAJson/melbetSA.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            createMLSARecord(conn, record)
-    f.close()
-    print("saved melbet serie a!!")
-
-
-def save1XSA():
-    db = "../database/serieA.db"
-    conn = database.createConnection(db)
-    f = open("../json/SAJson/1xbetSA.json")
-    data = json.load(f)
-    with conn:
-        for i in data["Value"]:
-            record = (
-                returnKey(i["O1"]),
-                returnKey(i["O2"]),
-                i["E"][0]["C"],
-                i["E"][1]["C"],
-                i["E"][2]["C"],
-            )
-            create1XBSARecord(conn, record)
-    f.close()
-    print("saved 1xbet serie a!!")
-
 
 def combineRecords():
     db = "../database/serieA.db"
     conn = database.createConnection(db)
-    combineSASql = """INSERT INTO SACombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, bt22h, bt22x, bt22a, mlh, mlx, mla, x1h, x1x, x1a, time) 
-SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, btt.home_odd, btt.neutral_odd, btt.away_odd, ml.home_odd, ml.neutral_odd, ml.away_odd, x1.home_odd, x1.neutral_odd, x1.away_odd, sp.start_time 
-FROM sportpesaSA sp, betikaSA as btk, bet22SA as btt, melSA as ml, x1betSA as x1
-WHERE sp.home_team=btk.home_team
-AND sp.home_team=btt.home_team
-AND sp.home_team=ml.home_team
-AND sp.home_team=x1.home_team;"""
+    combineSASql = """INSERT INTO SACombinations (home_team, away_team, sph, spx, spa, btkh, btkx, btka, time) 
+SELECT sp.home_team, sp.away_team, sp.home_odd, sp.neutral_odd, sp.away_odd, btk.home_odd, btk.neutral_odd, btk.away_odd, sp.start_time 
+FROM sportpesaSA sp, betikaSA as btk
+WHERE sp.home_team=btk.home_team;"""
     cur = conn.cursor()
     cur.execute(combineSASql)
     conn.commit()
@@ -208,8 +126,5 @@ AND sp.home_team=x1.home_team;"""
 if __name__ == "__main__":
     saveSportPesaSA()
     saveBetikaSA()
-    saveBet22SA()
-    saveMelSA()
-    save1XSA()
     time.sleep(3)
     combineRecords()
